@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="60017">特殊直剑</text>
+<text id="60046">特殊刺剑</text>
+<text id="60086">镰刀</text>
+<text id="70100">狮子的攻势</text>
+<text id="70101">艾尔芙莉德的黑焰</text>
+<text id="70102">溃防连击</text>
+<text id="70103">掷羽</text>
+<text id="70104">战吼</text>
+<text id="70105">大地震怒</text>
+<text id="70106">吐火</text>
+<text id="70107">地鸣</text>
+<text id="70108">掷枪</text>
+<text id="70109">艾尔芙莉德的攻势</text>
+<text id="70110">猛禽连击</text>
+<text id="70111">地面射击</text>
+<text id="70112">觉醒</text>
+<text id="70113">送灵火</text>
+<text id="211111">艾雷德尔的绘画世界</text>
+<text id="211400">芙莉德修女</text>
+<text id="211401">雪原</text>
+<text id="211402">吊桥近窟</text>
+<text id="211403">鸦村</text>
+<text id="211404">覆雪山径</text>
+<text id="211405">艾雷德尔礼拜堂</text>
+<text id="211406">王者的守墓人</text>
+<text id="211407">绘画底端</text>
+<text id="211408">杜内尔的喘息</text>
+<text id="331150">参战者</text>
+<text id="331151">参战者</text>
+<text id="331152">参战者</text>
+<text id="331153">参战者</text>
+<text id="331154">参战者</text>
+<text id="331155">参战者</text>
+<text id="331156">参战者</text>
+<text id="331157">参战者</text>
+<text id="331158">参战者</text>
+<text id="331159">参战者</text>
+<text id="331200">击倒数</text>
+<text id="401330">艾雷德尔之烬</text>
+<text id="506000">不死竞技场</text>
+<text id="506100">竞技形式</text>
+<text id="506101">竞技场</text>
+<text id="506102">以暗号进行配对</text>
+<text id="506103">参战</text>
+<text id="506104">中止</text>
+<text id="506105">%null%</text>
+<text id="506106">%null%</text>
+<text id="506107">%null%</text>
+<text id="506108">%null%</text>
+<text id="506109">%null%</text>
+<text id="506110">名誉决斗</text>
+<text id="506111">名誉乱战、对战</text>
+<text id="506200">决斗</text>
+<text id="506201">乱战 (2人)</text>
+<text id="506202">乱战 (4人)</text>
+<text id="506203">乱战 (6人)</text>
+<text id="506204">对战 (2对2)</text>
+<text id="506205">对战 (3对3)</text>
+<text id="506206">乱战 (多人)</text>
+<text id="506207">对战 (多人)</text>
+<text id="506300">随机</text>
+<text id="506301">大屋顶</text>
+<text id="506302">古龙遗迹</text>
+<text id="506303">火炉</text>
+<text id="506400">1对1战斗，直到击倒对方为止
+无法使用原素瓶
+原素灰瓶仅能使用固定次数</text>
+<text id="506401">与所有人为敌
+共同竞争击倒的敌人数目
+原素瓶与原素灰瓶仅能使用固定次数</text>
+<text id="506402">与所有人为敌
+共同竞争击倒的敌人数目
+原素瓶与原素灰瓶仅能使用固定次数</text>
+<text id="506403">与所有人为敌
+共同竞争击倒的敌人数目
+原素瓶与原素灰瓶仅能使用固定次数</text>
+<text id="506404">分为2队，在限制时间内
+共同竞争击倒的敌人数目
+原素瓶与原素灰瓶仅能使用固定次数</text>
+<text id="506405">分为2队，在限制时间内
+共同竞争击倒的敌人数目
+原素瓶与原素灰瓶仅能使用固定次数</text>
+<text id="506406">加入乱战 (4人)或乱战 (6人)的战斗</text>
+<text id="506407">加入对战 (2对2)或对战 (3对3)的战斗</text>
+<text id="506500">最强参战者：&lt;?mvpName?&gt;</text>
+</entries>
+</fmg>

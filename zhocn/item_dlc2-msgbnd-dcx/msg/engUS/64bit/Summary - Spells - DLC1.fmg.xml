@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1313000">为右手武器注入冰霜</text>
+<text id="1313010">为右手武器注入冰霜</text>
+<text id="1741000">制造接近冰点的薄雾</text>
+<text id="1741010">制造几近冰冻的薄雾</text>
+<text id="2457000">召唤喷火混沌球</text>
+<text id="2457010">召唤喷火混沌球</text>
+<text id="3556000">白色铁饼切入敌人并返回召唤师</text>
+<text id="3556010">白色铁饼切入敌人并返回召唤师</text>
+</entries>
+</fmg>

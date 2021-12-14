@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="28501000">过时素色装束</text>
+<text id="28502000">过时紫罗兰服装</text>
+<text id="28503000">过时缠腰布</text>
+<text id="29500000">希拉的王冠</text>
+<text id="29501000">希拉的盔甲</text>
+<text id="29502000">希拉的手套</text>
+<text id="29503000">希拉的裤子</text>
+<text id="32000000">拉普的头盔</text>
+<text id="32001000">拉普的盔甲</text>
+<text id="32002000">拉普的护手</text>
+<text id="32003000">拉普的护腿</text>
+<text id="63500000">环印骑士兜帽</text>
+<text id="63501000">环印骑士盔甲</text>
+<text id="63502000">环印骑士护手</text>
+<text id="63503000">环印骑士护腿</text>
+<text id="64500000">哈兰德头部</text>
+<text id="64501000">哈兰德盔甲</text>
+<text id="64502000">哈兰德护手</text>
+<text id="64503000">哈兰德护腿</text>
+<text id="67500000">钢铁屠龙者头盔</text>
+<text id="67501000">钢铁屠龙者盔甲</text>
+<text id="67502000">钢铁屠龙者护手</text>
+<text id="67503000">钢铁屠龙者护腿</text>
+<text id="68500000">说客白色头部</text>
+<text id="80500000">虚空头盔</text>
+<text id="80501000">虚空盔甲</text>
+<text id="80502000">虚空护手</text>
+<text id="80503000">虚空护腿</text>
+<text id="81500000">沙漠咒术师兜帽</text>
+<text id="81501000">沙漠咒术师服装</text>
+<text id="81502000">沙漠咒术师手套</text>
+<text id="81503000">沙漠咒术师裙子</text>
+<text id="82500000">黑女巫帽</text>
+<text id="82501000">黑女巫服装</text>
+<text id="82502000">黑女巫包裹</text>
+<text id="82503000">黑女巫裤子</text>
+<text id="83500000">黑女巫面纱</text>
+<text id="84500000">眼罩面具</text>
+</entries>
+</fmg>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="102004">在30个项目之后，每个额外放置的项目将替换最旧的项目。仍然放置项目？</text>
+<text id="506013">友方战斗人员未及时出现，取消匹配</text>
+<text id="506014">可以在合作匹配中选择，密码适用于“全部”</text>
+<text id="506015">可以选择使用密码进行合作匹配</text>
+</entries>
+</fmg>

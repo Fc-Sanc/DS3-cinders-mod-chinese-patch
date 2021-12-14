@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506000">以当前设置加入亡灵比赛？</text>
+<text id="506001">请等待所有战斗人员加入。
+玩家总数：&lt;?matchTotalCount?&gt;
+剩余：&lt;?matchRemainingCount?&gt;</text>
+<text id="506002">所有战斗人员在场。
+搬到竞技场。</text>
+<text id="506003">%null%</text>
+<text id="506004">%null%</text>
+<text id="506005">%null%</text>
+<text id="506006">%null%</text>
+<text id="506007">%null%</text>
+<text id="506008">%null%</text>
+<text id="506009">%null%</text>
+<text id="506010">取消配对</text>
+<text id="506011">配对取消</text>
+<text id="506012">取消配对？</text>
+<text id="506013">%null%</text>
+<text id="506014">%null%</text>
+<text id="506015">%null%</text>
+<text id="506016">%null%</text>
+<text id="506017">%null%</text>
+<text id="506018">%null%</text>
+<text id="506019">%null%</text>
+<text id="506020">配对失败</text>
+<text id="506021">配对失败。
+未能创建会话。</text>
+<text id="506022">配对失败。
+加入会话失败。</text>
+<text id="506023">记录匹配结果失败。
+
+要重试，请选择是。
+
+要继续而不记录匹配结果，请选择否。</text>
+</entries>
+</fmg>

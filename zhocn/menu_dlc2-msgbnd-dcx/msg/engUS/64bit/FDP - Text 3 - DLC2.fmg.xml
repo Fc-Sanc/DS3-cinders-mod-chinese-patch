@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506005">在协作匹配中，使用它来选择一个团队。密码适用于“全部”时可以选择。</text>
+<text id="506006">在协作匹配中，使用它来选择是匹配两支球队还是仅匹配具有相同密码的一支球队。可以在使用密码时选择。</text>
+</entries>
+</fmg>

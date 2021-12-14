@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="21000">咬霜戒指</text>
+<text id="21001">咬霜戒指+1</text>
+<text id="21002">咬霜戒指+2</text>
+<text id="21003">咬霜戒指+3</text>
+<text id="21004">咬霜戒指+4</text>
+<text id="21005">咬霜戒指+5</text>
+</entries>
+</fmg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506000">选择匹配类型</text>
+<text id="506001">选择匹配位置</text>
+<text id="506002">编辑亡灵比赛密码。仅与使用相同密码的其他人匹配。</text>
+<text id="506003">进入一场亡灵比赛并开始寻找对手</text>
+<text id="506004">取消配对</text>
+</entries>
+</fmg>

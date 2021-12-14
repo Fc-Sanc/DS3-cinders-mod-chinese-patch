@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2301314">被召唤至其他世界</text>
+<text id="2311314">化为誓约灵──教堂之枪，入侵其他世界</text>
+<text id="2351413">请静待所有参战者到齐
+（共有&lt;?matchTotalCount?&gt;位参战，再等待我方&lt;?matchRemainingMyCount?&gt;位，敌方&lt;?matchRemainingEnemyCount?&gt;位）</text>
+<text id="2411314">无法入侵
+无法参加联机</text>
+<text id="2461314">已一段时间内没有响应
+故无法入侵</text>
+<text id="2491314">无法入侵</text>
+<text id="2521314">无法入侵
+参加联机失败</text>
+<text id="2600314">遭到誓约灵──教堂之枪&lt;?joinName?&gt;入侵！</text>
+<text id="2601314">已入侵侵扰安眠者&lt;?hostName?&gt;的世界</text>
+<text id="2601514">已入侵侵扰安眠者&lt;?hostName?&gt;的世界</text>
+<text id="2602314">遭到誓约灵──教堂之枪&lt;?joinName?&gt;入侵！</text>
+<text id="2602364">遭到誓约灵──教堂之枪&lt;?joinName?&gt;入侵</text>
+<text id="2611314">已打倒侵扰安眠者，将回到原来的世界</text>
+<text id="2611514">已打倒侵扰安眠者，将回到原来的世界</text>
+<text id="2620314">誓约灵──教堂之枪&lt;?deadName?&gt;已死亡</text>
+<text id="2621314">您已经死亡，将回到原来的世界</text>
+<text id="2622314">誓约灵──教堂之枪&lt;?deadName?&gt;已死亡</text>
+<text id="2630314">誓约灵──教堂之枪&lt;?leaveName?&gt;回到原来的世界了</text>
+<text id="2631314">回到原来的世界</text>
+<text id="2632314">誓约灵──教堂之枪&lt;?leaveName?&gt;回到原来的世界了</text>
+<text id="2701314">联机出现问题，将回到原来的世界</text>
+<text id="2741314">侵扰安眠者已离开这个区域，将回到原来的世界</text>
+<text id="2741514">侵扰安眠者已离开这个区域，将回到原来的世界</text>
+<text id="10010202">交出“黑暗灵魂之血”</text>
+<text id="10010227">向圣枪石碑祈祷</text>
+<text id="10010228">向解咒石碑祈祷</text>
+<text id="10010570">朝向聚集地前进</text>
+<text id="10010571">高举小环旗</text>
+<text id="10010572">触碰被拥抱的壳</text>
+<text id="10010573">触碰绘画的一角</text>
+<text id="10010845">要使用&lt;?gdsparam@745?&gt;吗？</text>
+<text id="10010846">要使用&lt;?gdsparam@746?&gt;吗？</text>
+<text id="10010847">要使用&lt;?gdsparam@747?&gt;吗？</text>
+<text id="10012800">您未持有小环旗</text>
+<text id="10012801">%null%</text>
+<text id="10012802">%null%</text>
+<text id="10012803">%null%</text>
+<text id="10012804">%null%</text>
+<text id="10012805">%null%</text>
+<text id="10012806">%null%</text>
+<text id="10012807">%null%</text>
+<text id="10012808">%null%</text>
+<text id="10012809">%null%</text>
+<text id="10012810">展现人性吧</text>
+<text id="12000007">请选择献上的数量</text>
+<text id="12000120">阿尔戈法官将以&lt;?evntAcquittalPrice?&gt;灵魂为代价再次现身，
+并对不法人士召唤“教堂之枪”迎战。
+您希望律法重现吗？</text>
+<text id="12000121">一旦阿尔戈法官再次现身，
+进入费莲诺尔教堂时，就必须与“教堂之枪”再战。
+您确定吗？</text>
+<text id="12072000">要交出“&lt;?gdsparam@2158?&gt;”吗？</text>
+<text id="13000007">誓约情谊更坚定了</text>
+<text id="13000008">%null%</text>
+<text id="13000009">%null%</text>
+<text id="13000010">%null%</text>
+<text id="13000011">%null%</text>
+<text id="13000012">%null%</text>
+<text id="13000013">%null%</text>
+<text id="13000014">%null%</text>
+<text id="13000015">%null%</text>
+<text id="13000016">%null%</text>
+<text id="13000017">誓约情谊更加坚定，等级也提升了</text>
+<text id="13000018">%null%</text>
+<text id="13000019">%null%</text>
+<text id="13000020">%null%</text>
+<text id="13000021">%null%</text>
+<text id="13000022">%null%</text>
+<text id="13000023">%null%</text>
+<text id="13000024">%null%</text>
+<text id="13000025">%null%</text>
+<text id="13000026">%null%</text>
+<text id="13000027">无法再奉献了，您做得很完美</text>
+<text id="13000028">%null%</text>
+<text id="13000029">%null%</text>
+<text id="13000030">%null%</text>
+<text id="13000031">%null%</text>
+<text id="13000032">%null%</text>
+<text id="13000033">%null%</text>
+<text id="13000034">%null%</text>
+<text id="13000035">%null%</text>
+<text id="13000036">%null%</text>
+<text id="13000037">您未持有&lt;?gdsparam@379?&gt;</text>
+<text id="13000121">阿尔戈法官将再度现身，
+对不法人士召唤“教堂之枪”迎战。</text>
+<text id="14072000">告诉她名字</text>
+<text id="14072001">我没有名字</text>
+<text id="14073000">告知“解咒石碑”的所在地</text>
+<text id="14073001">不清楚石碑所在地</text>
+<text id="14073002">不告诉他</text>
+<text id="14074000">葛温</text>
+<text id="14074001">不知道</text>
+<text id="14074002">%null%</text>
+<text id="14074003">%null%</text>
+<text id="14074004">%null%</text>
+<text id="14074005">%null%</text>
+<text id="14074006">%null%</text>
+<text id="14074007">%null%</text>
+<text id="14074008">%null%</text>
+<text id="14074009">%null%</text>
+<text id="14074010">答应她的请求</text>
+<text id="14074011">拒绝</text>
+<text id="14074012">没事</text>
+<text id="14076000">我有事找你</text>
+<text id="14076001">没事</text>
+<text id="14077000">是神的使者</text>
+<text id="14077001">做做样子罢了</text>
+<text id="15000417">献上&lt;?gdsparam@379?&gt;</text>
+<text id="15000520">希望律法重现</text>
+<text id="15011019">交出&lt;?gdsparam@2157?&gt;</text>
+<text id="15076000">购买道具</text>
+<text id="15076001">卖出道具</text>
+<text id="15076002">询问“环印城”的详情</text>
+</entries>
+</fmg>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1376000">怀旧月光剑出击</text>
+<text id="1376010">怀旧月光重剑出击</text>
+<text id="2458000">用火焰扇大扫一扫</text>
+<text id="2458010">使用火焰风扇进行大范围扫掠，无需聚焦成本</text>
+<text id="2660000">投掷沸腾和爆炸的混乱团块</text>
+<text id="2660010">投掷巨大的混乱团块，沸腾并爆炸</text>
+<text id="3509000">射出闪电箭</text>
+<text id="3509010">射出精制雷箭</text>
+<text id="3557000">投掷一盏灯来治愈附近的撞击点</text>
+<text id="3557010">投掷一盏灯来治愈附近的撞击点</text>
+</entries>
+</fmg>

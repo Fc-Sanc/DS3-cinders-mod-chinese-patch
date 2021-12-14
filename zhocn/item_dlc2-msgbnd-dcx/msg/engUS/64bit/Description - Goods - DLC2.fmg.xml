@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="315">这把特殊的投掷刀片有一个扁平的尖端，由菲利亚诺雷教会的守护者使用。
+
+消耗专注值投射虚幻之刃
+寻找他们的目标。
+与运气有关。
+
+教会的监护人，留下来的人很少，
+守望菲莉安诺尔公主的永恒沉睡
+连同教会之矛。</text>
+<text id="379">教会之矛守护着公主的沉睡，这是他们履行职责的证明。
+缀饰的金布织有幼草的嵴。
+
+公主的骑士们自豪地展示了这些
+最常见的珍贵恩惠
+从他们相同的礼仪长矛中摇曳。</text>
+<text id="600">%null%</text>
+<text id="601">%null%</text>
+<text id="602">%null%</text>
+<text id="603">%null%</text>
+<text id="604">%null%</text>
+<text id="605">%null%</text>
+<text id="606">%null%</text>
+<text id="607">%null%</text>
+<text id="608">%null%</text>
+<text id="609">%null%</text>
+<text id="610">%null%</text>
+<text id="611">%null%</text>
+<text id="612">%null%</text>
+<text id="613">%null%</text>
+<text id="614">%null%</text>
+<text id="615">%null%</text>
+<text id="616">%null%</text>
+<text id="617">%null%</text>
+<text id="618">%null%</text>
+<text id="619">%null%</text>
+<text id="620">契约的证明，被审判者巨人雇佣。
+短暂召唤古怪的银骑士雷多。
+
+大多数受审判者契约约束的不是
+愿意，而是被迫。然而很少有
+通过相互的友谊与巨人相连。
+
+这是对这种情况的宝贵佐证
+和蔼可亲，唯一表现出来的
+以物理形式。</text>
+<text id="621">%null%</text>
+<text id="622">%null%</text>
+<text id="623">%null%</text>
+<text id="624">%null%</text>
+<text id="625">%null%</text>
+<text id="626">%null%</text>
+<text id="627">%null%</text>
+<text id="628">%null%</text>
+<text id="629">%null%</text>
+<text id="630">%null%</text>
+<text id="631">%null%</text>
+<text id="632">%null%</text>
+<text id="633">%null%</text>
+<text id="634">%null%</text>
+<text id="635">%null%</text>
+<text id="636">%null%</text>
+<text id="637">%null%</text>
+<text id="638">%null%</text>
+<text id="639">%null%</text>
+<text id="640">%null%</text>
+<text id="641">%null%</text>
+<text id="642">%null%</text>
+<text id="643">%null%</text>
+<text id="644">%null%</text>
+<text id="645">%null%</text>
+<text id="646">%null%</text>
+<text id="647">%null%</text>
+<text id="648">%null%</text>
+<text id="649">%null%</text>
+<text id="650">联机游玩专用道具，
+据说是过去费莲诺尔公主的骑士们
+各自持有的仪式枪碎片。
+
+这正是“教堂之枪”的名称由来。
+
+当教堂之枪遇上真正棘手的对手时，
+使用此物后，可以唤起过往的气势，
+召唤出一字排开，指向天的仪式枪。
+</text>
+<text id="651">联机游玩专用道具，
+据说是过去费莲诺尔公主的骑士们
+各自持有的仪式枪碎片。
+
+其中黄金制的，会特别称之为圣枪的碎片，
+据说只托付给杰出的“枪。”
+
+当教堂之枪遇上真正棘手的对手时，
+使用此物后，可以唤起过往的气势，
+召唤出一字排开，指向天的仪式枪。
+</text>
+<text id="745">奴隶骑士盖尔的灵魂。
+其中一个带有力量的畸形灵魂。
+
+使用后可以获得许多灵魂，
+也能通过炼成取出它的力量。
+
+四处徘徊的奴隶骑士──红头巾的盖尔，
+他为了得到绘画世界用的颜料，
+进而寻找黑暗灵魂之血。
+他也心知肚明，因为自己不是英雄──
+有可能会受到黑暗灵魂侵蚀，再也无法回头。</text>
+<text id="746">恶魔王子的灵魂。
+其中一个带有力量的畸形灵魂。
+
+使用后可以获得不计其数的灵魂，
+也能通过炼成取出它的力量。
+
+恶魔们诞生自同一混沌，
+他们有许多共同分享的事物──
+比如王子的荣耀，以及那逐渐消逝的火焰。
+
+而最后一只残存的恶魔，
+将这些共有的事物再次彰显而出。</text>
+<text id="747">吞噬黑暗的米狄尔的灵魂。
+其中一个带有力量的畸形灵魂。
+
+使用后可以获得不计其数的灵魂，
+也能通过炼成取出它的力量。
+
+古龙后裔的米狄尔受神扶养，
+因为其不朽性质，拥有永远吞噬黑暗的使命。
+就算神明早已消散而去，依然善尽使命。</text>
+<text id="2156">古代葛温大王的特使所用的小环旗。
+
+面对环状岩壁高举此物，搬运工将会前来。
+
+据说大王将末世所在的环印城，
+连同疼爱的么女赠予得到黑暗灵魂的矮人。
+
+此为总有一天会前往迎接她的证明。</text>
+<text id="2157">那个长着石头的老妇人的灰烬。和
+这下，神殿侍女会准备新物品。
+
+可怕的事情发生了
+在大渣堆中累积。这个老太婆
+曾经是皇室的奶妈。</text>
+<text id="2158">从黑暗中渗出的灵魂之血
+奴隶骑士盖尔的洞。
+
+他在阿里安德尔的女士用作颜料来描绘一个彩绘世界。
+
+当盖尔袭击侏儒领主时，
+他发现他们的血液很久以前
+干涸，就这样消耗了黑暗的灵魂。</text>
+<text id="2159">一块透明的小石头，曾经为绿色的幼草冠增光添彩。
+
+这颗半宝石是在一场激烈的战斗后向教会之矛致敬，据说稍微增强了他们的保护祝福。
+
+在短时间内提供额外的生命值、耐力恢复和伤害吸收。</text>
+<text id="10000">%null%</text>
+<text id="10001">%null%</text>
+<text id="10002">%null%</text>
+<text id="10003">%null%</text>
+<text id="10004">%null%</text>
+<text id="10005">%null%</text>
+<text id="10006">%null%</text>
+<text id="10007">%null%</text>
+<text id="10008">%null%</text>
+<text id="10009">%null%</text>
+<text id="10010">%null%</text>
+<text id="10011">%null%</text>
+<text id="10012">%null%</text>
+<text id="10013">%null%</text>
+<text id="10014">%null%</text>
+<text id="10015">%null%</text>
+<text id="10016">%null%</text>
+<text id="10017">%null%</text>
+<text id="10018">%null%</text>
+<text id="10019">%null%</text>
+<text id="10020">%null%</text>
+<text id="10021">%null%</text>
+<text id="10022">%null%</text>
+<text id="10023">%null%</text>
+<text id="10024">%null%</text>
+<text id="10025">%null%</text>
+<text id="10026">%null%</text>
+<text id="10027">%null%</text>
+<text id="10028">%null%</text>
+<text id="10029">%null%</text>
+<text id="10030">%null%</text>
+<text id="10100">%null%</text>
+<text id="10101">%null%</text>
+<text id="10102">%null%</text>
+<text id="10103">%null%</text>
+<text id="10104">%null%</text>
+<text id="10105">%null%</text>
+<text id="10106">%null%</text>
+<text id="10107">%null%</text>
+<text id="10108">%null%</text>
+<text id="10109">%null%</text>
+<text id="10110">%null%</text>
+<text id="10111">%null%</text>
+<text id="10112">%null%</text>
+<text id="10113">%null%</text>
+<text id="10114">%null%</text>
+<text id="10115">%null%</text>
+<text id="10116">%null%</text>
+<text id="10117">%null%</text>
+<text id="10118">%null%</text>
+<text id="10119">%null%</text>
+<text id="10120">%null%</text>
+<text id="10200">%null%</text>
+<text id="10201">%null%</text>
+<text id="10202">%null%</text>
+<text id="10203">%null%</text>
+<text id="10204">%null%</text>
+<text id="10205">%null%</text>
+<text id="10206">%null%</text>
+<text id="10207">%null%</text>
+<text id="10208">%null%</text>
+<text id="10209">%null%</text>
+<text id="10210">%null%</text>
+<text id="10211">%null%</text>
+<text id="10212">%null%</text>
+<text id="10213">%null%</text>
+<text id="10214">%null%</text>
+<text id="10215">%null%</text>
+<text id="10216">%null%</text>
+<text id="10217">%null%</text>
+<text id="10218">%null%</text>
+<text id="10219">%null%</text>
+<text id="10220">%null%</text>
+<text id="10221">%null%</text>
+<text id="10222">%null%</text>
+<text id="10223">%null%</text>
+<text id="10224">%null%</text>
+<text id="10225">%null%</text>
+<text id="10226">%null%</text>
+<text id="10227">%null%</text>
+<text id="10228">%null%</text>
+<text id="10229">%null%</text>
+<text id="10230">%null%</text>
+<text id="1376000">在米迪尔深处发现一把旧剑的记忆。
+这个法术使用灵魂赋予形体
+想了想，用它攻击。
+
+攻击伴随着光波，
+并在进攻前保持姿势
+提高他们的速度和效力。
+
+这把剑以月光命名，但它是
+与时尚的略有不同
+帕德雷克·西斯。也许它植根于
+较旧的记忆，从不久之后开始。
+</text>
+<text id="1376010">在米迪尔深处发现一把旧剑的记忆。
+这个法术使用灵魂赋予形体
+想了想，用它攻击。
+
+攻击伴随着光波，
+并在进攻前保持姿势
+提高他们的速度和效力。
+
+将坚韧度伤害增加到100。
+
+这把剑以月光命名，但它是
+与时尚的略有不同
+帕德雷克·西斯。也许它植根于
+较旧的记忆，从不久之后开始。</text>
+<text id="2458000">佐伊的火焰，沙漠的后裔
+烈焰术士。
+
+反复使用刷左火焰扇
+对。
+
+佐伊拥有真正的美，所有的
+沙漠烈焰术士，但她的没有毒药，
+于是她成为了不起眼的女王
+那些虚弱的人。</text>
+<text id="2458010">佐伊的火焰，沙漠的后裔
+烈焰术士。
+
+反复使用刷左火焰扇
+对。
+无需对焦即可使用。
+
+佐伊拥有真正的美，所有的
+沙漠烈焰术士，但她的没有毒药，
+于是她成为了不起眼的女王
+那些虚弱的人。</text>
+<text id="2660000">魔王点燃的最后一团火焰。
+这种烈焰术会引发一团混乱。
+
+一击，这团混沌就疯狂沸腾，短暂凝聚，然后猛烈爆炸。
+
+对恶魔来说，这些团块是生命的碎片</text>
+<text id="2660010">魔王点燃的最后一团火焰。
+这种烈焰术会引发一团混乱。
+
+一击，这团混沌就疯狂沸腾，短暂凝聚，然后猛烈爆炸。
+将坚韧度伤害增加到100。
+
+对恶魔来说，这些团块是生命的碎片。</text>
+<text id="3509000">为数不多的几代服役的女骑士
+众神将这个奇迹用于屠龙。
+
+绘制闪电弓以发射闪电箭。
+
+闪电箭提供了很大的改进
+到了长矛的范围，据说是用来从远处刺穿龙眼的。
+但请记住，美丽的故事总是
+以点缀为标志。
+</text>
+<text id="3509010">几代服役的女骑士
+众神将这个奇迹用于屠龙。
+
+绘制闪电弓以发射闪电箭。
+获得3个嗜血充能。
+
+闪电箭提供了很大的改进
+到了枪的范围，据说是用来从远处刺入龙眼的。
+但请记住，美丽的故事总是
+以点缀为标志。
+</text>
+<text id="3557000">在洛斯里克的最后几天发现的奇迹。
+
+投掷一盏灯，可为靠近撞击点的人恢复300血量。
+使用法术增益进行缩放。
+使用会使治疗效果降低10%，持续15秒。此效果叠加。
+
+即便是那些已经忘记了阳光公主的爱抚和恩惠的人，也极力回忆着她的身影。关于她的故事无疑是幼稚的，但却是非常真诚的。</text>
+<text id="3557010">在洛斯里克的最后几天发现的奇迹。
+
+投掷一盏灯，可为靠近撞击点的人恢复300点血量。
+使用法术增益进行缩放。射程增加到5米。
+最大专注值减少10%，持续60秒。此效果叠加。
+
+即便是那些已经忘记了阳光公主的爱抚和恩惠的人，也极力回忆着她的身影。关于她的故事无疑是幼稚的，但却是非常真诚的。</text>
+</entries>
+</fmg>

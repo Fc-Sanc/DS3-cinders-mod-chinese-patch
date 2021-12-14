@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="744">扭曲的灵魂之一，充满力量</text>
+<text id="2153">在传火祭祀场燃烧以解锁不死火柴</text>
+<text id="2154">传火祭祀场侍女会准备新物品</text>
+<text id="2155">进入大书库阁楼装置的钥匙</text>
+<text id="1313000">为右手武器注入冰霜</text>
+<text id="1313010">为右手武器注入冰霜</text>
+<text id="1741000">产生近乎冰冻的薄雾</text>
+<text id="1741010">制造出延长的近乎冰冻的薄雾</text>
+<text id="2457000">召唤喷火混沌球</text>
+<text id="2457010">召唤喷火混沌球</text>
+<text id="3556000">白色铁饼切入敌人并返回魔术师</text>
+<text id="3556010">白色铁饼切入敌人并返回魔术师无需消耗专注值</text>
+</entries>
+</fmg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10090">教会之矛+1</text>
+<text id="10091">教会之矛+2</text>
+<text id="10092">教会之矛+3</text>
+<text id="10093">教会之矛+4</text>
+<text id="10094">教会之矛+5</text>
+</entries>
+</fmg>

@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">确定</text>
+<text id="2">取消</text>
+<text id="3">是</text>
+<text id="4">否</text>
+<text id="5">接受</text>
+<text id="6">拒绝</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">重试</text>
+<text id="16">继续</text>
+<text id="17">返回标题</text>
+<text id="40200">灵魂不足</text>
+<text id="40201">需要其他项目</text>
+<text id="40202">需要额外的物品/灵魂</text>
+<text id="40300">重置为默认设置。
+确认？</text>
+<text id="40500">恢复所有默认设置。
+确认？</text>
+<text id="102000">离开。
+确认？</text>
+<text id="102001">丢弃 。
+确认？</text>
+<text id="102002">保留所有选定的项目。
+确认？</text>
+<text id="102003">放弃所有选定的项目。
+确认？</text>
+<text id="102004">%null%</text>
+<text id="102005">%null%</text>
+<text id="102006">%null%</text>
+<text id="102007">%null%</text>
+<text id="102008">%null%</text>
+<text id="102009">%null%</text>
+<text id="102010">此动作将超过最大灵魂数。
+超过最大值的灵魂将丢失。
+随便用？</text>
+<text id="103000">无法使用当前属性有效地使用此项目。</text>
+<text id="103001">现有属性无法有效使用该物品，
+除非用双手挥舞。</text>
+<text id="103110">无法装备饰品，因为当前装备了不兼容的饰品。</text>
+<text id="103111">%null%</text>
+<text id="103112">%null%</text>
+<text id="103113">%null%</text>
+<text id="103114">%null%</text>
+<text id="103115">%null%</text>
+<text id="103116">%null%</text>
+<text id="103117">%null%</text>
+<text id="103118">%null%</text>
+<text id="103119">%null%</text>
+<text id="103120">暂时无法移除配件。</text>
+<text id="103121">%null%</text>
+<text id="103122">%null%</text>
+<text id="103123">%null%</text>
+<text id="103124">%null%</text>
+<text id="103125">%null%</text>
+<text id="103126">%null%</text>
+<text id="103127">%null%</text>
+<text id="103128">%null%</text>
+<text id="103129">%null%</text>
+<text id="103130">暂时无法更换装备。</text>
+<text id="103131">%null%</text>
+<text id="103132">%null%</text>
+<text id="103133">%null%</text>
+<text id="103134">%null%</text>
+<text id="103135">%null%</text>
+<text id="103136">%null%</text>
+<text id="103137">%null%</text>
+<text id="103138">%null%</text>
+<text id="103139">%null%</text>
+<text id="103140">失去法术槽会
+导致移除任何多余的法术。
+确认？</text>
+<text id="103141">已删除拼写。</text>
+<text id="103142">%null%</text>
+<text id="103143">%null%</text>
+<text id="103144">%null%</text>
+<text id="103145">%null%</text>
+<text id="103146">%null%</text>
+<text id="103147">%null%</text>
+<text id="103148">%null%</text>
+<text id="103149">%null%</text>
+<text id="103150">配件一旦移除就会损坏。
+移除配件？</text>
+<text id="103151">设备一旦移除就会损坏。
+移除设备？</text>
+<text id="110000">保存游戏并返回标题菜单？</text>
+<text id="211000">没有可用于传送的营火</text>
+<text id="212000">花费&lt;?demandSoul?&gt;灵魂
+来升级？</text>
+<text id="212001">取消升级。
+确认？</text>
+<text id="212002">至少选择一个属性来升级。</text>
+<text id="212003">%null%</text>
+<text id="212004">%null%</text>
+<text id="212005">%null%</text>
+<text id="212006">%null%</text>
+<text id="212007">%null%</text>
+<text id="212008">%null%</text>
+<text id="212009">%null%</text>
+<text id="212010">最高级别。
+无法再提升等级。</text>
+<text id="212250">升级？</text>
+<text id="212251">取消升级。
+确认？</text>
+<text id="212500">升级？</text>
+<text id="212501">取消升级。
+确认？</text>
+<text id="212502">%null%</text>
+<text id="212503">&lt;?itemNum?&gt; &lt;?gdsparam@490?&gt;(s)获得。</text>
+<text id="212750">开始重生？</text>
+<text id="212751">取消重生。
+确认？</text>
+<text id="212752">重新分配属性，直到它们达到初始级别。</text>
+<text id="212753">%null%</text>
+<text id="212754">%null%</text>
+<text id="212755">%null%</text>
+<text id="212756">%null%</text>
+<text id="212757">%null%</text>
+<text id="212758">%null%</text>
+<text id="212759">%null%</text>
+<text id="212760">魔法将被移除，因为调谐槽已经丢失。
+继续重生？</text>
+<text id="212761">无法调谐的魔法被移除。</text>
+<text id="221000">强化&lt;?itemNameBeforeForge?&gt;
+制作&lt;?itemNameAfterForge?&gt;?</text>
+<text id="222000">注入&lt;?itemNameBeforeForge?&gt;
+制作&lt;?itemNameAfterForge?&gt;</text>
+<text id="223000">修复&lt;?itemName?&gt;
+为&lt;?demandSoul?&gt;灵魂</text>
+<text id="231000">购买&lt;?itemName?&gt;
+为&lt;?demandSoul?&gt;灵魂?</text>
+<text id="231001">%null%</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">超过物品的最大存储量。</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">无法购买。
+您要购买的数量将超过最大数量
+可以存放在库存和存储中。</text>
+<text id="231100">库存已完全耗尽。
+不能再买了。</text>
+<text id="232000">出售
+对于&lt;?sellSouls?&gt;灵魂？</text>
+<text id="232001">%null%</text>
+<text id="232002">不能出售当前装备的物品。</text>
+<text id="232003">无法出售此商品。</text>
+<text id="234001">获取骑士名册失败。</text>
+<text id="234002">%null%</text>
+<text id="234003">正在获取骑士名册...</text>
+<text id="234004">%null%</text>
+<text id="234005">%null%</text>
+<text id="234006">%null%</text>
+<text id="234007">%null%</text>
+<text id="234008">%null%</text>
+<text id="234009">%null%</text>
+<text id="234010">正在获取骑士的信息...</text>
+<text id="234011">获取骑士信息失败。</text>
+<text id="235000">开始分配原素？</text>
+<text id="235001">正在取消分配。
+确认？</text>
+<text id="236000">冶炼&lt;?itemName?&gt;
+&lt;?demandSoul?&gt;灵魂啊?</text>
+<text id="236001">%null%</text>
+<text id="236002">%null%</text>
+<text id="236003">%null%</text>
+<text id="236004">%null%</text>
+<text id="236005">%null%</text>
+<text id="236006">%null%</text>
+<text id="236007">%null%</text>
+<text id="236008">%null%</text>
+<text id="236009">%null%</text>
+<text id="236010">冶炼的项目超出了存储空间的最大值。</text>
+<text id="236011">无法冶炼。
+生产的数量将超过
+最大可以保存在库存和存储中。</text>
+<text id="251020">无法存储当前装备的物品。</text>
+<text id="251021">所选项目无法放入存储空间。</text>
+<text id="251022">%null%</text>
+<text id="251023">%null%</text>
+<text id="251024">%null%</text>
+<text id="251025">%null%</text>
+<text id="251026">%null%</text>
+<text id="251027">%null%</text>
+<text id="251028">%null%</text>
+<text id="251029">%null%</text>
+<text id="251030">无法存储该项目。
+存储空间已满。</text>
+<text id="251031">无法检索项目。
+库存已满。</text>
+<text id="261000">调谐槽不足。</text>
+<text id="261001">空闲插槽不足。</text>
+<text id="261002">调谐槽不足。</text>
+<text id="261003">无法调谐重复的法术。</text>
+<text id="261004">属性不足，无法使用此法术。</text>
+<text id="261005">与当前盟约结盟时不能使用此法术。</text>
+<text id="311000">正在删除此消息。
+确认？</text>
+<text id="311001">为这条消息点赞？</text>
+<text id="311002">贬低这条消息？</text>
+<text id="321000">消息将写入当前内容。</text>
+<text id="321001">这将删除正在进行的消息。
+确认？</text>
+<text id="322000">从列表中删除此邮件？</text>
+<text id="334510">无法获取
+由于库存或存储上限。</text>
+<text id="334511">无法获取每个
+由于库存或存储上限。</text>
+<text id="334512">%null%</text>
+<text id="334513">%null%</text>
+<text id="334514">%null%</text>
+<text id="334515">%null%</text>
+<text id="334516">%null%</text>
+<text id="334517">%null%</text>
+<text id="334518">%null%</text>
+<text id="334519">%null%</text>
+<text id="334520">有些物品无法获得
+超出库存或存储的最大值。</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="402001">取消角色创建并返回标题菜单？</text>
+<text id="402002">可以用这个角色开始游戏吗？</text>
+<text id="402003">需要姓名。
+
+输入名称以完成编辑。</text>
+<text id="402004">保存字符信息失败。</text>
+<text id="402005">%null%</text>
+<text id="402006">%null%</text>
+<text id="402007">%null%</text>
+<text id="402008">%null%</text>
+<text id="402009">%null%</text>
+<text id="402010">将所有外观更改恢复为默认值？</text>
+<text id="402011">更改将被丢弃。
+可以吗？</text>
+<text id="402012">%null%</text>
+<text id="402013">%null%</text>
+<text id="402014">%null%</text>
+<text id="402015">%null%</text>
+<text id="402016">%null%</text>
+<text id="402017">%null%</text>
+<text id="402018">%null%</text>
+<text id="402019">%null%</text>
+<text id="402020">所选拼写包含不当语言
+并且不能用作角色名称。
+
+输入另一个名称。</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">更改性别会重置某些更改。
+
+可以吗？</text>
+<text id="402101">取消外观和重生的改动？</text>
+<text id="402102">完成外观改造并继续重生？</text>
+<text id="402103">%null%</text>
+<text id="402104">%null%</text>
+<text id="402105">%null%</text>
+<text id="402106">%null%</text>
+<text id="402107">%null%</text>
+<text id="402108">%null%</text>
+<text id="402109">%null%</text>
+<text id="402110">放弃对外观的改动并返回到以前的状态？</text>
+<text id="404010">放弃当前更改并返回上一页？</text>
+<text id="406011">从选定的个人资料开始？</text>
+<text id="406012">删除选定的个人资料并开始新游戏？</text>
+<text id="406013">确定删除选定的个人资料？</text>
+<text id="420000">将当前设置保存为收藏？</text>
+<text id="420001">覆盖最喜欢的插槽并保存当前设置？</text>
+<text id="420002">放弃当前更改并加载收藏夹？</text>
+<text id="420003">无法加载异性的外貌。</text>
+<text id="420004">确定删除所选收藏吗？</text>
+<text id="420005">%null%</text>
+<text id="420006">%null%</text>
+<text id="420007">%null%</text>
+<text id="420008">%null%</text>
+<text id="420009">%null%</text>
+<text id="420010">没有收藏收藏夹。</text>
+<text id="450000">开始旅程&lt;?nextLoopCount?&gt;在当前状态?
+旅程&lt;?nextLoopCount?&gt;可以从
+如果你不想现在就开始神社营火。</text>
+<text id="450001">如果您开始旅程&lt;?nextLoopCount?&gt;,
+你将无法返回旅程&lt;?loopCount?&gt;。
+您确定要开始旅程&lt;?nextLoopCount?&gt;?</text>
+<text id="502000">把这个白灵还给他们的世界？</text>
+<text id="502001">没有白灵送回家。</text>
+<text id="550000">由于多人游戏多次以不正确的方式结束，
+世界之间的联系已经被切断。
+连接只能通过白环之道恢复。</text>
+<text id="550100">在设定的时间内未检测到输入。
+回到你的世界。</text>
+<text id="620000">以所选角色开始游戏。
+确认？</text>
+<text id="620001">返回标题菜单？</text>
+</entries>
+</fmg>

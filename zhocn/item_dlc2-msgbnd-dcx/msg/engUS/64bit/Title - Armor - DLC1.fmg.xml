@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="20000000">维赫勒头盔</text>
+<text id="20001000">维赫勒盔甲</text>
+<text id="20002000">维赫勒护手</text>
+<text id="20003000">维赫勒护腿</text>
+<text id="55500000">奴隶骑士兜帽</text>
+<text id="55501000">奴隶骑士盔甲</text>
+<text id="55502000">奴隶骑士护手</text>
+<text id="55503000">奴隶骑士护腿</text>
+<text id="56500000">修女兜帽</text>
+<text id="56501000">修女服装</text>
+<text id="56503000">修女裤子</text>
+<text id="58500000">幽魂头盔</text>
+<text id="58501000">幽魂盔甲</text>
+<text id="58502000">幽魂手套</text>
+<text id="58503000">幽魂靴子</text>
+<text id="60500000">米尔伍德骑士头盔</text>
+<text id="60501000">米尔伍德骑士盔甲</text>
+<text id="60502000">米尔伍德骑士护手</text>
+<text id="60503000">米尔伍德骑士护腿</text>
+</entries>
+</fmg>

@@ -1,0 +1,4693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="9500">区域boss现在可以挑战</text>
+<text id="9600">%null%</text>
+<text id="9601">获得龙鳞。回到你的世界。</text>
+<text id="9602">发现龙鳞</text>
+<text id="9603">发现龙鳞</text>
+<text id="50520">&lt;?sysmsg@50520?&gt;</text>
+<text id="50521">&lt;?sysmsg@50521?&gt;</text>
+<text id="50522">&lt;?sysmsg@50522?&gt;</text>
+<text id="50523">&lt;?sysmsg@50523?&gt;</text>
+<text id="50524">&lt;?sysmsg@50524?&gt;</text>
+<text id="50525">&lt;?sysmsg@50525?&gt;</text>
+<text id="70000">&lt;?sysmsg@70000?&gt;</text>
+<text id="100100">你被起诉了</text>
+<text id="140000">灵体标记</text>
+<text id="140001">召唤这个灵体?</text>
+<text id="140002">召唤这个暗灵?</text>
+<text id="140003">取消召唤标志?</text>
+<text id="140004">取消召唤标志?</text>
+<text id="140005">寻找世界入侵。。。</text>
+<text id="140006">寻找墓主仆从的世界入侵。。。</text>
+<text id="140007">入侵墓主仆从的世界?</text>
+<text id="140008">取消寻鳞龙眼?</text>
+<text id="140009">触摸龙残骸?</text>
+<text id="140010">召唤灵体。。。</text>
+<text id="140011">召唤暗灵。。。</text>
+<text id="140012">龙魂侵残。。。</text>
+<text id="140013">你正在被召唤。。。</text>
+<text id="140014">你正在被召唤。。。</text>
+<text id="140015">入侵另一个世界。。。</text>
+<text id="140016">你正在被召唤。。。</text>
+<text id="140017">入侵墓主从者的世界。。。</text>
+<text id="140018">龙鳞的主人位于。入侵世界。。。</text>
+<text id="140019">侵入罪人的世界。。。</text>
+<text id="140020">%null%</text>
+<text id="140021">%null%</text>
+<text id="140022">%null%</text>
+<text id="140023">作为灵体被召唤到异世界</text>
+<text id="140024">作为黑暗精灵被召唤到异世界</text>
+<text id="140025">以黑暗精灵的身份入侵异世界</text>
+<text id="140026">化身恶灵，入侵异世界</text>
+<text id="140027">作为复仇之魂入侵墓主从者的世界</text>
+<text id="140028">龙鳞拥有者的世界作为龙灵入侵</text>
+<text id="140029">以复仇的精神入侵有罪的世界</text>
+<text id="140030">灵体&lt;?joinName?&gt;召唤</text>
+<text id="140031">暗灵&lt;?joinName?&gt;召唤</text>
+<text id="140032">暗灵&lt;?joinName?&gt;入侵。。。!</text>
+<text id="140033">被召唤到世界&lt;?hostName?&gt;</text>
+<text id="140034">被召唤到世界&lt;?hostName?&gt;</text>
+<text id="140035">入侵了世界&lt;?hostName?&gt;</text>
+<text id="140036">入侵了世界&lt;?hostName?&gt;</text>
+<text id="140037">入侵墓主从者的世界&lt;?hostName?&gt;</text>
+<text id="140038">入侵龙鳞拥有者的世界&lt;?hostName?&gt;</text>
+<text id="140039">入侵了世界&lt;?hostName?&gt;有罪的</text>
+<text id="140040">%null%</text>
+<text id="140041">%null%</text>
+<text id="140042">%null%</text>
+<text id="140043">灵体&lt;?joinName?&gt;召唤</text>
+<text id="140044">暗灵&lt;?joinName?&gt;召唤</text>
+<text id="140045">暗灵&lt;?joinName?&gt;入侵。。。!</text>
+<text id="140046">恶灵&lt;?joinName?&gt;入侵。。。!</text>
+<text id="140047">复仇之魂&lt;?joinName?&gt;入侵。。。!</text>
+<text id="140048">龙魂&lt;?joinName?&gt;入侵。。。!</text>
+<text id="140049">复仇之魂&lt;?joinName?&gt;入侵。。。!</text>
+<text id="140050">召唤失败</text>
+<text id="140051">%null%</text>
+<text id="140052">%null%</text>
+<text id="140053">%null%</text>
+<text id="140054">%null%</text>
+<text id="140055">入侵失败</text>
+<text id="140056">%null%</text>
+<text id="140057">%null%</text>
+<text id="140058">龙魂消失</text>
+<text id="140070">你没有被召唤</text>
+<text id="140071">%null%</text>
+<text id="140072">%null%</text>
+<text id="140073">%null%</text>
+<text id="140074">%null%</text>
+<text id="140075">%null%</text>
+<text id="140076">%null%</text>
+<text id="140077">%null%</text>
+<text id="140078">失去了龙鳞所有者的视线</text>
+<text id="140130">%null%</text>
+<text id="140131">%null%</text>
+<text id="140132">%null%</text>
+<text id="140133">区域首领被击败！带着新发现的人性回归。</text>
+<text id="140134">召唤师被击败！带着新发现的人性回归。</text>
+<text id="140135">世界之主被打败了！带着新发现的人性回归。</text>
+<text id="140136">区域首领战败！带着新发现的人性回归。</text>
+<text id="140137">墓主仆人被击败！带着新发现的人性回归。</text>
+<text id="140138">世界之主被打败了！携龙鳞归来。</text>
+<text id="140139">有罪的人付出了代价。带着报复的纪念品回来。</text>
+<text id="140140">%null%</text>
+<text id="140141">%null%</text>
+<text id="140142">%null%</text>
+<text id="140143">召唤师死亡。回到你的世界。</text>
+<text id="140144">召唤师挑战区域首领。回到你的世界。</text>
+<text id="140145">世界之主挑战了区域首领。回到你的世界。</text>
+<text id="140146">你被打败了。回到你的世界。</text>
+<text id="140147">墓主仆人向区域首领发起挑战。回到你的世界。</text>
+<text id="140148">世界之主挑战了区域首领。回到你的世界。</text>
+<text id="140149">罪魁祸首挑战了地区Boss。回到你的世界。</text>
+<text id="140150">%null%</text>
+<text id="140151">%null%</text>
+<text id="140152">%null%</text>
+<text id="140153">您的灵体已被征服。回到你的世界。</text>
+<text id="140154">你的灵体被征服了。回到你的世界。</text>
+<text id="140155">你的灵体被征服了。回到你的世界。</text>
+<text id="140156">你被打败了。回到你的世界。</text>
+<text id="140157">你的灵体被征服了。回到你的世界。</text>
+<text id="140158">你的灵体被征服了。回到你的世界。</text>
+<text id="140159">你的灵体被征服了。回到你的世界。</text>
+<text id="140170">%null%</text>
+<text id="140171">%null%</text>
+<text id="140172">%null%</text>
+<text id="140173">%null%</text>
+<text id="140174">%null%</text>
+<text id="140175">%null%</text>
+<text id="140176">%null%</text>
+<text id="140177">%null%</text>
+<text id="140178">%null%</text>
+<text id="140179">%null%</text>
+<text id="140180">灵体&lt;?deadName?&gt;被征服</text>
+<text id="140181">灵体&lt;?deadName?&gt;被征服</text>
+<text id="140182">灵体&lt;?deadName?&gt;被征服</text>
+<text id="140183">灵体&lt;?deadName?&gt;被征服</text>
+<text id="140184">灵体&lt;?deadName?&gt;被征服</text>
+<text id="140185">灵体&lt;?deadName?&gt;被征服</text>
+<text id="140186">灵体&lt;?deadName?&gt;被征服</text>
+<text id="140187">复仇之魂 &lt;?deadName?&gt;被征服</text>
+<text id="140188">%null%</text>
+<text id="140189">%null%</text>
+<text id="140190">恶灵&lt;?deadName?&gt;被征服</text>
+<text id="140191">恶灵&lt;?deadName?&gt;被征服</text>
+<text id="140192">暗灵&lt;?deadName?&gt;被征服</text>
+<text id="140193">暗灵&lt;?deadName?&gt;被征服</text>
+<text id="140194">恶灵&lt;?deadName?&gt;被征服</text>
+<text id="140195">恶灵&lt;?deadName?&gt;被征服</text>
+<text id="140196">恶灵&lt;?deadName?&gt;被征服</text>
+<text id="140197">复仇之魂&lt;?deadName?&gt;被征服</text>
+<text id="140198">龙魂&lt;?deadName?&gt;被征服龙鳞声称</text>
+<text id="140199">复仇之魂&lt;?deadName?&gt;被征服</text>
+<text id="141005">寻找有罪的世界</text>
+<text id="141130">森林入侵者被击败。带着被掠夺的物品回来。</text>
+<text id="2100000">%null%</text>
+<text id="2100001">%null%</text>
+<text id="2100002">%null%</text>
+<text id="2100003">%null%</text>
+<text id="2100100">%null%</text>
+<text id="2100101">%null%</text>
+<text id="2100102">%null%</text>
+<text id="2110000">触碰召唤记号</text>
+<text id="2110001">触碰召唤记号</text>
+<text id="2110002">触碰召唤记号</text>
+<text id="2110003">触碰召唤记号</text>
+<text id="2110100">触碰召唤记号</text>
+<text id="2110101">触碰召唤记号</text>
+<text id="2110102">触碰召唤记号</text>
+<text id="2110103">%null%</text>
+<text id="2110104">%null%</text>
+<text id="2110105">触碰召唤记号</text>
+<text id="2111000">确认自己的召唤记号</text>
+<text id="2111001">确认自己的召唤记号</text>
+<text id="2111002">确认自己的召唤记号</text>
+<text id="2111003">确认自己的召唤记号</text>
+<text id="2111100">确认自己的召唤记号</text>
+<text id="2111101">确认自己的召唤记号</text>
+<text id="2111102">确认自己的召唤记号</text>
+<text id="2111103">%null%</text>
+<text id="2111104">%null%</text>
+<text id="2111105">确认自己的召唤记号</text>
+<text id="2120000">您要召唤这个灵体吗？</text>
+<text id="2120001">您要召唤这个灵体吗？</text>
+<text id="2120002">这个灵体已发狂。您还是确定要召唤吗？</text>
+<text id="2120003">您要召唤这个灵体吗？</text>
+<text id="2120100">您要召唤这个暗灵吗？</text>
+<text id="2120101">您要召唤这个暗灵吗？</text>
+<text id="2120102">这个暗灵已发狂。您还是确定要召唤吗？</text>
+<text id="2120103">%null%</text>
+<text id="2120104">%null%</text>
+<text id="2120105">您要召唤这个暗灵吗？</text>
+<text id="2121000">您要消除召唤记号吗？</text>
+<text id="2121001">您要消除召唤记号吗？</text>
+<text id="2121002">您要消除召唤记号吗？</text>
+<text id="2121003">您要消除召唤记号吗？</text>
+<text id="2121100">您要消除召唤记号吗？</text>
+<text id="2121101">您要消除召唤记号吗？</text>
+<text id="2121102">您要消除召唤记号吗？</text>
+<text id="2121103">%null%</text>
+<text id="2121104">%null%</text>
+<text id="2121105">您要消除召唤记号吗？</text>
+<text id="2130000">您要入侵另一个世界吗？</text>
+<text id="2140000">您要取消入侵吗？</text>
+<text id="2200000">您所写下的召唤记号已消除</text>
+<text id="2200001">您所写下的召唤记号已消除</text>
+<text id="2200002">您所写下的召唤记号已消除</text>
+<text id="2200003">您所写下的召唤记号已消除</text>
+<text id="2200100">您所写下的召唤记号已消除</text>
+<text id="2200101">您所写下的召唤记号已消除</text>
+<text id="2200102">您所写下的召唤记号已消除</text>
+<text id="2200103">%null%</text>
+<text id="2200104">%null%</text>
+<text id="2200105">您所写下的召唤记号已消除</text>
+<text id="2200200">已取消入侵</text>
+<text id="2200201">已取消入侵</text>
+<text id="2200202">已取消入侵</text>
+<text id="2200203">%null%</text>
+<text id="2200204">%null%</text>
+<text id="2200205">已取消入侵</text>
+<text id="2210000">召唤记号建立失败</text>
+<text id="2210001">召唤记号建立失败</text>
+<text id="2210002">召唤记号建立失败</text>
+<text id="2210003">召唤记号建立失败</text>
+<text id="2210100">召唤记号建立失败</text>
+<text id="2210101">召唤记号建立失败</text>
+<text id="2210102">召唤记号建立失败</text>
+<text id="2210103">%null%</text>
+<text id="2210104">%null%</text>
+<text id="2210105">召唤记号建立失败</text>
+<text id="2210200">无法入侵</text>
+<text id="2210201">无法入侵</text>
+<text id="2210202">无法入侵</text>
+<text id="2210203">%null%</text>
+<text id="2210204">%null%</text>
+<text id="2210205">无法入侵</text>
+<text id="2300000">正在召唤灵体</text>
+<text id="2300001">正在召唤灵体</text>
+<text id="2300002">正在召唤发狂灵体</text>
+<text id="2300003">正在召唤灵体</text>
+<text id="2300100">正在召唤暗灵</text>
+<text id="2300101">正在召唤暗灵</text>
+<text id="2300102">正在召唤发狂暗灵</text>
+<text id="2300103">%null%</text>
+<text id="2300104">%null%</text>
+<text id="2300105">正在召唤暗灵</text>
+<text id="2301000">被召唤至其他世界</text>
+<text id="2301001">被召唤至其他世界</text>
+<text id="2301002">被召唤至其他世界</text>
+<text id="2301003">被召唤至其他世界</text>
+<text id="2301100">被召唤至其他世界</text>
+<text id="2301101">被召唤至其他世界</text>
+<text id="2301102">被召唤至其他世界</text>
+<text id="2301103">%null%</text>
+<text id="2301104">%null%</text>
+<text id="2301105">被召唤至其他世界</text>
+<text id="2301200">正在入侵其他世界</text>
+<text id="2301201">正在入侵其他世界</text>
+<text id="2301202">正在入侵其他世界</text>
+<text id="2301203">%null%</text>
+<text id="2301204">%null%</text>
+<text id="2301205">正在入侵其他世界。。。</text>
+<text id="2301303">正在入侵其他世界。。。</text>
+<text id="2301304">正在入侵其他世界。。。</text>
+<text id="2301305">%null%</text>
+<text id="2301306">正在入侵其他世界。。。</text>
+<text id="2301307">正在入侵其他世界。。。</text>
+<text id="2301308">正在入侵其他世界。。。</text>
+<text id="2302000">正在召唤其他灵体</text>
+<text id="2302001">正在召唤其他灵体</text>
+<text id="2302002">正在召唤发狂灵体</text>
+<text id="2302003">正在召唤其他灵体</text>
+<text id="2302100">正在召唤其他暗灵</text>
+<text id="2302101">正在召唤其他暗灵</text>
+<text id="2302102">正在召唤发狂暗灵</text>
+<text id="2302103">%null%</text>
+<text id="2302104">%null%</text>
+<text id="2302105">正在召唤其他暗灵</text>
+<text id="2311000">化为灵体，被召唤到其他世界</text>
+<text id="2311001">化为灵体，被召唤到其他世界</text>
+<text id="2311002">化为发狂灵体，被召唤到其他世界</text>
+<text id="2311003">化为灵体，被召唤到其他世界</text>
+<text id="2311100">化为暗灵，被召唤到其他世界</text>
+<text id="2311101">化为暗灵，被召唤到其他世界</text>
+<text id="2311102">化为发狂暗灵，被召唤到其他世界</text>
+<text id="2311103">%null%</text>
+<text id="2311104">%null%</text>
+<text id="2311105">化为暗灵，被召唤到其他世界</text>
+<text id="2311200">化为暗灵，入侵其他世界</text>
+<text id="2311201">化为暗灵，入侵其他世界</text>
+<text id="2311202">化为发狂暗灵，入侵其他世界</text>
+<text id="2311203">%null%</text>
+<text id="2311204">%null%</text>
+<text id="2311205">化为暗灵，入侵其他世界</text>
+<text id="2311303">化为罪人狩猎灵，入侵其他世界</text>
+<text id="2311304">化为暗月之剑，被召唤至其他世界</text>
+<text id="2311305">%null%</text>
+<text id="2311306">化为誓约灵──法兰守卫，入侵其他世界</text>
+<text id="2311307">化为誓约灵──吞噬神明的守护人，入侵其他世界</text>
+<text id="2311308">化为青灵，被召唤至其他世界</text>
+<text id="2311409">化为灵体，被召唤到其他世界</text>
+<text id="2311410">化为灵体，被召唤到其他世界</text>
+<text id="2311411">化为暗灵，入侵其他世界</text>
+<text id="2311412">化为灵体，被召唤到其他世界</text>
+<text id="2321200">找不到要入侵的世界.</text>
+<text id="2321201">%null%</text>
+<text id="2321202">%null%</text>
+<text id="2331200">寻找另一个世界入侵。。。</text>
+<text id="2400000">由于无法召唤灵体
+连接状态问题.</text>
+<text id="2400001">%null%</text>
+<text id="2400002">%null%</text>
+<text id="2400003">%null%</text>
+<text id="2400100">%null%</text>
+<text id="2400101">%null%</text>
+<text id="2400102">%null%</text>
+<text id="2401000">由于无法召唤
+连接状态问题.</text>
+<text id="2401001">%null%</text>
+<text id="2401002">%null%</text>
+<text id="2401003">%null%</text>
+<text id="2401100">%null%</text>
+<text id="2401101">%null%</text>
+<text id="2401102">%null%</text>
+<text id="2401200">由于无法召唤
+连接状态问题.</text>
+<text id="2401201">%null%</text>
+<text id="2401202">%null%</text>
+<text id="2401303">%null%</text>
+<text id="2401304">%null%</text>
+<text id="2401305">%null%</text>
+<text id="2401306">%null%</text>
+<text id="2410000">无法召唤灵体
+无法参加联机</text>
+<text id="2410001">无法召唤灵体
+无法参加联机</text>
+<text id="2410002">无法召唤发狂灵体
+无法参加联机</text>
+<text id="2410003">无法召唤灵体
+无法参加联机</text>
+<text id="2410100">无法召唤暗灵
+无法参加联机</text>
+<text id="2410101">无法召唤暗灵
+无法参加联机</text>
+<text id="2410102">无法召唤发狂暗灵
+无法参加联机</text>
+<text id="2410103">%null%</text>
+<text id="2410104">%null%</text>
+<text id="2410105">无法召唤暗灵
+无法参加联机</text>
+<text id="2411000">无法被召唤
+无法参加联机</text>
+<text id="2411001">无法被召唤
+无法参加联机</text>
+<text id="2411002">无法被召唤
+无法参加联机</text>
+<text id="2411003">无法被召唤
+无法参加联机</text>
+<text id="2411100">无法被召唤
+无法参加联机</text>
+<text id="2411101">无法被召唤
+无法参加联机</text>
+<text id="2411102">无法被召唤
+无法参加联机</text>
+<text id="2411103">%null%</text>
+<text id="2411104">%null%</text>
+<text id="2411105">无法被召唤
+无法参加联机</text>
+<text id="2411200">无法入侵
+无法参加联机</text>
+<text id="2411201">无法入侵
+无法参加联机</text>
+<text id="2411202">无法入侵
+无法参加联机</text>
+<text id="2411203">%null%</text>
+<text id="2411204">%null%</text>
+<text id="2411205">无法入侵
+无法参加联机</text>
+<text id="2411303">无法入侵
+无法参加联机</text>
+<text id="2411304">无法被召唤
+无法参加联机</text>
+<text id="2411305">%null%</text>
+<text id="2411306">无法入侵
+无法参加联机</text>
+<text id="2411307">无法入侵
+无法参加联机</text>
+<text id="2411308">无法被召唤
+无法参加联机</text>
+<text id="2412000">召唤中止。
+无法加入会话.</text>
+<text id="2421000">召唤中止。
+火之宿主已死.</text>
+<text id="2421001">%null%</text>
+<text id="2421002">%null%</text>
+<text id="2421003">%null%</text>
+<text id="2421100">%null%</text>
+<text id="2421101">%null%</text>
+<text id="2421102">%null%</text>
+<text id="2421200">入侵中止。
+火之宿主已死.</text>
+<text id="2421201">%null%</text>
+<text id="2421202">%null%</text>
+<text id="2421303">%null%</text>
+<text id="2421304">%null%</text>
+<text id="2421305">%null%</text>
+<text id="2421306">%null%</text>
+<text id="2430100">%null%</text>
+<text id="2430101">%null%</text>
+<text id="2430102">%null%</text>
+<text id="2431100">%null%</text>
+<text id="2431101">%null%</text>
+<text id="2431102">%null%</text>
+<text id="2431200">入侵中止。
+火之宿主已经开始了一场关键的战斗.</text>
+<text id="2431201">%null%</text>
+<text id="2431202">%null%</text>
+<text id="2431303">%null%</text>
+<text id="2431304">%null%</text>
+<text id="2431305">%null%</text>
+<text id="2431306">%null%</text>
+<text id="2441000">召唤中止。
+火之宿主已完成关键战斗.</text>
+<text id="2441001">%null%</text>
+<text id="2441002">%null%</text>
+<text id="2441003">%null%</text>
+<text id="2450000">召唤幻象中止。
+灵体死在他们的世界里</text>
+<text id="2450001">召唤幻象中止。
+灵体死在他们的世界.</text>
+<text id="2450002">召唤疯狂的灵体中止。
+灵体死在他们的世界里</text>
+<text id="2450003">召唤幻象中止。
+灵体死在他们的世界.</text>
+<text id="2450100">黑暗精灵的召唤中止。
+黑暗精灵在他们的世界中死去.</text>
+<text id="2450101">黑暗精灵的召唤中止。
+黑暗精灵在他们的世界中死去.</text>
+<text id="2450102">黑暗精灵的召唤中止。
+黑暗精灵在他们的世界中死去.</text>
+<text id="2450103">%null%</text>
+<text id="2450104">%null%</text>
+<text id="2450105">黑暗精灵的召唤中止。
+黑暗精灵在他们的世界中死去</text>
+<text id="2460000">已一段时间内没有响应
+故无法召唤灵体</text>
+<text id="2460001">已一段时间内没有响应
+故无法召唤灵体</text>
+<text id="2460002">已一段时间内没有响应
+故无法召唤发狂灵体</text>
+<text id="2460003">已一段时间内没有响应
+故无法召唤灵体</text>
+<text id="2460100">已一段时间内没有响应
+故无法召唤暗灵</text>
+<text id="2460101">已一段时间内没有响应
+故无法召唤暗灵</text>
+<text id="2460102">已一段时间内没有响应
+故无法召唤发狂暗灵</text>
+<text id="2460103">%null%</text>
+<text id="2460104">%null%</text>
+<text id="2460105">已一段时间内没有响应
+故无法召唤暗灵</text>
+<text id="2461000">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461001">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461002">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461003">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461100">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461101">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461102">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461103">%null%</text>
+<text id="2461104">%null%</text>
+<text id="2461105">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461200">已一段时间内没有响应
+故无法入侵</text>
+<text id="2461201">已一段时间内没有响应
+故无法入侵</text>
+<text id="2461202">已一段时间内没有响应
+故无法入侵</text>
+<text id="2461203">%null%</text>
+<text id="2461204">%null%</text>
+<text id="2461205">已一段时间内没有响应
+故无法入侵</text>
+<text id="2461303">已一段时间内没有响应
+故无法入侵</text>
+<text id="2461304">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2461305">%null%</text>
+<text id="2461306">已一段时间内没有响应
+故无法入侵</text>
+<text id="2461307">已一段时间内没有响应
+故无法入侵</text>
+<text id="2461308">已一段时间内没有响应
+故无法被召唤</text>
+<text id="2462000">%null%</text>
+<text id="2471304">%null%</text>
+<text id="2481304">%null%</text>
+<text id="2490000">无法召唤灵体</text>
+<text id="2490001">无法召唤灵体</text>
+<text id="2490002">无法召唤发狂灵体</text>
+<text id="2490003">无法召唤灵体</text>
+<text id="2490100">无法召唤暗灵</text>
+<text id="2490101">无法召唤暗灵</text>
+<text id="2490102">无法召唤发狂暗灵</text>
+<text id="2490103">%null%</text>
+<text id="2490104">%null%</text>
+<text id="2490105">无法召唤暗灵</text>
+<text id="2491000">无法被召唤</text>
+<text id="2491001">无法被召唤</text>
+<text id="2491002">无法被召唤</text>
+<text id="2491003">无法被召唤</text>
+<text id="2491100">无法被召唤</text>
+<text id="2491101">无法被召唤</text>
+<text id="2491102">无法被召唤</text>
+<text id="2491103">%null%</text>
+<text id="2491104">%null%</text>
+<text id="2491105">无法被召唤</text>
+<text id="2491200">无法入侵</text>
+<text id="2491201">无法入侵</text>
+<text id="2491202">无法入侵</text>
+<text id="2491203">%null%</text>
+<text id="2491204">%null%</text>
+<text id="2491205">无法入侵</text>
+<text id="2491303">无法入侵</text>
+<text id="2491304">无法被召唤</text>
+<text id="2491305">%null%</text>
+<text id="2491306">无法入侵</text>
+<text id="2491307">无法入侵</text>
+<text id="2491308">无法被召唤</text>
+<text id="2492000">无法召唤灵体。</text>
+<text id="2492001">无法召唤灵体。</text>
+<text id="2492002">无法召唤灵体。</text>
+<text id="2492003">无法召唤灵体。</text>
+<text id="2492100">无法召唤暗灵。</text>
+<text id="2492101">无法召唤暗灵。</text>
+<text id="2492102">无法召唤暗灵。</text>
+<text id="2501000">返回你的世界。。。</text>
+<text id="2501001">%null%</text>
+<text id="2501002">%null%</text>
+<text id="2501003">%null%</text>
+<text id="2501100">%null%</text>
+<text id="2501101">%null%</text>
+<text id="2501102">%null%</text>
+<text id="2501200">返回你的世界。。。</text>
+<text id="2501201">%null%</text>
+<text id="2501202">%null%</text>
+<text id="2501303">%null%</text>
+<text id="2501304">%null%</text>
+<text id="2501305">%null%</text>
+<text id="2501306">%null%</text>
+<text id="2510000">无法召唤灵体
+联机建立失败</text>
+<text id="2510001">无法召唤灵体
+联机建立失败</text>
+<text id="2510002">无法召唤发狂灵体
+联机建立失败</text>
+<text id="2510003">无法召唤灵体
+联机建立失败</text>
+<text id="2510100">无法召唤暗灵
+联机建立失败</text>
+<text id="2510101">无法召唤暗灵
+联机建立失败</text>
+<text id="2510102">无法召唤发狂暗灵
+联机建立失败</text>
+<text id="2510103">%null%</text>
+<text id="2510104">%null%</text>
+<text id="2510105">无法召唤暗灵
+联机建立失败</text>
+<text id="2521000">无法被召唤
+参加联机失败</text>
+<text id="2521001">无法被召唤
+参加联机失败</text>
+<text id="2521002">无法被召唤
+参加联机失败</text>
+<text id="2521003">无法被召唤
+参加联机失败</text>
+<text id="2521100">无法被召唤
+参加联机失败</text>
+<text id="2521101">无法被召唤
+参加联机失败</text>
+<text id="2521102">无法被召唤
+参加联机失败</text>
+<text id="2521103">%null%</text>
+<text id="2521104">%null%</text>
+<text id="2521105">无法被召唤
+参加联机失败</text>
+<text id="2521200">无法入侵
+参加联机失败</text>
+<text id="2521201">无法入侵
+参加联机失败</text>
+<text id="2521202">无法入侵
+参加联机失败</text>
+<text id="2521203">%null%</text>
+<text id="2521204">%null%</text>
+<text id="2521205">无法入侵
+参加联机失败</text>
+<text id="2521303">无法被召唤
+参加联机失败</text>
+<text id="2521304">无法被召唤
+参加联机失败</text>
+<text id="2521305">%null%</text>
+<text id="2521306">无法入侵
+参加联机失败</text>
+<text id="2521307">无法入侵
+参加联机失败</text>
+<text id="2521308">无法被召唤
+参加联机失败</text>
+<text id="2600000">已召唤灵体&lt;?joinName?&gt;</text>
+<text id="2600001">已召唤灵体&lt;?joinName?&gt;</text>
+<text id="2600002">已召唤发狂灵体&lt;?joinName?&gt;</text>
+<text id="2600003">已召唤灵体&lt;?joinName?&gt;</text>
+<text id="2600100">已召唤暗灵&lt;?joinName?&gt;</text>
+<text id="2600101">已召唤暗灵&lt;?joinName?&gt;</text>
+<text id="2600102">已召唤发狂暗灵&lt;?joinName?&gt;</text>
+<text id="2600103">%null%</text>
+<text id="2600104">%null%</text>
+<text id="2600105">已召唤暗灵&lt;?joinName?&gt;</text>
+<text id="2600200">遭到暗灵&lt;?joinName?&gt;入侵！</text>
+<text id="2600201">遭到暗灵&lt;?joinName?&gt;入侵！</text>
+<text id="2600202">遭到发狂暗灵&lt;?joinName?&gt;入侵！</text>
+<text id="2600203">%null%</text>
+<text id="2600204">%null%</text>
+<text id="2600205">遭到暗灵&lt;?joinName?&gt;入侵！</text>
+<text id="2600303">遭到罪人狩猎灵&lt;?joinName?&gt;入侵！</text>
+<text id="2600304">暗月之剑 &lt;?joinName?&gt;依约接受召唤</text>
+<text id="2600305">%null%</text>
+<text id="2600306">遭到誓约灵──法兰守卫 &lt;?joinName?&gt;入侵！</text>
+<text id="2600307">遭到誓约灵──吞噬神明的守护人 &lt;?joinName?&gt;入侵！</text>
+<text id="2600308">青灵&lt;?joinName?&gt;依约接受召唤</text>
+<text id="2601000">被召唤至火之宿主&lt;?hostName?&gt;的世界</text>
+<text id="2601001">被召唤至火之宿主&lt;?hostName?&gt;的世界</text>
+<text id="2601002">被召唤至火之宿主&lt;?hostName?&gt;的世界
+不论是宿主或其他灵体都行，杀害&lt;?bskKillCount?&gt;个灵体吧</text>
+<text id="2601003">被召唤至火之宿主&lt;?hostName?&gt;的世界</text>
+<text id="2601100">被召唤至火之宿主&lt;?hostName?&gt;的世界</text>
+<text id="2601101">被召唤至火之宿主&lt;?hostName?&gt;的世界</text>
+<text id="2601102">被召唤至火之宿主&lt;?hostName?&gt;的世界
+不论是宿主或其他灵体都行，杀害&lt;?bskKillCount?&gt;个灵体吧</text>
+<text id="2601103">%null%</text>
+<text id="2601104">%null%</text>
+<text id="2601105">被召唤至火之宿主&lt;?hostName?&gt;的世界</text>
+<text id="2601200">已入侵火之宿主&lt;?hostName?&gt;的世界</text>
+<text id="2601201">已入侵火之宿主&lt;?hostName?&gt;的世界</text>
+<text id="2601202">已入侵火之宿主&lt;?hostName?&gt;的世界
+不论是宿主或其他灵体都行，杀害&lt;?bskKillCount?&gt;个灵体吧</text>
+<text id="2601203">%null%</text>
+<text id="2601204">%null%</text>
+<text id="2601205">已入侵&lt;?hostName?&gt;的世界</text>
+<text id="2601303">已入侵&lt;?hostName?&gt;的世界</text>
+<text id="2601304">被召唤至青教誓约人 &lt;?hostName?&gt;的世界</text>
+<text id="2601305">%null%</text>
+<text id="2601306">已入侵进犯森林者 &lt;?hostName?&gt;的世界</text>
+<text id="2601307">已入侵进犯废弃教堂者 &lt;?hostName?&gt;的世界</text>
+<text id="2601308">被召唤至青教誓约人 &lt;?hostName?&gt;的世界</text>
+<text id="2601409">被召唤至薄暮之国的希里丝的世界</text>
+<text id="2601410">被召唤至薄暮之国的希里丝的世界</text>
+<text id="2601411">入侵无名指的李奥纳德的世界</text>
+<text id="2601412">被召唤至亚斯特拉的安里的世界</text>
+<text id="2601500">被召唤至召唤者&lt;?hostName?&gt;的世界</text>
+<text id="2601501">被召唤至召唤者&lt;?hostName?&gt;的世界</text>
+<text id="2601502">被召唤至召唤者&lt;?hostName?&gt;的世界
+不论是召唤者或其他灵体都行，杀害&lt;?bskKillCount?&gt;个灵体吧</text>
+<text id="2601503">%null%</text>
+<text id="2601504">%null%</text>
+<text id="2601505">被召唤至召唤者&lt;?hostName?&gt;的世界</text>
+<text id="2602000">灵体&lt;?joinName?&gt;已被召唤</text>
+<text id="2602001">灵体&lt;?joinName?&gt;已被召唤</text>
+<text id="2602002">发狂灵体&lt;?joinName?&gt;已被召唤</text>
+<text id="2602003">灵体&lt;?joinName?&gt;已被召唤</text>
+<text id="2602100">暗灵&lt;?joinName?&gt;已被召唤</text>
+<text id="2602101">暗灵&lt;?joinName?&gt;已被召唤</text>
+<text id="2602102">发狂暗灵&lt;?joinName?&gt;已被召唤</text>
+<text id="2602103">%null%</text>
+<text id="2602104">%null%</text>
+<text id="2602105">暗灵&lt;?joinName?&gt;已被召唤</text>
+<text id="2602200">遭到暗灵&lt;?joinName?&gt;入侵！</text>
+<text id="2602201">遭到暗灵&lt;?joinName?&gt;入侵！</text>
+<text id="2602202">遭到发狂暗灵&lt;?joinName?&gt;入侵！</text>
+<text id="2602203">%null%</text>
+<text id="2602204">%null%</text>
+<text id="2602205">遭到暗灵&lt;?joinName?&gt;入侵</text>
+<text id="2602250">遭到暗灵&lt;?joinName?&gt;入侵</text>
+<text id="2602251">遭到暗灵&lt;?joinName?&gt;入侵</text>
+<text id="2602252">遭到发狂暗灵&lt;?joinName?&gt;入侵</text>
+<text id="2602253">%null%</text>
+<text id="2602254">%null%</text>
+<text id="2602255">遭到暗灵&lt;?joinName?&gt;入侵</text>
+<text id="2602303">遭到罪人狩猎灵&lt;?joinName?&gt;入侵！</text>
+<text id="2602304">暗月之剑&lt;?joinName?&gt;依约接受召唤</text>
+<text id="2602305">%null%</text>
+<text id="2602306">遭到誓约灵──法兰守卫&lt;?joinName?&gt;入侵！</text>
+<text id="2602307">遭到誓约灵──吞噬神明的守护人&lt;?joinName?&gt;入侵！</text>
+<text id="2602308">青灵&lt;?joinName?&gt;依约接受召唤</text>
+<text id="2602353">遭到罪人狩猎灵&lt;?joinName?&gt;入侵</text>
+<text id="2602354">暗月之剑&lt;?joinName?&gt;依约被召唤现身！</text>
+<text id="2602355">%null%</text>
+<text id="2602356">遭到誓约灵──法兰守卫&lt;?joinName?&gt;入侵</text>
+<text id="2602357">遭到誓约灵──吞噬神明的守护人&lt;?joinName?&gt;入侵</text>
+<text id="2602358">青灵&lt;?joinName?&gt;依约被召唤现身！</text>
+<text id="2610304">暗月之剑&lt;?leaveName?&gt;完成约定下的使命故已回到原来的世界</text>
+<text id="2610305">%null%</text>
+<text id="2610306">%null%</text>
+<text id="2610307">%null%</text>
+<text id="2610308">青灵&lt;?leaveName?&gt;完成约定下的使命故已回到原来的世界</text>
+<text id="2611000">区域内的最终战斗已结束，将回到原来的世界</text>
+<text id="2611001">区域内的最终战斗已结束，将回到原来的世界</text>
+<text id="2611002">已找到枷锁脊椎骨，将回到原来的世界</text>
+<text id="2611003">区域内的最终战斗已结束，将回到原来的世界</text>
+<text id="2611003">关键战斗已完成。
+回到你的世界。</text>
+<text id="2611100">已打倒火之宿主，将回到原来的世界</text>
+<text id="2611100">火之宿主被击败。
+回到你的世界。</text>
+<text id="2611101">已打倒火之宿主，将回到原来的世界</text>
+<text id="2611101">火之宿主被击败。
+回到你的世界。</text>
+<text id="2611102">已找到枷锁脊椎骨，将回到原来的世界</text>
+<text id="2611102">找到椎骨镣铐。回到你的世界。</text>
+<text id="2611103">%null%</text>
+<text id="2611104">%null%</text>
+<text id="2611105">余烬之主被击败。
+回到你的世界。</text>
+<text id="2611200">余烬之主被击败。
+回到你的世界。</text>
+<text id="2611201">余烬之主被击败。
+回到你的世界。</text>
+<text id="2611202">找到椎骨镣铐。回到你的世界。</text>
+<text id="2611203">%null%</text>
+<text id="2611204">%null%</text>
+<text id="2611205">余烬之主被击败。
+回到你的世界。</text>
+<text id="2611303">余烬之主被击败。
+回到你的世界。</text>
+<text id="2611304">黑暗精灵被击败。任务完成。
+回到你的世界。</text>
+<text id="2611305">%null%</text>
+<text id="2611306">森林入侵者被击败。
+回到你的世界。</text>
+<text id="2611307">摧毁大教堂的入侵者被击败。
+回到你的世界。</text>
+<text id="2611308">黑暗精灵被击败。任务完成。
+回到你的世界。</text>
+<text id="2611409">流浪者克里顿被击败。
+回到你的世界。</text>
+<text id="2611410">圣骑士霍德里克被击败。
+回到你的世界。</text>
+<text id="2611411">无名指莱昂哈德被击败。
+回到你的世界。</text>
+<text id="2611412">众神吞噬者奥尔德里奇被击败。
+回到你的世界。</text>
+<text id="2611500">召唤师被击败。
+回到你的世界。</text>
+<text id="2611501">已打倒召唤者，将回到原来的世界</text>
+<text id="2611502">已找到枷锁脊椎骨，将回到原来的世界</text>
+<text id="2611503">%null%</text>
+<text id="2611504">%null%</text>
+<text id="2611505">已打倒召唤者，将回到原来的世界</text>
+<text id="2612304">暗月之剑&lt;?leaveName?&gt;完成约定下的使命故已回到原来的世界</text>
+<text id="2612305">%null%</text>
+<text id="2612306">%null%</text>
+<text id="2612307">%null%</text>
+<text id="2612308">青灵&lt;?leaveName?&gt;完成约定下的使命故已回到原来的世界</text>
+<text id="2614002">发狂灵体&lt;?leaveName?&gt;找到某物后已回到原来的世界</text>
+<text id="2614102">发狂暗灵&lt;?leaveName?&gt;找到某物后已回到原来的世界</text>
+<text id="2614202">发狂暗灵&lt;?leaveName?&gt;找到某物后已回到原来的世界</text>
+<text id="2615002">已找到枷锁脊椎骨，将回到原来的世界</text>
+<text id="2615102">已找到枷锁脊椎骨，将回到原来的世界</text>
+<text id="2615202">已找到枷锁脊椎骨，将回到原来的世界</text>
+<text id="2616002">发狂灵体&lt;?leaveName?&gt;找到某物后已回到原来的世界</text>
+<text id="2616102">发狂暗灵&lt;?leaveName?&gt;找到某物后已回到原来的世界</text>
+<text id="2616202">发狂暗灵&lt;?leaveName?&gt;找到某物后已回到原来的世界</text>
+<text id="2620000">灵体&lt;?deadName?&gt;已死亡</text>
+<text id="2620001">灵体&lt;?deadName?&gt;已死亡</text>
+<text id="2620002">发狂灵体&lt;?deadName?&gt;已死亡</text>
+<text id="2620003">灵体&lt;?deadName?&gt;已死亡</text>
+<text id="2620100">暗灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620101">暗灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620102">发狂暗灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620103">%null%</text>
+<text id="2620104">%null%</text>
+<text id="2620105">暗灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620200">暗灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620201">暗灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620202">发狂暗灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620203">%null%</text>
+<text id="2620204">%null%</text>
+<text id="2620205">暗灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620303">罪人狩猎灵&lt;?deadName?&gt;已死亡</text>
+<text id="2620304">暗月之剑 &lt;?deadName?&gt;已死亡</text>
+<text id="2620305">%null%</text>
+<text id="2620306">誓约灵──法兰守卫 &lt;?deadName?&gt;已死亡</text>
+<text id="2620307">誓约灵──吞噬神明的守护 &lt;?deadName?&gt;已死亡</text>
+<text id="2620308">青灵&lt;?deadName?&gt;已死亡</text>
+<text id="2621000">您已经死亡，将回到原来的世界</text>
+<text id="2621001">您已经死亡，将回到原来的世界</text>
+<text id="2621002">您已经死亡，将回到原来的世界</text>
+<text id="2621003">您已经死亡，将回到原来的世界</text>
+<text id="2621100">您已经死亡，将回到原来的世界</text>
+<text id="2621101">您已经死亡，将回到原来的世界</text>
+<text id="2621102">您已经死亡，将回到原来的世界</text>
+<text id="2621103">%null%</text>
+<text id="2621104">%null%</text>
+<text id="2621105">您已经死亡，将回到原来的世界</text>
+<text id="2621200">您已经死亡，将回到原来的世界</text>
+<text id="2621201">您已经死亡，将回到原来的世界</text>
+<text id="2621202">您已经死亡，将回到原来的世界</text>
+<text id="2621203">%null%</text>
+<text id="2621204">%null%</text>
+<text id="2621205">您已经死亡，将回到原来的世界</text>
+<text id="2621303">您已经死亡，将回到原来的世界</text>
+<text id="2621304">您已经死亡，将回到原来的世界</text>
+<text id="2621305">%null%</text>
+<text id="2621306">您已经死亡，将回到原来的世界</text>
+<text id="2621307">您已经死亡，将回到原来的世界</text>
+<text id="2621308">您已经死亡，将回到原来的世界</text>
+<text id="2621409">您已经死亡，将回到原来的世界</text>
+<text id="2621410">您已经死亡，将回到原来的世界</text>
+<text id="2621411">您已经死亡，将回到原来的世界</text>
+<text id="2621412">您已经死亡，将回到原来的世界</text>
+<text id="2622000">灵体&lt;?deadName?&gt;已经死亡</text>
+<text id="2622001">灵体&lt;?deadName?&gt;已经死亡</text>
+<text id="2622002">疯狂灵体&lt;?deadName?&gt;已经死亡</text>
+<text id="2622003">灵体&lt;?deadName?&gt;已经死亡</text>
+<text id="2622100">暗灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2622101">暗灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2622102">疯狂暗灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2622103">%null%</text>
+<text id="2622104">%null%</text>
+<text id="2622105">暗灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2622200">暗灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2622201">暗灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2622202">疯狂暗灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2622203">%null%</text>
+<text id="2622204">%null%</text>
+<text id="2622205">暗灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2622303">罪人猎杀者 &lt;?deadName?&gt;已经死亡.</text>
+<text id="2622304">暗月之刃 &lt;?deadName?&gt;已经死亡</text>
+<text id="2622305">%null%</text>
+<text id="2622306">契约灵 法兰监视者 &lt;?deadName?&gt;已经死亡</text>
+<text id="2622307">契约灵 艾尔德里奇忠诚 &lt;?deadName?&gt;已经死亡</text>
+<text id="2622308">蓝灵&lt;?deadName?&gt;已经死亡</text>
+<text id="2630000">灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630001">灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630002">疯狂灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630003">灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630100">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630101">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630102">疯狂暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630103">%null%</text>
+<text id="2630104">%null%</text>
+<text id="2630105">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630200">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630201">暗灵&lt;?leaveName?&gt;已经返回自己的世界。</text>
+<text id="2630202">疯狂暗灵&lt;?leaveName?&gt;已经返回自己的世界。</text>
+<text id="2630203">%null%</text>
+<text id="2630204">%null%</text>
+<text id="2630205">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630303">罪人猎杀者 &lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630304">暗月之刃 &lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630305">%null%</text>
+<text id="2630306">契约灵 法兰监视者 &lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630307">契约灵 艾尔德里奇忠诚 &lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2630308">蓝灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2631000">返回自己的世界。。。</text>
+<text id="2631001">返回自己的世界。。。</text>
+<text id="2631002">返回自己的世界。。。</text>
+<text id="2631003">返回自己的世界。。。</text>
+<text id="2631100">返回自己的世界。。。</text>
+<text id="2631101">返回自己的世界。。。</text>
+<text id="2631102">返回自己的世界。。。</text>
+<text id="2631103">%null%</text>
+<text id="2631104">%null%</text>
+<text id="2631105">返回自己的世界。。。</text>
+<text id="2631200">返回自己的世界。。。</text>
+<text id="2631201">返回自己的世界。。。</text>
+<text id="2631202">返回自己的世界。。。</text>
+<text id="2631203">%null%</text>
+<text id="2631204">%null%</text>
+<text id="2631205">返回自己的世界。。。</text>
+<text id="2631303">返回自己的世界。。。</text>
+<text id="2631304">返回自己的世界。。。</text>
+<text id="2631305">%null%</text>
+<text id="2631306">返回自己的世界。。。</text>
+<text id="2631307">返回自己的世界。。。</text>
+<text id="2631308">返回自己的世界。。。</text>
+<text id="2631409">返回自己的世界。。。</text>
+<text id="2631410">返回自己的世界。。。</text>
+<text id="2631411">返回自己的世界。。。</text>
+<text id="2631412">返回自己的世界。。。</text>
+<text id="2632000">灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632001">灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632002">疯狂灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632003">灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632100">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632101">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632102">疯狂暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632103">%null%</text>
+<text id="2632104">%null%</text>
+<text id="2632105">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632200">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632201">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632202">疯狂暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632203">%null%</text>
+<text id="2632204">%null%</text>
+<text id="2632205">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632303">罪人猎杀者 &lt;?leaveName?&gt;已经返回自己的世界。</text>
+<text id="2632304">暗月之刃 &lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632305">%null%</text>
+<text id="2632306">契约灵 法兰监视者 &lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632307">契约灵 艾尔德里奇忠诚 &lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2632308">蓝灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="2640000">灵体&lt;?leaveName?&gt;被送回自己的世界</text>
+<text id="2640001">灵体&lt;?leaveName?&gt;被送回自己的世界</text>
+<text id="2640002">%null%</text>
+<text id="2640003">灵体&lt;?leaveName?&gt;被送回自己的世界</text>
+<text id="2640304">暗月之刃 &lt;?leaveName?&gt;被送回自己的世界</text>
+<text id="2640305">%null%</text>
+<text id="2640306">%null%</text>
+<text id="2640307">%null%</text>
+<text id="2640308">蓝灵&lt;?leaveName?&gt;被送回自己的世界</text>
+<text id="2641000">火之宿主将.
+返回自己的世界。</text>
+<text id="2641001">火之宿主将.
+返回自己的世界。</text>
+<text id="2641002">%null%</text>
+<text id="2641003">火之宿主将.
+返回自己的世界。</text>
+<text id="2641304">青教被送回家.
+返回自己的世界。</text>
+<text id="2641305">%null%</text>
+<text id="2641306">%null%</text>
+<text id="2641307">%null%</text>
+<text id="2641308">被青教的方式送回家.
+返回自己的世界。</text>
+<text id="2642000">灵体&lt;?leaveName?&gt;已被送回自己的世界</text>
+<text id="2642001">灵体&lt;?leaveName?&gt;已被送回自己的世界</text>
+<text id="2642002">%null%</text>
+<text id="2642003">灵体&lt;?leaveName?&gt;已经返回自己的世界。</text>
+<text id="2642304">暗月之刃 &lt;?leaveName?&gt;已被送回自己的世界</text>
+<text id="2642305">%null%</text>
+<text id="2642306">%null%</text>
+<text id="2642307">%null%</text>
+<text id="2642308">蓝灵&lt;?leaveName?&gt;已被送回自己的世界</text>
+<text id="2651000">火之宿主已经死亡。返回自己的世界。</text>
+<text id="2651001">火之宿主已经死亡。返回自己的世界。</text>
+<text id="2651002">火之宿主已经死亡。返回自己的世界。</text>
+<text id="2651003">火之宿主已经死亡。返回自己的世界。</text>
+<text id="2651304">青教已经死亡。返回自己的世界。</text>
+<text id="2651305">%null%</text>
+<text id="2651306">%null%</text>
+<text id="2651307">%null%</text>
+<text id="2651308">青教已经死亡。返回自己的世界。</text>
+<text id="2651409">落日国度的西里斯 已经死亡.
+返回自己的世界。</text>
+<text id="2651410">落日国度的西里斯 已经死亡.
+返回自己的世界。</text>
+<text id="2651411">%null%</text>
+<text id="2651412">阿斯托拉的安里 已经死亡.
+返回自己的世界。</text>
+<text id="2661000">现在可以访问关键战斗</text>
+<text id="2661001">现在可以访问关键战斗</text>
+<text id="2661002">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661003">现在可以访问关键战斗.</text>
+<text id="2661100">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661101">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661102">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661103">%null%</text>
+<text id="2661104">%null%</text>
+<text id="2661105">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661200">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661201">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661202">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661203">%null%</text>
+<text id="2661204">%null%</text>
+<text id="2661205">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661303">火之宿主已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661304">青教 已经开始了关键的战斗。
+任务完成。 返回自己的世界。</text>
+<text id="2661305">%null%</text>
+<text id="2661306">森林入侵者已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661307">毁坏的大教堂入侵者已经开始了关键的战斗。 返回自己的世界。</text>
+<text id="2661308">青教 已经开始了关键的战斗。
+任务完成。 返回自己的世界。</text>
+<text id="2661500">召唤师已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661501">召唤师已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661502">召唤师已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2661503">%null%</text>
+<text id="2661504">%null%</text>
+<text id="2661505">召唤师已经开始了关键的战斗。返回自己的世界。</text>
+<text id="2670000">返回你的世界?</text>
+<text id="2670304">任务完成。
+暗月之刃&lt;?leaveName?&gt; 回到他们的世界.</text>
+<text id="2670305">%null%</text>
+<text id="2670306">%null%</text>
+<text id="2670307">%null%</text>
+<text id="2670308">任务完成。
+蓝灵&lt;?leaveName?&gt; 回到他们的世界.</text>
+<text id="2671304">暗灵&lt;?leaveName?&gt;已经返回自己的世界。
+你的任务完成。返回自己的世界。</text>
+<text id="2671305">%null%</text>
+<text id="2671306">%null%</text>
+<text id="2671307">%null%</text>
+<text id="2671308">暗灵&lt;?leaveName?&gt;已经返回自己的世界。
+你的任务完成。 返回自己的世界。</text>
+<text id="2672304">任务完成。
+暗月之刃 &lt;?leaveName?&gt; 回到他们的世界.</text>
+<text id="2672305">%null%</text>
+<text id="2672306">%null%</text>
+<text id="2672307">%null%</text>
+<text id="2672308">任务完成。
+蓝灵&lt;?leaveName?&gt; 回到他们的世界.</text>
+<text id="2681100">火之宿主已离开该地区。返回自己的世界。</text>
+<text id="2681101">火之宿主已离开该地区。返回自己的世界。</text>
+<text id="2681102">火之宿主已离开该地区。返回自己的世界。</text>
+<text id="2681500">召唤师已离开该地区。返回自己的世界。</text>
+<text id="2681501">召唤师已离开该地区。返回自己的世界。</text>
+<text id="2681502">召唤师已离开该地区。返回自己的世界。</text>
+<text id="2691002">杀死&lt;?bskKillCountRemain?&gt;更多的灵体们</text>
+<text id="2691102">杀死&lt;?bskKillCountRemain?&gt;更多的灵体们</text>
+<text id="2691202">杀死&lt;?bskKillCountRemain?&gt;更多的灵体们</text>
+<text id="2692000">灵体&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692001">灵体&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692002">疯狂灵体&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692100">暗灵&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692101">暗灵&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692102">疯狂暗灵&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692200">暗灵&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692201">暗灵&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692202">疯狂暗灵&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692304">暗月之刃 &lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692305">%null%</text>
+<text id="2692306">法兰的监视者&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692307">Aldrich 信仰ful &lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2692308">蓝灵&lt;?deadName?&gt;被杀。
+杀死&lt;?bskKillCountRemain?&gt;更多的灵体们。</text>
+<text id="2701000">发生连接错误
+返回自己的世界。</text>
+<text id="2701001">发生连接错误
+返回自己的世界。</text>
+<text id="2701002">发生连接错误
+返回自己的世界。</text>
+<text id="2701003">发生连接错误
+返回自己的世界。</text>
+<text id="2701100">发生连接错误
+返回自己的世界。</text>
+<text id="2701101">发生连接错误
+返回自己的世界。</text>
+<text id="2701102">发生连接错误
+返回自己的世界。</text>
+<text id="2701103">%null%</text>
+<text id="2701104">%null%</text>
+<text id="2701105">发生连接错误
+返回自己的世界。</text>
+<text id="2701200">发生连接错误
+返回自己的世界。</text>
+<text id="2701201">发生连接错误
+返回自己的世界。</text>
+<text id="2701202">发生连接错误
+返回自己的世界。</text>
+<text id="2701203">%null%</text>
+<text id="2701204">%null%</text>
+<text id="2701205">发生连接错误
+返回自己的世界。</text>
+<text id="2701303">发生连接错误
+返回自己的世界。</text>
+<text id="2701304">发生连接错误
+返回自己的世界。</text>
+<text id="2701305">%null%</text>
+<text id="2701306">发生连接错误
+返回自己的世界。</text>
+<text id="2701307">发生连接错误
+返回自己的世界。</text>
+<text id="2701308">发生连接错误
+返回自己的世界。</text>
+<text id="2712200">暗灵&lt;?deadName?&gt;被打败了。任务完成。
+返回自己的世界。</text>
+<text id="2712201">暗灵&lt;?deadName?&gt;被打败了。任务完成。
+返回自己的世界。</text>
+<text id="2712202">疯狂暗灵&lt;?deadName?&gt;被打败了。任务完成。
+返回自己的世界。</text>
+<text id="2722200">暗灵&lt;?leaveName?&gt;已经返回自己的世界。
+你的任务完成。 返回自己的世界。</text>
+<text id="2722201">暗灵&lt;?leaveName?&gt;已经返回自己的世界。
+你的任务完成。 返回自己的世界。</text>
+<text id="2722202">疯狂暗灵&lt;?leaveName?&gt;已经返回自己的世界。
+你的任务完成。 返回自己的世界。</text>
+<text id="2800000">回话丢失</text>
+<text id="2801000">回话丢失</text>
+<text id="2901002">召唤到火之宿主的世界 &lt;?hostName?&gt;。
+杀死宿主。</text>
+<text id="2901102">召唤到火之宿主的世界 &lt;?hostName?&gt;。
+杀死宿主。</text>
+<text id="2901202">入侵了火之宿主的世界&lt;?hostName?&gt;。
+杀死宿主。</text>
+<text id="2901502">被召唤到&lt;?hostName?&gt;的世界。
+杀死召唤者。</text>
+<text id="3000000">您的其中一条消息被评分</text>
+<text id="10010100">检查</text>
+<text id="10010101">捡起物品</text>
+<text id="10010102">搜刮尸体</text>
+<text id="10010103">拿起物品</text>
+<text id="10010104">拿起物品</text>
+<text id="10010105">容器地点</text>
+<text id="10010106">重置容器</text>
+<text id="10010107">拿起物品</text>
+<text id="10010108">链接第一道火焰</text>
+<text id="10010109">召唤防火女</text>
+<text id="10010110">确认</text>
+<text id="10010111">捕获活尸</text>
+<text id="10010112">进行仪式</text>
+<text id="10010113">喝原素汤</text>
+<text id="10010114">进入火焰</text>
+<text id="10010115">嘲讽</text>
+<text id="10010116">%null%</text>
+<text id="10010117">%null%</text>
+<text id="10010118">%null%</text>
+<text id="10010119">%null%</text>
+<text id="10010120">检查光环</text>
+<text id="10010121">%null%</text>
+<text id="10010122">%null%</text>
+<text id="10010123">%null%</text>
+<text id="10010124">%null%</text>
+<text id="10010125">%null%</text>
+<text id="10010126">%null%</text>
+<text id="10010127">%null%</text>
+<text id="10010128">%null%</text>
+<text id="10010129">%null%</text>
+<text id="10010130">熄灭火焰</text>
+<text id="10010131">举起环旗</text>
+<text id="10010132">放置水盆</text>
+<text id="10010133">发出声音</text>
+<text id="10010134">触摸高脚杯</text>
+<text id="10010135">蜡染头</text>
+<text id="10010136">触摸门</text>
+<text id="10010137">读信</text>
+<text id="10010138">宣誓仪式</text>
+<text id="10010139">穿越迷雾</text>
+<text id="10010140">将薪王柴薪归位</text>
+<text id="10010141">插入螺旋剑</text>
+<text id="10010142">跨栏</text>
+<text id="10010143">阅读铭文</text>
+<text id="10010144">%null%</text>
+<text id="10010145">%null%</text>
+<text id="10010146">%null%</text>
+<text id="10010147">%null%</text>
+<text id="10010148">%null%</text>
+<text id="10010149">%null%</text>
+<text id="10010150">触摸标记请求合作</text>
+<text id="10010151">%null%</text>
+<text id="10010152">%null%</text>
+<text id="10010153">%null%</text>
+<text id="10010154">%null%</text>
+<text id="10010155">%null%</text>
+<text id="10010156">%null%</text>
+<text id="10010157">%null%</text>
+<text id="10010158">%null%</text>
+<text id="10010159">%null%</text>
+<text id="10010160">被一些装置锁住</text>
+<text id="10010161">不能从这边打开</text>
+<text id="10010162">已解锁</text>
+<text id="10010163">被锁住</text>
+<text id="10010164">%null%</text>
+<text id="10010165">%null%</text>
+<text id="10010166">%null%</text>
+<text id="10010167">%null%</text>
+<text id="10010168">%null%</text>
+<text id="10010169">%null%</text>
+<text id="10010170">装置不动</text>
+<text id="10010171">没有领主灵魂交出</text>
+<text id="10010172">她一动不动</text>
+<text id="10010173">被大君封印</text>
+<text id="10010174">没有领主</text>
+<text id="10010175">%null%</text>
+<text id="10010176">%null%</text>
+<text id="10010177">%null%</text>
+<text id="10010178">%null%</text>
+<text id="10010179">%null%</text>
+<text id="10010180">%null%</text>
+<text id="10010181">点燃</text>
+<text id="10010182">点火</text>
+<text id="10010183">在营火处休息</text>
+<text id="10010184">防火女不在。不能点燃营火。</text>
+<text id="10010185">%null%</text>
+<text id="10010186">%null%</text>
+<text id="10010187">%null%</text>
+<text id="10010188">%null%</text>
+<text id="10010189">%null%</text>
+<text id="10010190">死亡</text>
+<text id="10010191">未响应。她不能说话。</text>
+<text id="10010192">%null%</text>
+<text id="10010193">%null%</text>
+<text id="10010194">%null%</text>
+<text id="10010195">拔剑</text>
+<text id="10010196">%null%</text>
+<text id="10010197">%null%</text>
+<text id="10010198">%null%</text>
+<text id="10010199">%null%</text>
+<text id="10010200">说话</text>
+<text id="10010201">%null%</text>
+<text id="10010202">%null%</text>
+<text id="10010203">%null%</text>
+<text id="10010204">%null%</text>
+<text id="10010205">%null%</text>
+<text id="10010206">%null%</text>
+<text id="10010207">%null%</text>
+<text id="10010208">%null%</text>
+<text id="10010209">%null%</text>
+<text id="10010210">下跪</text>
+<text id="10010211">%null%</text>
+<text id="10010212">%null%</text>
+<text id="10010213">%null%</text>
+<text id="10010214">%null%</text>
+<text id="10010215">%null%</text>
+<text id="10010216">%null%</text>
+<text id="10010217">%null%</text>
+<text id="10010218">%null%</text>
+<text id="10010219">%null%</text>
+<text id="10010220">在阳光祭坛前祈祷</text>
+<text id="10010221">在祭坛祈祷</text>
+<text id="10010222">向法兰老狼祈祷</text>
+<text id="10010223">向大主教麦克唐纳祈祷</text>
+<text id="10010224">%null%</text>
+<text id="10010225">%null%</text>
+<text id="10010226">说话</text>
+<text id="10010240">向罪恶女神维尔卡祈祷</text>
+<text id="10010300">向上爬</text>
+<text id="10010301">向下爬</text>
+<text id="10010400">打开</text>
+<text id="10010401">关闭</text>
+<text id="10010402">%null%</text>
+<text id="10010403">进入雾门</text>
+<text id="10010404">穿过白光</text>
+<text id="10010405">%null%</text>
+<text id="10010406">%null%</text>
+<text id="10010407">通过白光进入</text>
+<text id="10010408">%null%</text>
+<text id="10010409">%null%</text>
+<text id="10010410">检视璀璨光芒</text>
+<text id="10010500">踢梯</text>
+<text id="10010501">拉杆</text>
+<text id="10010502">推杆</text>
+<text id="10010503">转动手柄</text>
+<text id="10010504">棺材里的雀巢</text>
+<text id="10010505">退出棺材</text>
+<text id="10010506">像球一样蜷缩起来</text>
+<text id="10010507">起立</text>
+<text id="10010508">灭火</text>
+<text id="10010509">购买人性道具</text>
+<text id="10010510">触摸门</text>
+<text id="10010600">在洛德兰，升级并点燃营火</text>
+<text id="10010601">%null%</text>
+<text id="10010602">%null%</text>
+<text id="10010603">%null%</text>
+<text id="10010604">%null%</text>
+<text id="10010605">%null%</text>
+<text id="10010606">%null%</text>
+<text id="10010607">%null%</text>
+<text id="10010608">%null%</text>
+<text id="10010609">%null%</text>
+<text id="10010610">根据点燃仪式，你现在可以点燃超出正常范围的点燃</text>
+<text id="10010611">%null%</text>
+<text id="10010612">%null%</text>
+<text id="10010613">%null%</text>
+<text id="10010614">%null%</text>
+<text id="10010615">%null%</text>
+<text id="10010616">%null%</text>
+<text id="10010617">%null%</text>
+<text id="10010618">%null%</text>
+<text id="10010619">%null%</text>
+<text id="10010620">借助领主的力量，你现在可以在营火间穿梭</text>
+<text id="10010621">%null%</text>
+<text id="10010622">%null%</text>
+<text id="10010623">%null%</text>
+<text id="10010624">%null%</text>
+<text id="10010625">%null%</text>
+<text id="10010626">%null%</text>
+<text id="10010627">%null%</text>
+<text id="10010628">%null%</text>
+<text id="10010629">%null%</text>
+<text id="10010630">被大领主的力量封印</text>
+<text id="10010631">%null%</text>
+<text id="10010632">%null%</text>
+<text id="10010633">%null%</text>
+<text id="10010634">%null%</text>
+<text id="10010635">%null%</text>
+<text id="10010636">%null%</text>
+<text id="10010637">%null%</text>
+<text id="10010638">%null%</text>
+<text id="10010639">%null%</text>
+<text id="10010640">大领主的封印被打破</text>
+<text id="10010641">%null%</text>
+<text id="10010642">%null%</text>
+<text id="10010643">%null%</text>
+<text id="10010644">%null%</text>
+<text id="10010645">%null%</text>
+<text id="10010646">%null%</text>
+<text id="10010647">%null%</text>
+<text id="10010648">%null%</text>
+<text id="10010649">%null%</text>
+<text id="10010650">你被深渊带走了</text>
+<text id="10010651">%null%</text>
+<text id="10010652">%null%</text>
+<text id="10010653">%null%</text>
+<text id="10010654">%null%</text>
+<text id="10010655">%null%</text>
+<text id="10010656">%null%</text>
+<text id="10010657">%null%</text>
+<text id="10010658">%null%</text>
+<text id="10010659">%null%</text>
+<text id="10010660">被诅咒时，你的生命值减半。解除诅咒需要
+净化石或新隆多尔治疗师的帮助。</text>
+<text id="10010661">%null%</text>
+<text id="10010662">%null%</text>
+<text id="10010663">%null%</text>
+<text id="10010664">%null%</text>
+<text id="10010665">%null%</text>
+<text id="10010666">%null%</text>
+<text id="10010667">%null%</text>
+<text id="10010668">%null%</text>
+<text id="10010669">%null%</text>
+<text id="10010670">牺牲之后，灵魂不会丢失。
+但是戒指会消失。</text>
+<text id="10010671">%null%</text>
+<text id="10010672">%null%</text>
+<text id="10010673">%null%</text>
+<text id="10010674">%null%</text>
+<text id="10010675">%null%</text>
+<text id="10010676">%null%</text>
+<text id="10010677">%null%</text>
+<text id="10010678">%null%</text>
+<text id="10010679">%null%</text>
+<text id="10010680">%null%</text>
+<text id="10010681">%null%</text>
+<text id="10010682">%null%</text>
+<text id="10010683">%null%</text>
+<text id="10010684">%null%</text>
+<text id="10010685">%null%</text>
+<text id="10010686">%null%</text>
+<text id="10010687">%null%</text>
+<text id="10010688">%null%</text>
+<text id="10010689">%null%</text>
+<text id="10010690">你感觉到黑眼珠在颤抖</text>
+<text id="10010710">回到最后的营火休息时间？</text>
+<text id="10010711">失去所有灵魂并返回选定位置？</text>
+<text id="10010712">这个营火与其他营火隔开。不能变形。</text>
+<text id="10010713">游戏安装不完整。
+不能在营火之间穿梭。</text>
+<text id="10010714">%null%</text>
+<text id="10010715">%null%</text>
+<text id="10010716">%null%</text>
+<text id="10010717">%null%</text>
+<text id="10010718">%null%</text>
+<text id="10010719">%null%</text>
+<text id="10010720">%null%</text>
+<text id="10010721">灵体存在时不能使用营火</text>
+<text id="10010722">没有人性</text>
+<text id="10010723">无法继续点燃</text>
+<text id="10010724">没有秘密仪式无法进一步点燃</text>
+<text id="10010725">游魂时无法点燃</text>
+<text id="10010726">已经属于这个盟约</text>
+<text id="10010727">没有可以放弃的盟约</text>
+<text id="10010728">%null%</text>
+<text id="10010729">%null%</text>
+<text id="10010730">%null%</text>
+<text id="10010731">没有人性</text>
+<text id="10010732">交出人性和反向镂空？</text>
+<text id="10010733">你没有被诅咒</text>
+<text id="10010734">%null%</text>
+<text id="10010735">%null%</text>
+<text id="10010736">被诅咒时无法逆转</text>
+<text id="10010737">%null%</text>
+<text id="10010738">%null%</text>
+<text id="10010739">%null%</text>
+<text id="10010740">%null%</text>
+<text id="10010741">奉献人性，点燃火焰?</text>
+<text id="10010742">%null%</text>
+<text id="10010743">%null%</text>
+<text id="10010744">%null%</text>
+<text id="10010745">%null%</text>
+<text id="10010746">%null%</text>
+<text id="10010747">%null%</text>
+<text id="10010748">%null%</text>
+<text id="10010749">%null%</text>
+<text id="10010750">铁匠提升武器所需的特殊余烬</text>
+<text id="10010751">%null%</text>
+<text id="10010752">奉献不够</text>
+<text id="10010753">不足&lt;?gdsparam@271?&gt;</text>
+<text id="10010754">灵魂不足</text>
+<text id="10010755">学习手势</text>
+<text id="10010756">%null%</text>
+<text id="10010757">%null%</text>
+<text id="10010758">%null%</text>
+<text id="10010759">%null%</text>
+<text id="10010760">需要防火女灵魂来强化原素瓶</text>
+<text id="10010761">没有人性</text>
+<text id="10010762">%null%</text>
+<text id="10010763">%null%</text>
+<text id="10010764">%null%</text>
+<text id="10010765">%null%</text>
+<text id="10010766">%null%</text>
+<text id="10010767">%null%</text>
+<text id="10010768">! 冻伤 !</text>
+<text id="10010769">! 油浸 !</text>
+<text id="10010770">! 出血 !</text>
+<text id="10010771">! 中毒 !</text>
+<text id="10010772">! 有毒的 !</text>
+<text id="10010773">! 武器即将损坏 !</text>
+<text id="10010774">! 人性被盗 !</text>
+<text id="10010775">! 盔甲即将损坏 !</text>
+<text id="10010776">! 诅咒 !</text>
+<text id="10010777">! 武器损坏 !</text>
+<text id="10010778">! 盔甲损坏 !</text>
+<text id="10010800">使用&lt;?gdsparam@390?&gt;?</text>
+<text id="10010801">使用&lt;?gdsparam@700?&gt;?</text>
+<text id="10010802">使用&lt;?gdsparam@701?&gt;?</text>
+<text id="10010803">使用&lt;?gdsparam@702?&gt;?</text>
+<text id="10010804">使用&lt;?gdsparam@703?&gt;?</text>
+<text id="10010805">使用&lt;?gdsparam@704?&gt;?</text>
+<text id="10010806">使用&lt;?gdsparam@705?&gt;?</text>
+<text id="10010807">使用&lt;?gdsparam@706?&gt;?</text>
+<text id="10010808">使用&lt;?gdsparam@707?&gt;?</text>
+<text id="10010809">使用&lt;?gdsparam@708?&gt;?</text>
+<text id="10010810">%null%</text>
+<text id="10010811">%null%</text>
+<text id="10010812">使用&lt;?gdsparam@712?&gt;?</text>
+<text id="10010813">使用&lt;?gdsparam@713?&gt;?</text>
+<text id="10010814">使用&lt;?gdsparam@714?&gt;?</text>
+<text id="10010815">使用&lt;?gdsparam@715?&gt;?</text>
+<text id="10010816">使用&lt;?gdsparam@716?&gt;?</text>
+<text id="10010817">使用&lt;?gdsparam@717?&gt;?</text>
+<text id="10010818">使用&lt;?gdsparam@718?&gt;?</text>
+<text id="10010819">使用&lt;?gdsparam@719?&gt;?</text>
+<text id="10010820">使用&lt;?gdsparam@720?&gt;?</text>
+<text id="10010821">使用&lt;?gdsparam@721?&gt;?</text>
+<text id="10010822">使用&lt;?gdsparam@722?&gt;?</text>
+<text id="10010823">使用&lt;?gdsparam@723?&gt;?</text>
+<text id="10010824">使用&lt;?gdsparam@724?&gt;?</text>
+<text id="10010825">使用&lt;?gdsparam@725?&gt;?</text>
+<text id="10010826">使用&lt;?gdsparam@726?&gt;?</text>
+<text id="10010827">使用&lt;?gdsparam@727?&gt;?</text>
+<text id="10010828">使用&lt;?gdsparam@728?&gt;?</text>
+<text id="10010829">使用&lt;?gdsparam@729?&gt;?</text>
+<text id="10010830">使用&lt;?gdsparam@730?&gt;?</text>
+<text id="10010831">使用&lt;?gdsparam@731?&gt;?</text>
+<text id="10010832">使用&lt;?gdsparam@732?&gt;?</text>
+<text id="10010833">使用&lt;?gdsparam@733?&gt;?</text>
+<text id="10010834">使用&lt;?gdsparam@734?&gt;?</text>
+<text id="10010835">使用&lt;?gdsparam@735?&gt;?</text>
+<text id="10010836">使用&lt;?gdsparam@736?&gt;?</text>
+<text id="10010837">使用&lt;?gdsparam@737?&gt;?</text>
+<text id="10010838">使用&lt;?gdsparam@738?&gt;?</text>
+<text id="10010839">使用&lt;?gdsparam@739?&gt;?</text>
+<text id="10010840">使用&lt;?gdsparam@740?&gt;?</text>
+<text id="10010841">使用&lt;?gdsparam@741?&gt;?</text>
+<text id="10010842">使用&lt;?gdsparam@742?&gt;?</text>
+<text id="10010843">使用&lt;?gdsparam@743?&gt;?</text>
+<text id="10010860">已使用&lt;?gdsparam@2000?&gt;</text>
+<text id="10010861">已使用&lt;?gdsparam@2001?&gt;</text>
+<text id="10010862">已使用&lt;?gdsparam@2002?&gt;</text>
+<text id="10010863">已使用&lt;?gdsparam@2003?&gt;</text>
+<text id="10010864">已使用&lt;?gdsparam@2004?&gt;</text>
+<text id="10010865">已使用&lt;?gdsparam@2005?&gt;</text>
+<text id="10010866">已使用&lt;?gdsparam@2006?&gt;</text>
+<text id="10010867">已使用&lt;?gdsparam@2007?&gt;</text>
+<text id="10010868">已使用&lt;?gdsparam@2008?&gt;</text>
+<text id="10010869">已使用&lt;?gdsparam@2009?&gt;</text>
+<text id="10010870">已使用&lt;?gdsparam@2010?&gt;</text>
+<text id="10010871">已使用&lt;?gdsparam@2011?&gt;</text>
+<text id="10010872">已使用&lt;?gdsparam@2012?&gt;</text>
+<text id="10010873">已使用&lt;?gdsparam@2013?&gt;</text>
+<text id="10010874">已使用&lt;?gdsparam@2014?&gt;</text>
+<text id="10010875">已使用&lt;?gdsparam@2015?&gt;</text>
+<text id="10010876">已使用&lt;?gdsparam@2016?&gt;</text>
+<text id="10010877">已使用&lt;?gdsparam@2017?&gt;</text>
+<text id="10010878">已使用&lt;?gdsparam@2018?&gt;</text>
+<text id="10010879">已使用&lt;?gdsparam@2019?&gt;</text>
+<text id="10010880">%null%</text>
+<text id="10010881">已使用&lt;?gdsparam@2021?&gt;</text>
+<text id="10010882">已使用&lt;?gdsparam@2022?&gt;</text>
+<text id="10010883">已使用&lt;?gdsparam@2100?&gt;</text>
+<text id="10010884">%null%</text>
+<text id="10010885">%null%</text>
+<text id="10010886">%null%</text>
+<text id="10010887">%null%</text>
+<text id="10010888">%null%</text>
+<text id="10010889">已使用&lt;?gdsparam@2100?&gt;</text>
+<text id="10010890">使用不死人骨灰强化原素瓶?</text>
+<text id="10010891">原素瓶已增强</text>
+<text id="10010892">%null%</text>
+<text id="10010893">%null%</text>
+<text id="10010894">%null%</text>
+<text id="10010895">%null%</text>
+<text id="10010896">%null%</text>
+<text id="10010897">%null%</text>
+<text id="10010898">%null%</text>
+<text id="10010899">%null%</text>
+<text id="10010900">&lt;?gdsparam@1010?&gt;破碎，变成&lt;?gdsparam@1000?&gt;</text>
+<text id="10010901">&lt;?gdsparam@1020?&gt;破碎，变成&lt;?gdsparam@1000?&gt;</text>
+<text id="10010902">&lt;?gdsparam@1030?&gt;破碎，变成&lt;?gdsparam@1010?&gt;</text>
+<text id="10010903">&lt;?gdsparam@1040?&gt;破碎，变成&lt;?gdsparam@1020?&gt;</text>
+<text id="10010904">&lt;?gdsparam@1050?&gt;破碎，变成&lt;?gdsparam@1020?&gt;</text>
+<text id="10010905">&lt;?gdsparam@1060?&gt;破碎，变成&lt;?gdsparam@1020?&gt;</text>
+<text id="10010906">&lt;?gdsparam@1070?&gt;破碎，变成&lt;?gdsparam@1030?&gt;</text>
+<text id="10010907">&lt;?gdsparam@1080?&gt;破碎，变成&lt;?gdsparam@1040?&gt;</text>
+<text id="10010908">&lt;?gdsparam@1090?&gt;破碎，变成&lt;?gdsparam@1050?&gt;</text>
+<text id="10010909">&lt;?gdsparam@1100?&gt;破碎，变成&lt;?gdsparam@1060?&gt;</text>
+<text id="10010910">%null%</text>
+<text id="10010911">%null%</text>
+<text id="10010912">%null%</text>
+<text id="10010950">获得&lt;?gdsparam@5520?&gt;</text>
+<text id="10011950">选择目的地</text>
+<text id="10011951">传火祭祀场</text>
+<text id="10011952">营火最后休息地</text>
+<text id="10011953">关闭</text>
+<text id="10011954">选择目的地。所有的灵魂都会消失。</text>
+<text id="10012000">火焰熄灭</text>
+<text id="10012001">不在库存中的横幅</text>
+<text id="10012002">牢牢关上。</text>
+<text id="10012003">库存中没有神圣遗骸。</text>
+<text id="10012004">被一种奇怪的力量关闭</text>
+<text id="10012005">未持有人偶者禁止通过</text>
+<text id="10012006">水盆不在库存中</text>
+<text id="10012007">%null%</text>
+<text id="10012008">%null%</text>
+<text id="10012009">%null%</text>
+<text id="10012010">一颗巨树的种子尚未落下</text>
+<text id="10012011">%null%</text>
+<text id="10012012">%null%</text>
+<text id="10012013">%null%</text>
+<text id="10012014">%null%</text>
+<text id="10012015">%null%</text>
+<text id="10012016">%null%</text>
+<text id="10012017">%null%</text>
+<text id="10012018">%null%</text>
+<text id="10012019">%null%</text>
+<text id="10012020">召唤防火女？</text>
+<text id="10012021">链接第一道火焰？</text>
+<text id="10012022">%null%</text>
+<text id="10012023">%null%</text>
+<text id="10012024">%null%</text>
+<text id="10012025">%null%</text>
+<text id="10012026">%null%</text>
+<text id="10012027">%null%</text>
+<text id="10012028">%null%</text>
+<text id="10012029">%null%</text>
+<text id="10012030">回应落日国度的西里斯呼吁合作
+并被传唤为灵体?</text>
+<text id="10012031">回应阿斯特拉的安德里呼吁合作
+并被传唤为灵体?</text>
+<text id="10012032">入侵罗莎莉亚杀手的世界？</text>
+<text id="10012051">圣王洛斯里克，
+他路上的最后希望</text>
+<text id="10012052">深渊艾尔德里奇</text>
+<text id="10012053">深渊监视者</text>
+<text id="10012054">巨人尤姆，罪业之都</text>
+<text id="10012055">流放者鲁道斯</text>
+<text id="10012100">疯狂灵体召唤圣骑士霍德里克</text>
+<text id="10012101">疯狂灵体圣骑士霍德里克发现了什么，回到了他们的世界</text>
+<text id="10012102">疯狂灵体圣骑士霍德里克已经死亡</text>
+<text id="10012103">疯狂灵体圣骑士霍德里克已经返回自己的世界</text>
+<text id="10012120">疯狂灵体召唤圣骑士霍德里克</text>
+<text id="10012121">疯狂灵体圣骑士霍德里克发现了什么，回到了他们的世界</text>
+<text id="10012122">疯狂灵体圣骑士霍德里克已经死亡</text>
+<text id="10012123">疯狂灵体圣骑士霍德里克已经返回自己的世界</text>
+<text id="10012200">被入侵疯狂暗灵圣骑士霍德里克!</text>
+<text id="10012201">疯狂暗灵圣骑士霍德里克发现了什么，回到了他们的世界</text>
+<text id="10012202">疯狂暗灵圣骑士霍德里克已经死亡</text>
+<text id="10012203">疯狂暗灵圣骑士霍德里克已经返回自己的世界</text>
+<text id="10012220">被入侵疯狂暗灵圣骑士霍德里克!</text>
+<text id="10012221">疯狂暗灵圣骑士霍德里克发现了什么回到了他们的世界</text>
+<text id="10012222">疯狂暗灵圣骑士霍德里克已经死亡</text>
+<text id="10012223">疯狂暗灵圣骑士霍德里克已经返回自己的世界</text>
+<text id="10012224">%null%</text>
+<text id="10012225">%null%</text>
+<text id="10012226">%null%</text>
+<text id="10012227">%null%</text>
+<text id="10012228">%null%</text>
+<text id="10012229">%null%</text>
+<text id="10012230">疯狂暗灵圣骑士霍德里克入侵</text>
+<text id="10012231">疯狂暗灵圣骑士霍德里克发现了什么，回到了他们的世界</text>
+<text id="10012232">疯狂暗灵圣骑士霍德里克已经死亡</text>
+<text id="10012233">疯狂暗灵圣骑士霍德里克已经返回自己的世界</text>
+<text id="12000000">选择要购买道具的数量:</text>
+<text id="12000001">选择要购买道具的数量:</text>
+<text id="12000002">选择要购买道具的数量:</text>
+<text id="12000003">选择要购买道具的数量:</text>
+<text id="12000004">选择要购买道具的数量:</text>
+<text id="12000005">选择要购买道具的数量:</text>
+<text id="12000006">选择要购买道具的数量:</text>
+<text id="12000020">加入盟约?</text>
+<text id="12000021">加入盟约?</text>
+<text id="12000022">加入盟约?</text>
+<text id="12000023">加入盟约?</text>
+<text id="12000024">加入盟约?</text>
+<text id="12000025">加入盟约?</text>
+<text id="12000026">加入盟约?</text>
+<text id="12000100">你的罪可以得到赦免&lt;?evntAcquittalPrice?&gt;灵魂。
+你要请求赦免吗? </text>
+<text id="12000101">%null%</text>
+<text id="12000102">%null%</text>
+<text id="12000103">%null%</text>
+<text id="12000104">%null%</text>
+<text id="12000105">%null%</text>
+<text id="12000106">%null%</text>
+<text id="12000107">%null%</text>
+<text id="12000108">%null%</text>
+<text id="12000109">%null%</text>
+<text id="12000110">你的诅咒可以解除&lt;?evntAcquittalPrice?&gt;灵魂。
+你确定要请求解除吗?</text>
+<text id="12000200">燃烧&lt;?gdsparam@2143?&gt;?</text>
+<text id="12000201">选择要燃烧的数量</text>
+<text id="12000300">如果你开始旅程&lt;?nextLoopCount?&gt;,
+你将无法返回旅程&lt;?loopCount?&gt;.
+您确定要开始旅程吗&lt;?nextLoopCount?&gt;?</text>
+<text id="12002000">交出&lt;?gdsparam@2138?&gt;?</text>
+<text id="12002001">交出&lt;?gdsparam@390?&gt;?</text>
+<text id="12002002">需要&lt;?evntAcquittalPrice?&gt;灵魂。
+你要选择治愈黑暗印记吗?</text>
+<text id="12002003">使用&lt;?gdsparam@2141?&gt;去加强血瓶?</text>
+<text id="12003000">交出&lt;?gdsparam@2135?&gt;?</text>
+<text id="12003001">合成&lt;?weaponNameId@6260000?&gt; 
+和&lt;?weaponNameId@6280000?&gt;变成单一武器?</text>
+<text id="12004000">交出&lt;?gdsparam@2112?&gt;?</text>
+<text id="12006000">交出&lt;?gdsparam@372?&gt;?</text>
+<text id="12006001">交出&lt;?gdsparam@2136?&gt;?</text>
+<text id="12012000">交出&lt;?gdsparam@2118?&gt;?</text>
+<text id="12021000">扔进一套完整的卡塔琳娜盔甲?</text>
+<text id="12027000">这是一个令人憎恶的盟约。
+您确定要建立契约吗?</text>
+<text id="12027001">提供&lt;?gdsparam@373?&gt;并重生?</text>
+<text id="12027002">提供&lt;?gdsparam@373?&gt;并重生?</text>
+<text id="12027003">%null%</text>
+<text id="12027004">%null%</text>
+<text id="12027005">%null%</text>
+<text id="12027006">%null%</text>
+<text id="12027007">%null%</text>
+<text id="12027008">%null%</text>
+<text id="12027009">%null%</text>
+<text id="12027010">提供发青舌头&lt;?evntAcquittalPrice?&gt;并重生?</text>
+<text id="12027011">提供发青舌头&lt;?evntAcquittalPrice?&gt;并重生?</text>
+<text id="12027012">%null%</text>
+<text id="12027013">%null%</text>
+<text id="12027014">%null%</text>
+<text id="12027015">%null%</text>
+<text id="12027016">%null%</text>
+<text id="12027017">%null%</text>
+<text id="12027018">%null%</text>
+<text id="12027019">%null%</text>
+<text id="12027020">重生的代价是献出发青舌头。
+你确定要重生吗?</text>
+<text id="12027021">重生的代价是献出发青舌头。
+你确定要重生吗?</text>
+<text id="12027022">%null%</text>
+<text id="12027023">%null%</text>
+<text id="12027024">%null%</text>
+<text id="12027025">%null%</text>
+<text id="12027026">%null%</text>
+<text id="12027027">%null%</text>
+<text id="12027028">%null%</text>
+<text id="12027029">%null%</text>
+<text id="12027030">恢复&lt;?gdsparam@728?&gt;回到她的身体?</text>
+<text id="13000000">盟约效忠加深</text>
+<text id="13000001">盟约效忠加深</text>
+<text id="13000002">盟约效忠加深</text>
+<text id="13000003">盟约效忠加深</text>
+<text id="13000004">盟约效忠加深</text>
+<text id="13000005">盟约效忠加深</text>
+<text id="13000006">盟约效忠加深</text>
+<text id="13000007">%null%</text>
+<text id="13000008">%null%</text>
+<text id="13000009">%null%</text>
+<text id="13000010">盟约效忠加深。获得的排名。</text>
+<text id="13000011">盟约效忠加深。获得的排名。</text>
+<text id="13000012">盟约效忠加深。获得的排名。</text>
+<text id="13000013">盟约效忠加深。获得的排名。</text>
+<text id="13000014">盟约效忠加深。获得的排名。</text>
+<text id="13000015">盟约效忠加深。获得的排名。</text>
+<text id="13000016">盟约效忠加深。获得的排名。</text>
+<text id="13000017">%null%</text>
+<text id="13000018">%null%</text>
+<text id="13000019">%null%</text>
+<text id="13000020">不能奉献更多，做的好</text>
+<text id="13000021">不能奉献更多，做的好</text>
+<text id="13000022">不能奉献更多，做的好</text>
+<text id="13000023">不能奉献更多，做的好</text>
+<text id="13000024">不能奉献更多，做的好</text>
+<text id="13000025">不能奉献更多，做的好</text>
+<text id="13000026">不能奉献更多，做的好</text>
+<text id="13000027">%null%</text>
+<text id="13000028">%null%</text>
+<text id="13000029">%null%</text>
+<text id="13000030">没有&lt;?gdsparam@375?&gt;在库存中</text>
+<text id="13000031">没有&lt;?gdsparam@374?&gt;在库存中</text>
+<text id="13000032">没有&lt;?gdsparam@366?&gt;在库存中</text>
+<text id="13000033">没有&lt;?gdsparam@367?&gt;在库存中</text>
+<text id="13000034">没有&lt;?gdsparam@372?&gt;在库存中</text>
+<text id="13000035">没有&lt;?gdsparam@372?&gt;在库存中</text>
+<text id="13000036">没有&lt;?gdsparam@373?&gt;在库存中</text>
+<text id="13000037">%null%</text>
+<text id="13000038">%null%</text>
+<text id="13000039">%null%</text>
+<text id="13000040">已建立契约.</text>
+<text id="13000041">已建立契约.</text>
+<text id="13000042">已建立契约.</text>
+<text id="13000043">已建立契约.</text>
+<text id="13000044">已建立契约.</text>
+<text id="13000045">已建立契约.</text>
+<text id="13000046">您已获得契约证明</text>
+<text id="13000047">%null%</text>
+<text id="13000048">%null%</text>
+<text id="13000049">%null%</text>
+<text id="13000050">灵魂不足</text>
+<text id="13000100">你没有犯罪</text>
+<text id="13000101">你已解除诅咒</text>
+<text id="13000102">%null%</text>
+<text id="13000103">%null%</text>
+<text id="13000104">%null%</text>
+<text id="13000105">%null%</text>
+<text id="13000106">%null%</text>
+<text id="13000107">%null%</text>
+<text id="13000108">%null%</text>
+<text id="13000109">%null%</text>
+<text id="13000110">你没有被诅咒</text>
+<text id="13000111">你的诅咒已解除</text>
+<text id="13000200">不能再点燃</text>
+<text id="13000201">没有&lt;?gdsparam@2143?&gt;在库存中</text>
+<text id="13000202">%null%</text>
+<text id="13002010">增强原素瓶，使用次数增加</text>
+<text id="13002011">没有&lt;?gdsparam@2141?&gt;在库存中</text>
+<text id="13002012">无法进一步加强</text>
+<text id="13002013">没有&lt;?gdsparam@150?&gt;在库存中</text>
+<text id="13002014">没有&lt;?gdsparam@190?&gt;在库存中</text>
+<text id="13002015">%null%</text>
+<text id="13002016">%null%</text>
+<text id="13002017">%null%</text>
+<text id="13002018">%null%</text>
+<text id="13002019">%null%</text>
+<text id="13002020">黑暗印记已被治愈</text>
+<text id="13002021">你没有黑暗印记</text>
+<text id="13002022">%null%</text>
+<text id="13002023">%null%</text>
+<text id="13002024">%null%</text>
+<text id="13002025">%null%</text>
+<text id="13002026">%null%</text>
+<text id="13002027">%null%</text>
+<text id="13002028">%null%</text>
+<text id="13002029">%null%</text>
+<text id="13002030">防火女现在能够治愈黑暗符印</text>
+<text id="13003000">兄弟的叶子已合为一体</text>
+<text id="13006000">没有&lt;?gdsparam@372?&gt;在库存中</text>
+<text id="13007000">&lt;?gdsparam@388?&gt; 现在属于英雄</text>
+<text id="13009000">我会在牧师墓前等着。
+光荣地死去吧，你这该死的</text>
+<text id="13027000">没有&lt;?gdsparam@373?&gt;在库存中</text>
+<text id="13027001">没有&lt;?gdsparam@373?&gt;在库存中</text>
+<text id="13027002">%null%</text>
+<text id="13027003">%null%</text>
+<text id="13027004">%null%</text>
+<text id="13027005">你没有&lt;?evntAcquittalPrice?&gt;发青舌头在您的库存中.</text>
+<text id="13027006">你没有&lt;?evntAcquittalPrice?&gt;发青舌头在您的库存中.</text>
+<text id="13027007">%null%</text>
+<text id="13027008">%null%</text>
+<text id="13027009">%null%</text>
+<text id="13027010">已恢复&lt;?gdsparam@728?&gt;回到她的身体</text>
+<text id="13027011">%null%</text>
+<text id="13027012">%null%</text>
+<text id="13027013">%null%</text>
+<text id="13027014">%null%</text>
+<text id="13027015">%null%</text>
+<text id="13027016">%null%</text>
+<text id="13027017">%null%</text>
+<text id="13027018">%null%</text>
+<text id="13027019">%null%</text>
+<text id="13027020">在此生中，不可能再重生。
+坚持会让你变成一只蛴螬。</text>
+<text id="13027021">在此生中，不可能再重生。
+坚持会让你变成一只蛴螬。</text>
+<text id="14002000">渴望一个没有火焰的世界</text>
+<text id="14002001">拒绝</text>
+<text id="14005000">接受他的请求</text>
+<text id="14005001">拒绝</text>
+<text id="14006000">执行暗月忠诚度</text>
+<text id="14006001">什么都不做</text>
+<text id="14006002">什么都不做</text>
+<text id="14006003">%null%</text>
+<text id="14006004">%null%</text>
+<text id="14006005">%null%</text>
+<text id="14006006">%null%</text>
+<text id="14006007">%null%</text>
+<text id="14006008">%null%</text>
+<text id="14006009">%null%</text>
+<text id="14006010">是的,我可以飞</text>
+<text id="14006011">不,我不可以飞</text>
+<text id="14008000">接受她的骑士誓言</text>
+<text id="14008001">拒绝</text>
+<text id="14011000">告诉她你在哪里找到灰烬</text>
+<text id="14011001">什么都不说</text>
+<text id="14012000">授予请求</text>
+<text id="14012001">拒绝</text>
+<text id="14012002">送他去掠夺</text>
+<text id="14012003">拒绝</text>
+<text id="14012004">送他去掠夺</text>
+<text id="14012005">拒绝</text>
+<text id="14012006">送他去掠夺</text>
+<text id="14012007">拒绝</text>
+<text id="14013000">要求学习魔法</text>
+<text id="14013001">没什么</text>
+<text id="14013002">做出承诺</text>
+<text id="14013003">不作出承诺</text>
+<text id="14014000">要求学习咒术</text>
+<text id="14014001">拒绝</text>
+<text id="14015000">提供帮助</text>
+<text id="14015001">不帮助她</text>
+<text id="14015002">要求学习暗魔法</text>
+<text id="14015003">拒绝</text>
+<text id="14015004">无论如何救她</text>
+<text id="14015005">不救她</text>
+<text id="14016000">触摸</text>
+<text id="14016001">不触摸</text>
+<text id="14016002">接受他的请求</text>
+<text id="14016003">拒绝</text>
+<text id="14019000">没有</text>
+<text id="14019001">没有</text>
+<text id="14019002">告诉他在熏烟湖</text>
+<text id="14019003">不说</text>
+<text id="14020000">你知道我是谁.</text>
+<text id="14020001">没有</text>
+<text id="14020002">%null%</text>
+<text id="14020003">%null%</text>
+<text id="14020004">%null%</text>
+<text id="14020005">%null%</text>
+<text id="14020006">%null%</text>
+<text id="14020007">%null%</text>
+<text id="14020008">%null%</text>
+<text id="14020009">%null%</text>
+<text id="14020010">原谅他</text>
+<text id="14020011">不原谅他</text>
+<text id="14020012">%null%</text>
+<text id="14020013">%null%</text>
+<text id="14020014">%null%</text>
+<text id="14020015">%null%</text>
+<text id="14020016">%null%</text>
+<text id="14020017">%null%</text>
+<text id="14020018">%null%</text>
+<text id="14020019">%null%</text>
+<text id="14020020">告诉他</text>
+<text id="14020021">不告诉他</text>
+<text id="14021000">丢下盔甲</text>
+<text id="14021001">没看到</text>
+<text id="14021002">没看到</text>
+<text id="14025000">和解</text>
+<text id="14025001">离开</text>
+<text id="14031000">的确</text>
+<text id="14031001">没有</text>
+<text id="15000000">说话</text>
+<text id="15000001">%null%</text>
+<text id="15000002">%null%</text>
+<text id="15000003">%null%</text>
+<text id="15000004">%null%</text>
+<text id="15000005">离开</text>
+<text id="15000006">返回</text>
+<text id="15000007">%null%</text>
+<text id="15000008">%null%</text>
+<text id="15000009">%null%</text>
+<text id="15000010">购买道具</text>
+<text id="15000011">购买道具</text>
+<text id="15000012">卖出道具</text>
+<text id="15000100">升级</text>
+<text id="15000130">记忆法术</text>
+<text id="15000150">传送</text>
+<text id="15000151">%null%</text>
+<text id="15000152">%null%</text>
+<text id="15000153">%null%</text>
+<text id="15000154">%null%</text>
+<text id="15000155">%null%</text>
+<text id="15000156">%null%</text>
+<text id="15000157">%null%</text>
+<text id="15000158">%null%</text>
+<text id="15000159">%null%</text>
+<text id="15000160">燃烧&lt;?gdsparam@2143?&gt;</text>
+<text id="15000180">离开</text>
+<text id="15000190">返回</text>
+<text id="15000220">整理木箱</text>
+<text id="15000330">前往初识营火</text>
+<text id="15000331">开始一周目&lt;?nextLoopCount?&gt;</text>
+<text id="15000400">立约</text>
+<text id="15000401">立约</text>
+<text id="15000402">立约</text>
+<text id="15000403">立约</text>
+<text id="15000404">立约</text>
+<text id="15000405">立约</text>
+<text id="15000406">请求加入盟约</text>
+<text id="15000407">%null%</text>
+<text id="15000408">%null%</text>
+<text id="15000409">%null%</text>
+<text id="15000410">捐献&lt;?gdsparam@375?&gt;</text>
+<text id="15000411">捐献&lt;?gdsparam@374?&gt;</text>
+<text id="15000412">捐献&lt;?gdsparam@366?&gt;</text>
+<text id="15000413">捐献&lt;?gdsparam@367?&gt;</text>
+<text id="15000414">捐献&lt;?gdsparam@372?&gt;</text>
+<text id="15000415">捐献&lt;?gdsparam@372?&gt;</text>
+<text id="15000416">捐献&lt;?gdsparam@373?&gt;</text>
+<text id="15000500">请求赎罪</text>
+<text id="15000501">%null%</text>
+<text id="15000502">%null%</text>
+<text id="15000503">%null%</text>
+<text id="15000504">%null%</text>
+<text id="15000505">%null%</text>
+<text id="15000506">%null%</text>
+<text id="15000507">%null%</text>
+<text id="15000508">%null%</text>
+<text id="15000509">%null%</text>
+<text id="15000510">要求解咒</text>
+<text id="15002000">升级</text>
+<text id="15002001">交出&lt;?gdsparam@2138?&gt;</text>
+<text id="15002002">分配原素瓶</text>
+<text id="15002003">强化原素瓶</text>
+<text id="15002004">治愈黑暗符印</text>
+<text id="15002005">交出&lt;?gdsparam@390?&gt;</text>
+<text id="15002006">返回领主</text>
+<text id="15003000">冶炼</text>
+<text id="15003001">交出&lt;?gdsparam@2135?&gt;</text>
+<text id="15003002">孪生王子大剑</text>
+<text id="15003003">祭品</text>
+<text id="15003004">祭品</text>
+<text id="15003005">祭品</text>
+<text id="15003006">祭品</text>
+<text id="15003007">祭品</text>
+<text id="15003008">祭品</text>
+<text id="15003009">祭品</text>
+<text id="15003010">祭品</text>
+<text id="15003011">祭品</text>
+<text id="15003012">锻造武器</text>
+<text id="15003013">锻造法术</text>
+<text id="15003014">锻造戒指</text>
+<text id="15003015">锻造盔甲</text>
+<text id="15003016">交出冶炼炉</text>
+<text id="15003017">回忆</text>
+<text id="15003018">购买道具</text>
+<text id="15003019">形成契约</text>
+<text id="15003020">承诺忠诚</text>
+<text id="15003021">武器质变属性说明</text>
+<text id="15003022">护盾质变属性说明</text>
+<text id="15003023">学习魔法术</text>
+<text id="15003024">购买特殊武器</text>
+<text id="15003025">撤销忠诚度</text>
+<text id="15003026">暗月的成员将对此行动做出不良反应.</text>
+<text id="15003027">暗月的成员会赞赏这个行动.</text>
+<text id="15003028">进入黑暗</text>
+<text id="15003029">触媒质变属性说明</text>
+<text id="15003030">签订英雄契约</text>
+<text id="15003031">勇士契约已启用。</text>
+<text id="15003032">打破勇士的契约</text>
+<text id="15003033">英雄契约已被禁用。</text>
+<text id="15003034">面对被唾弃的阴影</text>
+<text id="15003040">训练假人</text>
+<text id="15003041">启用不可移动假人</text>
+<text id="15003042">启用可移动假人</text>
+<text id="15003043">启用攻击性假人</text>
+<text id="15003044">禁用不可移动假人</text>
+<text id="15003045">禁用可移动假人</text>
+<text id="15003046">禁用攻击性假人</text>
+<text id="15003050">外部训练</text>
+<text id="15003051">内部训练</text>
+<text id="15003060">服饰幻象</text>
+<text id="15003061">药水</text>
+<text id="15003062">秘笈</text>
+<text id="15003063">神油</text>
+<text id="15003064">购买道具</text>
+<text id="15004000">学习魔法</text>
+<text id="15004001">升级魔法</text>
+<text id="15004002">升级火法术</text>
+<text id="15004003">升级奇迹</text>
+<text id="15004004">升级黑暗法术</text>
+<text id="15004005">%null%</text>
+<text id="15004006">%null%</text>
+<text id="15004007">%null%</text>
+<text id="15004008">%null%</text>
+<text id="15004009">%null%</text>
+<text id="15004010">增援</text>
+<text id="15004011">%null%</text>
+<text id="15004012">%null%</text>
+<text id="15004013">%null%</text>
+<text id="15004014">%null%</text>
+<text id="15004015">%null%</text>
+<text id="15004016">%null%</text>
+<text id="15004017">%null%</text>
+<text id="15004018">%null%</text>
+<text id="15004019">%null%</text>
+<text id="15004020">讲述欧贝克的死</text>
+<text id="15004021">%null%</text>
+<text id="15004022">%null%</text>
+<text id="15004023">%null%</text>
+<text id="15004024">%null%</text>
+<text id="15004025">%null%</text>
+<text id="15004026">%null%</text>
+<text id="15004027">%null%</text>
+<text id="15004028">%null%</text>
+<text id="15004029">%null%</text>
+<text id="15004030">说起安里的死</text>
+<text id="15005000">学习魔法</text>
+<text id="15005001">%null%</text>
+<text id="15005002">%null%</text>
+<text id="15005003">%null%</text>
+<text id="15005004">%null%</text>
+<text id="15005005">%null%</text>
+<text id="15005006">%null%</text>
+<text id="15005007">%null%</text>
+<text id="15005008">%null%</text>
+<text id="15005009">%null%</text>
+<text id="15005010">增援</text>
+<text id="15005011">%null%</text>
+<text id="15005012">%null%</text>
+<text id="15005013">%null%</text>
+<text id="15005014">%null%</text>
+<text id="15005015">%null%</text>
+<text id="15005016">%null%</text>
+<text id="15005017">%null%</text>
+<text id="15005018">%null%</text>
+<text id="15005019">%null%</text>
+<text id="15005020">牵引出真正的力量</text>
+<text id="15006020">交出&lt;?gdsparam@2138?&gt;</text>
+<text id="15006021">%null%</text>
+<text id="15006022">%null%</text>
+<text id="15006023">%null%</text>
+<text id="15006024">%null%</text>
+<text id="15006025">%null%</text>
+<text id="15006026">%null%</text>
+<text id="15006027">%null%</text>
+<text id="15006028">%null%</text>
+<text id="15006029">%null%</text>
+<text id="15006030">交出&lt;?gdsparam@372?&gt;</text>
+<text id="15010000">交出余烬</text>
+<text id="15010001">装备质变</text>
+<text id="15010002">强化</text>
+<text id="15010003">修理</text>
+<text id="15010004">购买道具</text>
+<text id="15010005">购买道具</text>
+<text id="15010006">卖出道具</text>
+<text id="15010007">购买道具</text>
+<text id="15010008">浏览秘密收藏</text>
+<text id="15010009">浏览杰出收藏</text>
+<text id="15010010">交出&lt;?gdsparam@2103?&gt;</text>
+<text id="15010011">交出&lt;?gdsparam@2104?&gt;</text>
+<text id="15010012">交出&lt;?gdsparam@2105?&gt;</text>
+<text id="15010013">交出&lt;?gdsparam@2106?&gt;</text>
+<text id="15011000">交出灰烬</text>
+<text id="15011001">交出&lt;?gdsparam@2107?&gt;</text>
+<text id="15011002">交出&lt;?gdsparam@2108?&gt;</text>
+<text id="15011003">交出&lt;?gdsparam@2109?&gt;</text>
+<text id="15011004">交出&lt;?gdsparam@2110?&gt;</text>
+<text id="15011005">交出&lt;?gdsparam@2111?&gt;</text>
+<text id="15011006">交出&lt;?gdsparam@2112?&gt;</text>
+<text id="15011007">交出&lt;?gdsparam@2113?&gt;</text>
+<text id="15011008">交出&lt;?gdsparam@2114?&gt;</text>
+<text id="15011009">交出&lt;?gdsparam@2115?&gt;</text>
+<text id="15011010">交出&lt;?gdsparam@2116?&gt;</text>
+<text id="15011011">交出&lt;?gdsparam@2146?&gt;</text>
+<text id="15011012">交出&lt;?gdsparam@2147?&gt;</text>
+<text id="15011013">交出&lt;?gdsparam@2148?&gt;</text>
+<text id="15011014">交出&lt;?gdsparam@2149?&gt;</text>
+<text id="15011015">交出&lt;?gdsparam@2150?&gt;</text>
+<text id="15011016">交出&lt;?gdsparam@2151?&gt;</text>
+<text id="15011017">交出&lt;?gdsparam@2152?&gt;</text>
+<text id="15011018">%null%</text>
+<text id="15011019">%null%</text>
+<text id="15011020">购买道具</text>
+<text id="15012000">交出&lt;?gdsparam@2118?&gt;</text>
+<text id="15012001">购买道具</text>
+<text id="15013000">学习魔法</text>
+<text id="15013001">查看武器</text>
+<text id="15013002">查看法术</text>
+<text id="15013003">查看盔甲</text>
+<text id="15013004">查看饰品</text>
+<text id="15013005">重置进度</text>
+<text id="15013006">是的</text>
+<text id="15013007">不</text>
+<text id="15013008">进度重置</text>
+<text id="15013009">浏览道具</text>
+<text id="15013010">增援</text>
+<text id="15013011">%null%</text>
+<text id="15013012">%null%</text>
+<text id="15013013">%null%</text>
+<text id="15013014">%null%</text>
+<text id="15013015">%null%</text>
+<text id="15013016">%null%</text>
+<text id="15013017">%null%</text>
+<text id="15013018">%null%</text>
+<text id="15013019">%null%</text>
+<text id="15013020">交出魔法卷轴</text>
+<text id="15013021">交出&lt;?gdsparam@2132?&gt;</text>
+<text id="15013022">交出&lt;?gdsparam@2133?&gt; </text>
+<text id="15013023">交出&lt;?gdsparam@2134?&gt; </text>
+<text id="15013024">交出&lt;?gdsparam@2140?&gt; </text>
+<text id="15014000">学习咒术</text>
+<text id="15014001">强化烈焰</text>
+<text id="15014002">献上咒术书</text>
+<text id="15014003">%null%</text>
+<text id="15014004">%null%</text>
+<text id="15014005">%null%</text>
+<text id="15014006">%null%</text>
+<text id="15014007">%null%</text>
+<text id="15014008">%null%</text>
+<text id="15014009">%null%</text>
+<text id="15014010">交出&lt;?gdsparam@2127?&gt;</text>
+<text id="15014011">交出&lt;?gdsparam@2128?&gt;</text>
+<text id="15014012">交出&lt;?gdsparam@2129?&gt; </text>
+<text id="15014013">交出&lt;?gdsparam@2130?&gt;</text>
+<text id="15014014">交出&lt;?gdsparam@2131?&gt;</text>
+<text id="15014015">交出&lt;?gdsparam@2173?&gt;</text>
+<text id="15015000">学习黑魔法</text>
+<text id="15015001">%null%</text>
+<text id="15015002">%null%</text>
+<text id="15015003">%null%</text>
+<text id="15015004">%null%</text>
+<text id="15015005">%null%</text>
+<text id="15015006">%null%</text>
+<text id="15015007">%null%</text>
+<text id="15015008">%null%</text>
+<text id="15015009">%null%</text>
+<text id="15015010">强化触媒</text>
+<text id="15015011">%null%</text>
+<text id="15015012">%null%</text>
+<text id="15015013">%null%</text>
+<text id="15015014">%null%</text>
+<text id="15015015">%null%</text>
+<text id="15015016">%null%</text>
+<text id="15015017">%null%</text>
+<text id="15015018">%null%</text>
+<text id="15015019">%null%</text>
+<text id="15015020">献上咒术书</text>
+<text id="15015021">交出&lt;?gdsparam@2130?&gt; </text>
+<text id="15015022">交出&lt;?gdsparam@2131?&gt;</text>
+<text id="15015023">交出&lt;?gdsparam@2144?&gt;</text>
+<text id="15015024">交出&lt;?gdsparam@2145?&gt;</text>
+<text id="15015025">交出&lt;?gdsparam@2174?&gt;</text>
+<text id="15015026">交出&lt;?gdsparam@2175?&gt;</text>
+<text id="15015027">交出&lt;?gdsparam@2176?&gt;</text>
+<text id="15015028">%null%</text>
+<text id="15015029">%null%</text>
+<text id="15015030">交出圣典</text>
+<text id="15015040">求婚</text>
+<text id="15015041">调情</text>
+<text id="15015042">离婚</text>
+<text id="15015043">引诱</text>
+<text id="15015050">交出黑暗圣典</text>
+<text id="15015060">交出被诅咒的图章</text>
+<text id="15016000">学习奇迹</text>
+<text id="15016001">结成友谊</text>
+<text id="15016002">结束友谊</text>
+<text id="15016003">小丑</text>
+<text id="15016004">%null%</text>
+<text id="15016005">%null%</text>
+<text id="15016006">%null%</text>
+<text id="15016007">%null%</text>
+<text id="15016008">%null%</text>
+<text id="15016009">%null%</text>
+<text id="15016010">强化符咒</text>
+<text id="15016011">%null%</text>
+<text id="15016012">%null%</text>
+<text id="15016013">%null%</text>
+<text id="15016014">%null%</text>
+<text id="15016015">%null%</text>
+<text id="15016016">%null%</text>
+<text id="15016017">%null%</text>
+<text id="15016018">%null%</text>
+<text id="15016019">%null%</text>
+<text id="15016020">交出神书</text>
+<text id="15016021">交出&lt;?gdsparam@2119?&gt;</text>
+<text id="15016022">交出&lt;?gdsparam@2120?&gt; </text>
+<text id="15016023">交出&lt;?gdsparam@2121?&gt;</text>
+<text id="15016024">交出&lt;?gdsparam@2144?&gt;</text>
+<text id="15016025">交出&lt;?gdsparam@2145?&gt;</text>
+<text id="15016026">交出&lt;?gdsparam@2177?&gt;</text>
+<text id="15016027">交出&lt;?gdsparam@2178?&gt;</text>
+<text id="15016028">交出&lt;?gdsparam@2121?&gt;</text>
+<text id="15016029">交出深渊碎片</text>
+<text id="15016030">伊琳娜开始蠕动。。。</text>
+<text id="15016031">交出神圣碎片</text>
+<text id="15016032">伊琳娜开始发光。。。</text>
+<text id="15016033">你缺少足够数量的碎片.</text>
+<text id="15020000">购买道具</text>
+<text id="15027000">%null%</text>
+<text id="15027001">%null%</text>
+<text id="15027002">%null%</text>
+<text id="15027003">%null%</text>
+<text id="15027004">%null%</text>
+<text id="15027005">%null%</text>
+<text id="15027006">%null%</text>
+<text id="15027007">%null%</text>
+<text id="15027008">%null%</text>
+<text id="15027009">%null%</text>
+<text id="15027010">重新分配属性</text>
+<text id="15027011">改变外观</text>
+<text id="15027012">重置&lt;?gdsparam@728?&gt;</text>
+<text id="15028000">高周目</text>
+<text id="15028001">你确定吗?</text>
+<text id="15028002">你真的确定吗?</text>
+<text id="15028010">如果继续，您将进入下一个循环。
+这将重置所有进度并增加世界难度.</text>
+<text id="20000000">你的召唤符消失了</text>
+<text id="20000001">你的召唤符消失了</text>
+<text id="20000002">入侵取消</text>
+<text id="20000105">召唤失败</text>
+<text id="20000415">灵体回到了原来的世界</text>
+<text id="20000416">灵体回到了原来的世界</text>
+<text id="20000417">%null%</text>
+<text id="20000418">%null%</text>
+<text id="20000419">%null%</text>
+<text id="20000420">被召唤师送回家。返回自己的世界。</text>
+<text id="20000421">被召唤师送回家。返回自己的世界。</text>
+<text id="20000422">%null%</text>
+<text id="20000423">%null%</text>
+<text id="20000424">%null%</text>
+<text id="20000425">灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="20000426">%null%</text>
+<text id="20000427">%null%</text>
+<text id="20000428">%null%</text>
+<text id="20000429">%null%</text>
+<text id="20000430">返回自己的世界。。。</text>
+<text id="20000431">返回你的世界?</text>
+<text id="20000432">返回你的世界?</text>
+<text id="20000433">%null%</text>
+<text id="20000434">%null%</text>
+<text id="20000435">灵体&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="20000436">%null%</text>
+<text id="20000437">%null%</text>
+<text id="20000438">%null%</text>
+<text id="20000439">%null%</text>
+<text id="20000440">尝试入侵另一个世界?</text>
+<text id="20000441">散播苦难以引诱灵体?</text>
+<text id="20000442">尝试入侵有罪的世界?</text>
+<text id="20000443">尝试寻找龙鳞的主人?</text>
+<text id="20000444">%null%</text>
+<text id="20000445">你获得了人性，不再是游魂</text>
+<text id="20000446">获得人性</text>
+<text id="20000447">%null%</text>
+<text id="20000448">%null%</text>
+<text id="20000449">%null%</text>
+<text id="20000450">你被送回家</text>
+<text id="20000500">尝试入侵防火女杀手的世界?</text>
+<text id="20000501">尝试入侵叛徒湿婆的世界?</text>
+<text id="20001000">&lt;?sysmsg@20001000?&gt;</text>
+<text id="20001001">&lt;?sysmsg@20001001?&gt;</text>
+<text id="20001002">&lt;?sysmsg@20001002?&gt;</text>
+<text id="20001003">&lt;?sysmsg@20001003?&gt;</text>
+<text id="20001004">&lt;?sysmsg@20001004?&gt;</text>
+<text id="20001005">&lt;?sysmsg@20001005?&gt;</text>
+<text id="20001006">%null%</text>
+<text id="20001007">%null%</text>
+<text id="20001008">%null%</text>
+<text id="20001009">%null%</text>
+<text id="20001010">&lt;?sysmsg@20001010?&gt;</text>
+<text id="20001011">&lt;?sysmsg@20001011?&gt;</text>
+<text id="20001012">%null%</text>
+<text id="20001013">%null%</text>
+<text id="20001014">%null%</text>
+<text id="20001015">&lt;?sysmsg@20001015?&gt;</text>
+<text id="20001016">%null%</text>
+<text id="20001017">%null%</text>
+<text id="20001018">%null%</text>
+<text id="20001019">%null%</text>
+<text id="20001020">暗灵&lt;?leaveName?&gt;已经返回自己的世界</text>
+<text id="20001021">%null%</text>
+<text id="20001022">%null%</text>
+<text id="20001023">%null%</text>
+<text id="20001024">%null%</text>
+<text id="20001025">与世界之主断开连接.
+返回自己的世界。</text>
+<text id="50000000">触摸召唤标志</text>
+<text id="50000001">(invoking sign)</text>
+<text id="50000002">触摸墓主仆人的标志</text>
+<text id="50000003">(invoking sign)</text>
+<text id="50000100">触摸血迹</text>
+<text id="50000101">(Invoking Bloodstain)</text>
+<text id="50000200">拾取失去的灵魂</text>
+<text id="50000201">%null%</text>
+<text id="50000202">%null%</text>
+<text id="50000203">%null%</text>
+<text id="50000204">%null%</text>
+<text id="50000205">取回剩下的暗灵</text>
+<text id="50000206">%null%</text>
+<text id="50000207">%null%</text>
+<text id="50000208">%null%</text>
+<text id="50000209">%null%</text>
+<text id="50000210">读取信息</text>
+<text id="50000300">触摸召唤标志</text>
+<text id="50000301">(invoking sign)</text>
+<text id="50000320">触龙残骸</text>
+<text id="50000321">(checking)</text>
+<text id="50000400">查看你的召唤标志</text>
+<text id="50000401">查看你的召唤标志</text>
+<text id="50000402">查看寻鳞龙眼</text>
+<text id="50000500">查看你的消息</text>
+<text id="50000600">墓主守卫</text>
+<text id="51000000">%null%</text>
+<text id="51000001">%null%</text>
+<text id="51000002">%null%</text>
+<text id="51000003">%null%</text>
+<text id="51000004">%null%</text>
+<text id="51000005">%null%</text>
+<text id="51000006">%null%</text>
+<text id="51000007">%null%</text>
+<text id="51000008">%null%</text>
+<text id="51000009">%null%</text>
+<text id="51000010">%null%</text>
+<text id="51000011">%null%</text>
+<text id="51000012">%null%</text>
+<text id="51000013">%null%</text>
+<text id="51000014">%null%</text>
+<text id="51000015">%null%</text>
+<text id="51000016">%null%</text>
+<text id="51000017">%null%</text>
+<text id="51000018">%null%</text>
+<text id="51000019">%null%</text>
+<text id="51000020">%null%</text>
+<text id="51000021">%null%</text>
+<text id="51000022">%null%</text>
+<text id="51000023">%null%</text>
+<text id="51000024">%null%</text>
+<text id="51000025">%null%</text>
+<text id="51000026">%null%</text>
+<text id="51000027">%null%</text>
+<text id="51000028">%null%</text>
+<text id="51000029">%null%</text>
+<text id="51000030">%null%</text>
+<text id="51000031">%null%</text>
+<text id="51000032">%null%</text>
+<text id="51000033">%null%</text>
+<text id="51000034">%null%</text>
+<text id="51000035">%null%</text>
+<text id="51000036">%null%</text>
+<text id="51000037">%null%</text>
+<text id="51000038">%null%</text>
+<text id="51000039">%null%</text>
+<text id="51000040">%null%</text>
+<text id="51000041">%null%</text>
+<text id="51000042">%null%</text>
+<text id="51000043">%null%</text>
+<text id="51000044">%null%</text>
+<text id="51000045">%null%</text>
+<text id="51000046">%null%</text>
+<text id="51000047">%null%</text>
+<text id="51000048">%null%</text>
+<text id="51000049">%null%</text>
+<text id="51000050">%null%</text>
+<text id="51000051">%null%</text>
+<text id="51000052">%null%</text>
+<text id="51000053">%null%</text>
+<text id="51000054">%null%</text>
+<text id="51000055">%null%</text>
+<text id="51000056">%null%</text>
+<text id="51000057">%null%</text>
+<text id="51000058">%null%</text>
+<text id="51000059">%null%</text>
+<text id="51000060">%null%</text>
+<text id="51000061">%null%</text>
+<text id="51000062">%null%</text>
+<text id="51000063">%null%</text>
+<text id="51000064">%null%</text>
+<text id="51000065">%null%</text>
+<text id="51000066">%null%</text>
+<text id="51000067">%null%</text>
+<text id="51000068">%null%</text>
+<text id="51000069">%null%</text>
+<text id="51000070">%null%</text>
+<text id="51010010">%null%</text>
+<text id="51010030">%null%</text>
+<text id="51010031">%null%</text>
+<text id="51010032">%null%</text>
+<text id="51010033">%null%</text>
+<text id="51010034">%null%</text>
+<text id="51010035">%null%</text>
+<text id="51010036">%null%</text>
+<text id="51010037">%null%</text>
+<text id="51010038">%null%</text>
+<text id="51010039">%null%</text>
+<text id="51010040">%null%</text>
+<text id="51010041">%null%</text>
+<text id="51010042">%null%</text>
+<text id="51010043">%null%</text>
+<text id="51010044">%null%</text>
+<text id="51010045">%null%</text>
+<text id="51010046">%null%</text>
+<text id="51010047">%null%</text>
+<text id="51010048">%null%</text>
+<text id="51010049">%null%</text>
+<text id="51010050">%null%</text>
+<text id="51010070">%null%</text>
+<text id="61000000">献上火焰</text>
+<text id="61000001">%null%</text>
+<text id="61000002">%null%</text>
+<text id="61000003">%null%</text>
+<text id="61000004">%null%</text>
+<text id="61000005">%null%</text>
+<text id="61000006">%null%</text>
+<text id="61000007">%null%</text>
+<text id="61000008">%null%</text>
+<text id="61000009">%null%</text>
+<text id="61000010">阅读墓志铭</text>
+<text id="61000011">%null%</text>
+<text id="61000012">%null%</text>
+<text id="61000013">%null%</text>
+<text id="61000014">%null%</text>
+<text id="61000015">%null%</text>
+<text id="61000016">%null%</text>
+<text id="61000017">%null%</text>
+<text id="61000018">%null%</text>
+<text id="61000019">%null%</text>
+<text id="61000020">无名王者之墓。
+为灰烬之王举起他的剑.</text>
+<text id="61000021">%null%</text>
+<text id="61000022">%null%</text>
+<text id="61000023">%null%</text>
+<text id="61000024">%null%</text>
+<text id="61000025">孤独地死去。
+愿他的灵魂回到冷冽的山谷.</text>
+<text id="61000026">%null%</text>
+<text id="61000027">%null%</text>
+<text id="61000028">%null%</text>
+<text id="61000029">%null%</text>
+<text id="61000030">荣誉和阴暗的撤退。
+惧怕太阳的诱惑，和有翅膀的刽子手.</text>
+<text id="61000031">%null%</text>
+<text id="61000032">%null%</text>
+<text id="61000033">%null%</text>
+<text id="61000034">%null%</text>
+<text id="61000035">这个流放者被驱逐出他的家乡，
+并被黑色的太阳所困扰。</text>
+<text id="61300000">无名王者之墓。
+为灰烬之王举起了他的剑。</text>
+<text id="61300001">%null%</text>
+<text id="61300002">%null%</text>
+<text id="61300003">%null%</text>
+<text id="61300004">%null%</text>
+<text id="61300005">%null%</text>
+<text id="61300006">%null%</text>
+<text id="61300007">%null%</text>
+<text id="61300008">%null%</text>
+<text id="61300009">%null%</text>
+<text id="61300010">孤独地死去。
+愿他的灵魂回到冷冽的山谷.</text>
+<text id="61300011">%null%</text>
+<text id="61300012">%null%</text>
+<text id="61300013">%null%</text>
+<text id="61300014">%null%</text>
+<text id="61300015">%null%</text>
+<text id="61300016">%null%</text>
+<text id="61300017">%null%</text>
+<text id="61300018">%null%</text>
+<text id="61300019">%null%</text>
+<text id="61300020">荣誉和阴暗的撤退。
+惧怕太阳的诱惑，和有翅膀的刽子手.</text>
+<text id="61300021">%null%</text>
+<text id="61300022">%null%</text>
+<text id="61300023">%null%</text>
+<text id="61300024">%null%</text>
+<text id="61300025">%null%</text>
+<text id="61300026">%null%</text>
+<text id="61300027">%null%</text>
+<text id="61300028">%null%</text>
+<text id="61300029">%null%</text>
+<text id="61300030">这个流放者被驱逐出他的家乡，
+并被黑色的太阳所困扰。</text>
+<text id="61310000">%null%</text>
+<text id="61310001">%null%</text>
+<text id="61310002">%null%</text>
+<text id="61310003">%null%</text>
+<text id="61310004">%null%</text>
+<text id="61310005">%null%</text>
+<text id="61310006">%null%</text>
+<text id="61310007">%null%</text>
+<text id="61310008">%null%</text>
+<text id="61310009">%null%</text>
+<text id="61310010">%null%</text>
+<text id="61330000">%null%</text>
+<text id="61330001">%null%</text>
+<text id="61330002">%null%</text>
+<text id="61330003">%null%</text>
+<text id="61330004">%null%</text>
+<text id="61330005">%null%</text>
+<text id="61330006">%null%</text>
+<text id="61330007">%null%</text>
+<text id="61330008">%null%</text>
+<text id="61330009">%null%</text>
+<text id="61330010">%null%</text>
+<text id="61330011">%null%</text>
+<text id="61330012">%null%</text>
+<text id="61330013">%null%</text>
+<text id="61330014">%null%</text>
+<text id="61330015">%null%</text>
+<text id="61330016">%null%</text>
+<text id="61330017">%null%</text>
+<text id="61330018">%null%</text>
+<text id="61330019">%null%</text>
+<text id="61330020">%null%</text>
+<text id="61330021">%null%</text>
+<text id="61330022">%null%</text>
+<text id="61330023">%null%</text>
+<text id="61330024">%null%</text>
+<text id="61330025">%null%</text>
+<text id="61330026">%null%</text>
+<text id="61330027">%null%</text>
+<text id="61330028">%null%</text>
+<text id="61330029">%null%</text>
+<text id="61330030">%null%</text>
+<text id="61330031">%null%</text>
+<text id="61330032">%null%</text>
+<text id="61330033">%null%</text>
+<text id="61330034">%null%</text>
+<text id="61330035">%null%</text>
+<text id="61330036">%null%</text>
+<text id="61330037">%null%</text>
+<text id="61330038">%null%</text>
+<text id="61330039">%null%</text>
+<text id="61330040">%null%</text>
+<text id="61330041">%null%</text>
+<text id="61330042">%null%</text>
+<text id="61330043">%null%</text>
+<text id="61330044">%null%</text>
+<text id="61330045">%null%</text>
+<text id="61330046">%null%</text>
+<text id="61330047">%null%</text>
+<text id="61330048">%null%</text>
+<text id="61330049">%null%</text>
+<text id="61330050">%null%</text>
+<text id="61330051">%null%</text>
+<text id="61330052">%null%</text>
+<text id="61330053">%null%</text>
+<text id="61330054">%null%</text>
+<text id="61330055">%null%</text>
+<text id="61330056">%null%</text>
+<text id="61330057">%null%</text>
+<text id="61330058">%null%</text>
+<text id="61330059">%null%</text>
+<text id="61330060">%null%</text>
+<text id="61340000">%null%</text>
+<text id="61340001">%null%</text>
+<text id="61340002">%null%</text>
+<text id="61340003">%null%</text>
+<text id="61340004">%null%</text>
+<text id="61340005">%null%</text>
+<text id="61340006">%null%</text>
+<text id="61340007">%null%</text>
+<text id="61340008">%null%</text>
+<text id="61340009">%null%</text>
+<text id="61340010">%null%</text>
+<text id="61340011">%null%</text>
+<text id="61340012">%null%</text>
+<text id="61340013">%null%</text>
+<text id="61340014">%null%</text>
+<text id="61340015">%null%</text>
+<text id="61340016">%null%</text>
+<text id="61340017">%null%</text>
+<text id="61340018">%null%</text>
+<text id="61340019">%null%</text>
+<text id="61340020">%null%</text>
+<text id="61340021">%null%</text>
+<text id="61340022">%null%</text>
+<text id="61340023">%null%</text>
+<text id="61340024">%null%</text>
+<text id="61340025">%null%</text>
+<text id="61340026">%null%</text>
+<text id="61340027">%null%</text>
+<text id="61340028">%null%</text>
+<text id="61340029">%null%</text>
+<text id="61340030">%null%</text>
+<text id="61350000">%null%</text>
+<text id="61350001">%null%</text>
+<text id="61350002">%null%</text>
+<text id="61350003">%null%</text>
+<text id="61350004">%null%</text>
+<text id="61350005">%null%</text>
+<text id="61350006">%null%</text>
+<text id="61350007">%null%</text>
+<text id="61350008">%null%</text>
+<text id="61350009">%null%</text>
+<text id="61350010">%null%</text>
+<text id="61350011">%null%</text>
+<text id="61350012">%null%</text>
+<text id="61350013">%null%</text>
+<text id="61350014">%null%</text>
+<text id="61350015">%null%</text>
+<text id="61350016">%null%</text>
+<text id="61350017">%null%</text>
+<text id="61350018">%null%</text>
+<text id="61350019">%null%</text>
+<text id="61350020">%null%</text>
+<text id="61370000">%null%</text>
+<text id="61370001">%null%</text>
+<text id="61370002">%null%</text>
+<text id="61370003">%null%</text>
+<text id="61370004">%null%</text>
+<text id="61370005">%null%</text>
+<text id="61370006">%null%</text>
+<text id="61370007">%null%</text>
+<text id="61370008">%null%</text>
+<text id="61370009">%null%</text>
+<text id="61370010">%null%</text>
+<text id="61370011">%null%</text>
+<text id="61370012">%null%</text>
+<text id="61370013">%null%</text>
+<text id="61370014">%null%</text>
+<text id="61370015">%null%</text>
+<text id="61370016">%null%</text>
+<text id="61370017">%null%</text>
+<text id="61370018">%null%</text>
+<text id="61370019">%null%</text>
+<text id="61370020">%null%</text>
+<text id="61370021">%null%</text>
+<text id="61370022">%null%</text>
+<text id="61370023">%null%</text>
+<text id="61370024">%null%</text>
+<text id="61370025">%null%</text>
+<text id="61370026">%null%</text>
+<text id="61370027">%null%</text>
+<text id="61370028">%null%</text>
+<text id="61370029">%null%</text>
+<text id="61370030">%null%</text>
+<text id="61370031">%null%</text>
+<text id="61370032">%null%</text>
+<text id="61370033">%null%</text>
+<text id="61370034">%null%</text>
+<text id="61370035">%null%</text>
+<text id="61370036">%null%</text>
+<text id="61370037">%null%</text>
+<text id="61370038">%null%</text>
+<text id="61370039">%null%</text>
+<text id="61370040">%null%</text>
+<text id="61370041">%null%</text>
+<text id="61370042">%null%</text>
+<text id="61370043">%null%</text>
+<text id="61370044">%null%</text>
+<text id="61370045">%null%</text>
+<text id="61370046">%null%</text>
+<text id="61370047">%null%</text>
+<text id="61370048">%null%</text>
+<text id="61370049">%null%</text>
+<text id="61370050">%null%</text>
+<text id="61370051">%null%</text>
+<text id="61370052">%null%</text>
+<text id="61370053">%null%</text>
+<text id="61370054">%null%</text>
+<text id="61370055">%null%</text>
+<text id="61370056">%null%</text>
+<text id="61370057">%null%</text>
+<text id="61370058">%null%</text>
+<text id="61370059">%null%</text>
+<text id="61370060">%null%</text>
+<text id="61380000">%null%</text>
+<text id="61380001">%null%</text>
+<text id="61380002">%null%</text>
+<text id="61380003">%null%</text>
+<text id="61380004">%null%</text>
+<text id="61380005">%null%</text>
+<text id="61380006">%null%</text>
+<text id="61380007">%null%</text>
+<text id="61380008">%null%</text>
+<text id="61380009">%null%</text>
+<text id="61380010">%null%</text>
+<text id="61380011">%null%</text>
+<text id="61380012">%null%</text>
+<text id="61380013">%null%</text>
+<text id="61380014">%null%</text>
+<text id="61380015">%null%</text>
+<text id="61380016">%null%</text>
+<text id="61380017">%null%</text>
+<text id="61380018">%null%</text>
+<text id="61380019">%null%</text>
+<text id="61380020">%null%</text>
+<text id="61380021">%null%</text>
+<text id="61380022">%null%</text>
+<text id="61380023">%null%</text>
+<text id="61380024">%null%</text>
+<text id="61380025">%null%</text>
+<text id="61380026">%null%</text>
+<text id="61380027">%null%</text>
+<text id="61380028">%null%</text>
+<text id="61380029">%null%</text>
+<text id="61380030">%null%</text>
+<text id="61380031">%null%</text>
+<text id="61380032">%null%</text>
+<text id="61380033">%null%</text>
+<text id="61380034">%null%</text>
+<text id="61380035">%null%</text>
+<text id="61380036">%null%</text>
+<text id="61380037">%null%</text>
+<text id="61380038">%null%</text>
+<text id="61380039">%null%</text>
+<text id="61380040">%null%</text>
+<text id="61390000">%null%</text>
+<text id="61390001">%null%</text>
+<text id="61390002">%null%</text>
+<text id="61390003">%null%</text>
+<text id="61390004">%null%</text>
+<text id="61390005">%null%</text>
+<text id="61390006">%null%</text>
+<text id="61390007">%null%</text>
+<text id="61390008">%null%</text>
+<text id="61390009">%null%</text>
+<text id="61390010">%null%</text>
+<text id="61390011">%null%</text>
+<text id="61390012">%null%</text>
+<text id="61390013">%null%</text>
+<text id="61390014">%null%</text>
+<text id="61390015">%null%</text>
+<text id="61390016">%null%</text>
+<text id="61390017">%null%</text>
+<text id="61390018">%null%</text>
+<text id="61390019">%null%</text>
+<text id="61390020">%null%</text>
+<text id="61390021">%null%</text>
+<text id="61390022">%null%</text>
+<text id="61390023">%null%</text>
+<text id="61390024">%null%</text>
+<text id="61390025">%null%</text>
+<text id="61390026">%null%</text>
+<text id="61390027">%null%</text>
+<text id="61390028">%null%</text>
+<text id="61390029">%null%</text>
+<text id="61390030">%null%</text>
+<text id="61390031">%null%</text>
+<text id="61390032">%null%</text>
+<text id="61390033">%null%</text>
+<text id="61390034">%null%</text>
+<text id="61390035">%null%</text>
+<text id="61390036">%null%</text>
+<text id="61390037">%null%</text>
+<text id="61390038">%null%</text>
+<text id="61390039">%null%</text>
+<text id="61390040">%null%</text>
+<text id="70000000">%null%</text>
+<text id="70000001">%null%</text>
+<text id="70000002">%null%</text>
+<text id="70000003">%null%</text>
+<text id="70000004">%null%</text>
+<text id="70000005">%null%</text>
+<text id="70000006">%null%</text>
+<text id="70000007">%null%</text>
+<text id="70000008">%null%</text>
+<text id="70000009">%null%</text>
+<text id="70000010">%null%</text>
+<text id="70000011">%null%</text>
+<text id="70000012">%null%</text>
+<text id="70000013">%null%</text>
+<text id="70000014">%null%</text>
+<text id="70000015">%null%</text>
+<text id="70000016">%null%</text>
+<text id="70000017">%null%</text>
+<text id="70000018">%null%</text>
+<text id="70000019">%null%</text>
+<text id="70000020">%null%</text>
+<text id="70000021">%null%</text>
+<text id="70000022">%null%</text>
+<text id="70000023">%null%</text>
+<text id="70000024">%null%</text>
+<text id="70000025">%null%</text>
+<text id="70000026">%null%</text>
+<text id="70000027">%null%</text>
+<text id="70000028">%null%</text>
+<text id="70000029">%null%</text>
+<text id="70000030">%null%</text>
+<text id="70000031">%null%</text>
+<text id="70000032">%null%</text>
+<text id="70000033">%null%</text>
+<text id="70000034">%null%</text>
+<text id="70000035">%null%</text>
+<text id="70000036">%null%</text>
+<text id="70000037">%null%</text>
+<text id="70000038">%null%</text>
+<text id="70000039">%null%</text>
+<text id="70000040">%null%</text>
+<text id="70000041">%null%</text>
+<text id="70000042">%null%</text>
+<text id="70000043">%null%</text>
+<text id="70000044">%null%</text>
+<text id="70000045">%null%</text>
+<text id="70000046">%null%</text>
+<text id="70000047">%null%</text>
+<text id="70000048">%null%</text>
+<text id="70000049">%null%</text>
+<text id="70000050">%null%</text>
+<text id="70000051">%null%</text>
+<text id="70000052">%null%</text>
+<text id="70000053">%null%</text>
+<text id="70000054">%null%</text>
+<text id="70000055">%null%</text>
+<text id="70000056">%null%</text>
+<text id="70000057">%null%</text>
+<text id="70000058">%null%</text>
+<text id="70000059">%null%</text>
+<text id="70000060">%null%</text>
+<text id="70000061">%null%</text>
+<text id="70000062">%null%</text>
+<text id="70000063">%null%</text>
+<text id="70000064">%null%</text>
+<text id="70000065">%null%</text>
+<text id="70000066">%null%</text>
+<text id="70000067">%null%</text>
+<text id="70000068">%null%</text>
+<text id="70000069">%null%</text>
+<text id="70000070">%null%</text>
+<text id="70000071">%null%</text>
+<text id="70000072">%null%</text>
+<text id="70000073">%null%</text>
+<text id="70000074">%null%</text>
+<text id="70000075">%null%</text>
+<text id="70000076">%null%</text>
+<text id="70000077">%null%</text>
+<text id="70000078">%null%</text>
+<text id="70000079">%null%</text>
+<text id="70000080">%null%</text>
+<text id="70000081">%null%</text>
+<text id="70000082">%null%</text>
+<text id="70000083">%null%</text>
+<text id="70000084">%null%</text>
+<text id="70000085">%null%</text>
+<text id="70000086">%null%</text>
+<text id="70000087">%null%</text>
+<text id="70000088">%null%</text>
+<text id="70000089">%null%</text>
+<text id="70000090">%null%</text>
+<text id="70000091">%null%</text>
+<text id="70000092">%null%</text>
+<text id="70000093">%null%</text>
+<text id="70000094">%null%</text>
+<text id="70000095">%null%</text>
+<text id="70000096">%null%</text>
+<text id="70000097">%null%</text>
+<text id="70000098">%null%</text>
+<text id="70000099">%null%</text>
+<text id="70000100">%null%</text>
+<text id="70001000">%null%</text>
+<text id="70001001">%null%</text>
+<text id="70001002">%null%</text>
+<text id="70001003">%null%</text>
+<text id="70001004">%null%</text>
+<text id="70001005">%null%</text>
+<text id="70001006">%null%</text>
+<text id="70001007">%null%</text>
+<text id="70001008">%null%</text>
+<text id="70001009">%null%</text>
+<text id="70001010">%null%</text>
+<text id="70001011">%null%</text>
+<text id="70001012">%null%</text>
+<text id="70001013">%null%</text>
+<text id="70001014">%null%</text>
+<text id="70012000">%null%</text>
+<text id="70012001">%null%</text>
+<text id="70012002">%null%</text>
+<text id="70012003">%null%</text>
+<text id="70012004">%null%</text>
+<text id="70012005">%null%</text>
+<text id="70012006">%null%</text>
+<text id="70012007">%null%</text>
+<text id="70012008">%null%</text>
+<text id="70012009">%null%</text>
+<text id="70012010">%null%</text>
+<text id="70012011">%null%</text>
+<text id="70012012">%null%</text>
+<text id="70012013">%null%</text>
+<text id="70012014">%null%</text>
+<text id="70012015">%null%</text>
+<text id="70012016">%null%</text>
+<text id="70012017">%null%</text>
+<text id="70012018">%null%</text>
+<text id="70012019">%null%</text>
+<text id="70012020">%null%</text>
+<text id="70012021">%null%</text>
+<text id="70012022">%null%</text>
+<text id="70012023">%null%</text>
+<text id="90000000">%null%</text>
+<text id="90000001">%null%</text>
+<text id="90000002">%null%</text>
+<text id="90000003">%null%</text>
+<text id="90000004">%null%</text>
+<text id="90000005">%null%</text>
+<text id="90000006">%null%</text>
+<text id="90000007">%null%</text>
+<text id="90000008">%null%</text>
+<text id="90000009">%null%</text>
+<text id="90000010">%null%</text>
+<text id="90000011">%null%</text>
+<text id="90000012">%null%</text>
+<text id="90000013">%null%</text>
+<text id="90000014">%null%</text>
+<text id="90000015">%null%</text>
+<text id="90000016">%null%</text>
+<text id="90000017">%null%</text>
+<text id="90000018">%null%</text>
+<text id="90000019">%null%</text>
+<text id="90000020">%null%</text>
+<text id="90000021">%null%</text>
+<text id="90000022">%null%</text>
+<text id="90000023">%null%</text>
+<text id="90000024">%null%</text>
+<text id="90000025">%null%</text>
+<text id="90000026">%null%</text>
+<text id="90000027">%null%</text>
+<text id="90000028">%null%</text>
+<text id="90000029">%null%</text>
+<text id="90000030">%null%</text>
+<text id="90000031">%null%</text>
+<text id="90000032">%null%</text>
+<text id="90000033">%null%</text>
+<text id="90000034">%null%</text>
+<text id="90000035">%null%</text>
+<text id="99000000">Debug 0</text>
+<text id="99000001">Debug 1</text>
+<text id="99000002">Debug 2</text>
+<text id="99000003">Debug 3</text>
+<text id="99000004">Debug 4</text>
+<text id="99000005">Debug 5</text>
+<text id="99000006">Debug 6</text>
+<text id="99000007">Debug 7</text>
+<text id="99000008">Debug 8</text>
+<text id="99000009">Debug 9</text>
+<text id="99000010">Debug 10</text>
+<text id="99000011">你现在在周目&lt;?nextLoopCount?&gt;</text>
+<text id="99000012">跳</text>
+<text id="99000013">飞跃</text>
+<text id="99000014">%null%</text>
+<text id="99000100">开始周目&lt;?nextLoopCount?&gt;?</text>
+<text id="99000101">%null%</text>
+<text id="99000200">使用&lt;?gdsparam@748?&gt;?</text>
+<text id="99000300">开始周目&lt;?nextLoopCount?&gt;?</text>
+<text id="99000400">签下焦灼的合同?</text>
+<text id="99000500">使烧焦的契约无效?</text>
+<text id="99000600">触摸</text>
+<text id="99000700">传送</text>
+<text id="99000701">进入</text>
+<text id="99000702">摧毁</text>
+<text id="99000710">触发记忆</text>
+<text id="99000713">记忆</text>
+<text id="99000714">前往无主墓地</text>
+<text id="99000715">复活</text>
+<text id="99000720">面对洛德兰的残余</text>
+<text id="99000730">面对阿诺尔隆多尔的守护者</text>
+<text id="99000731">记忆还未出现。。。</text>
+<text id="99000800">进入</text>
+<text id="99000900">开始下个周目?</text>
+<text id="99000901">你确定吗?</text>
+<text id="99000910">你将前进到周目&lt;?nextLoopCount?&gt;。。。</text>
+<text id="99000920">你有余烬</text>
+<text id="99000930">你什么也没收到。</text>
+<text id="99000960">学习手势</text>
+<text id="99001001">猛攻的敌人现在会出现。灵魂获得和物品发现增加。</text>
+<text id="99001002">猛攻的敌人将不再出现.</text>
+<text id="99001003">现在将应用挑战修饰符。灵魂获得和物品发现增加。</text>
+<text id="99001004">挑战修正将不再减少。</text>
+<text id="99001005">传送到古龙顶端</text>
+<text id="99001006">传送到卡萨斯地下墓穴</text>
+<text id="99001007">传送到法兰要塞</text>
+<text id="99001008">传送到伊莉席尔地牢</text>
+<text id="99001009">传送到伊莉席尔</text>
+<text id="99001010">传送到聚集地</text>
+<text id="99001011">传送到无人看管的坟墓</text>
+<text id="99002000">诅咒</text>
+<text id="99002001">检查</text>
+<text id="99002002">诅咒调节器，你可以自己换取奖励。
+启用后，在营火处休息后会施加诅咒，
+并且会一直保持活跃，直到你在使用诅咒的祭坛关闭它.</text>
+<text id="99002003">禁用主动诅咒</text>
+<text id="99002004">所有诅咒现在都已被禁用.</text>
+<text id="99002005">启用</text>
+<text id="99002006">禁用</text>
+<text id="99002010">启用强度一</text>
+<text id="99002011">启用强度二</text>
+<text id="99002012">启用强度三</text>
+<text id="99002013">启用强度四</text>
+<text id="99002014">启用强度五</text>
+<text id="99002015">启用强度六</text>
+<text id="99002016">启用强度七</text>
+<text id="99002017">启用强度八</text>
+<text id="99002018">启用强度九</text>
+<text id="99002019">启用强度十</text>
+<text id="99002100">傲慢诅咒</text>
+<text id="99002101">坚韧诅咒</text>
+<text id="99002102">体力诅咒</text>
+<text id="99002103">仇恨诅咒</text>
+<text id="99002104">吸引诅咒</text>
+<text id="99002105">阴暗诅咒</text>
+<text id="99002106">简单诅咒</text>
+<text id="99002107">贪婪诅咒</text>
+<text id="99002108">虚弱诅咒</text>
+<text id="99002109">衰弱诅咒</text>
+<text id="99002110">无常诅咒</text>
+<text id="99002111">无畏诅咒</text>
+<text id="99002300">中止傲慢诅咒</text>
+<text id="99002301">中止坚韧诅咒</text>
+<text id="99002302">中止体力诅咒</text>
+<text id="99002303">中止仇恨诅咒</text>
+<text id="99002304">中止吸引诅咒</text>
+<text id="99002305">中止阴暗诅咒</text>
+<text id="99002306">中止简单诅咒</text>
+<text id="99002307">中止贪婪诅咒</text>
+<text id="99002308">中止虚弱诅咒</text>
+<text id="99002309">中止衰弱诅咒</text>
+<text id="99002310">中止无常诅咒</text>
+<text id="99002311">中止无畏诅咒</text>
+<text id="99002400">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高10%。
+
+灵魂吸收增加5%。</text>
+<text id="99002401">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高20%。
+
+灵魂吸收增加10%。</text>
+<text id="99002402">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高30%。
+
+灵魂吸收提高15%。</text>
+<text id="99002403">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高40%。
+
+灵魂吸收提高20%。</text>
+<text id="99002404">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高50%。
+
+灵魂吸收提高25%。</text>
+<text id="99002405">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高60%。
+
+灵魂吸收提升30%。</text>
+<text id="99002406">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高70%。
+
+灵魂吸收提高35%。</text>
+<text id="99002407">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高80%。
+
+灵魂吸收提高40%。</text>
+<text id="99002408">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高90%。
+
+灵魂吸收提高45%。</text>
+<text id="99002409">骄傲在堕落之前到来。
+
+敌人在所有形式下造成的伤害提高100%。
+
+灵魂吸收提高50%。</text>
+<text id="99002410">敌人拥有很强的坚韧。
+
+敌人吸收增加5%，防御增加10%。
+
+灵魂吸收提高5%。</text>
+<text id="99002411">敌人拥有很强的坚韧。
+
+敌人吸收增加10%，防御增加20%。
+
+灵魂吸收提高10%。</text>
+<text id="99002412">敌人拥有很强的坚韧。
+
+敌人吸收增加15%，防御增加30%。
+
+灵魂吸收提高15%。</text>
+<text id="99002413">敌人拥有很强的坚韧。
+
+敌人吸收增加20%，防御增加40%。
+
+灵魂吸收提高20%。</text>
+<text id="99002414">敌人拥有很强的坚韧。
+
+敌人吸收增加25%，防御增加50%。
+
+灵魂吸收提高25%。</text>
+<text id="99002415">敌人拥有很强的坚韧。
+
+敌人吸收增加30%，防御增加60%。
+
+灵魂吸收提高30%。</text>
+<text id="99002416">敌人拥有很强的坚韧。
+
+敌人吸收增加35%，防御增加70%。
+
+灵魂吸收提高35%。</text>
+<text id="99002417">敌人拥有很强的坚韧。
+
+敌人吸收增加40%，防御增加80%。
+
+灵魂吸收提高40%。</text>
+<text id="99002418">敌人拥有很强的坚韧。
+
+敌人吸收增加45%，防御增加90%。
+
+灵魂吸收提高45%。</text>
+<text id="99002419">敌人拥有很强的坚韧。
+
+敌人吸收增加50%，防御增加100%。
+
+灵魂吸收提高50%。</text>
+<text id="99002420">敌人拥有很强的体力。
+
+敌人每秒恢复10+0.1%血量。
+
+灵魂吸收提高2.5%。</text>
+<text id="99002421">敌人拥有很强的体力。
+
+敌人每秒恢复20+0.1%血量。
+
+灵魂吸收提升5%。</text>
+<text id="99002422">敌人拥有很强的体力。
+
+敌人每秒恢复30+0.1%血量。
+
+灵魂吸收提高7.5%。</text>
+<text id="99002423">敌人拥有很强的体力。
+
+敌人每秒回复40+0.1%血量。
+
+灵魂吸收提高10%。</text>
+<text id="99002424">敌人拥有很强的体力。
+
+敌人每秒恢复50+0.1%血量。
+
+灵魂吸收提高12.5%。</text>
+<text id="99002425">敌人拥有很强的体力。
+
+敌人每秒恢复60+0.1%血量。
+
+灵魂吸收提高15%。</text>
+<text id="99002426">敌人拥有很强的体力。
+
+敌人每秒回复70+0.1%血量。
+
+灵魂吸收提高17.5%。</text>
+<text id="99002427">敌人拥有很强的体力。
+
+敌人每秒恢复80+0.1%血量。
+
+灵魂吸收提高20%。</text>
+<text id="99002428">敌人拥有很强的体力。
+
+敌人每秒回复90+0.1%血量。
+
+灵魂吸收提高22.5%。</text>
+<text id="99002429">敌人拥有很强的体力。
+
+敌人每秒恢复100+0.1%血量。
+
+灵魂吸收提高25%。</text>
+<text id="99002430">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复10点耐力。
+ 
+灵魂吸收提升1%。</text>
+<text id="99002431">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复20点耐力。
+ 
+灵魂吸收提升2%。</text>
+<text id="99002432">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复30点耐力。
+ 
+灵魂吸收提升3%。</text>
+<text id="99002433">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复40点耐力。
+ 
+灵魂吸收提升4%。</text>
+<text id="99002434">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复50点耐力。
+ 
+灵魂吸收提升5%。</text>
+<text id="99002435">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复60点耐力。
+ 
+灵魂吸收提升6%。</text>
+<text id="99002436">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复70点耐力。
+ 
+灵魂吸收提高7%。</text>
+<text id="99002437">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复80点耐力。
+ 
+灵魂吸收提高8%。</text>
+<text id="99002438">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复90点耐力。
+ 
+灵魂吸收提升9%。</text>
+<text id="99002439">敌人会肆无忌惮地发起攻击。
+
+敌人每秒恢复100点耐力。
+
+灵魂吸收提高10%。</text>
+<text id="99002440">敌人会被你的气味所吸引。
+
+额外的敌人出现在世界各地。
+
+灵魂吸收提升5%。</text>
+<text id="99002450">您对危险视而不见。字面上地。
+ 
+你现在被黑暗笼罩。
+
+灵魂吸收提高15%。</text>
+<text id="99002460">你的意识变得模糊。
+
+您不再被动地回复专注值。
+
+灵魂吸收提高10%。</text>
+<text id="99002470">你的贪婪已经慢慢让你的感官变的迟钝。
+
+双手挥动和闪避体力消耗加倍。
+
+灵魂吸收提高10%。</text>
+<text id="99002480">你的攻击变得软弱无力。
+
+敌人变得很难倒地。
+
+灵魂吸收提高10%。</text>
+<text id="99002490">你的身体被很强的魔法削弱。
+
+你的最大血量、专注值和持久力降低50%。
+
+灵魂吸收提高15%。</text>
+<text id="99002500">您的武器变得很容易损坏。
+
+随着时间的推移，你的武器的耐用性会逐渐降低。
+
+灵魂吸收提高10%。</text>
+<text id="99002510">光荣的跪在游魂面前。
+
+赋予boss能力，增加以下内容：
+- 伤害降低 50%
+- 血量增加 30%
+- 耐力提高 30%。
+- 耐力恢复 30
+- 强韧度 100
+- 抗性提高 50%
+
+增加获得原始碎片的概率。</text>
+<text id="99002530">社区</text>
+<text id="99002531">检查</text>
+<text id="99002532">附加物</text>
+<text id="99003500">授予领主</text>
+<text id="99003501">遗物</text>
+<text id="99003502">获得力量遗物</text>
+<text id="99003503">获得疯狂遗物</text>
+<text id="99003504">获得传奇遗物</text>
+<text id="99003505">获得神话遗物</text>
+<text id="99003506">力量遗物</text>
+<text id="99003507">疯狂遗物</text>
+<text id="99003508">传奇遗物</text>
+<text id="99003509">神话遗迹</text>
+<text id="99003510">要获取力量遗物，您必须：
+- 杀死灰烬之王。
+- 在旅途中的任何时候都不能死亡。
+
+您仍然有资格。</text>
+<text id="99003511">要获得力量遗物，您必须：
+- 杀死灰烬之王。
+- 在旅途中的任何时候都不能死亡。
+
+你可以索取遗物。</text>
+<text id="99003512">要获取力量遗物，您必须：
+- 杀死灰烬之王。
+- 在旅途中的任何时候都不能死亡。
+
+你失败了。</text>
+<text id="99003520">要获取疯狂遗物，您必须：
+- 杀死灰烬之王。
+- 避免在任何时候受到任何敌人的任何伤害
+在你的旅途中。
+
+您仍然有资格。</text>
+<text id="99003521">要获取疯狂遗物，您必须：
+- 杀死灰烬之王。
+- 避免在任何时候受到任何敌人的任何伤害
+在你的旅途中。
+
+你可以获取遗物。</text>
+<text id="99003522">要获取疯狂遗物，您必须：
+- 杀死灰烬之王。
+- 避免在任何时候受到任何敌人的任何伤害
+在你的旅途中。
+
+你失败了。</text>
+<text id="99003530">要获取传奇遗物，您必须：
+- 杀死灰烬之王。
+- 在旅途中的任何时候都不能死亡。
+
+您仍然有资格。</text>
+<text id="99003531">要获取传奇遗物，您必须：
+- 杀死灰烬之王。
+- 在旅途中的任何时候都不能死亡。
+
+你可以获取遗物。</text>
+<text id="99003532">要获取传奇遗物，您必须：
+- 杀死灰烬之王。
+- 在旅途中的任何时候都不能死亡。
+
+你失败了。</text>
+<text id="99003540">要获取神话遗物，您必须：
+- 杀死灰烬之王。
+- 避免在任何时候受到任何敌人的任何伤害
+在你的旅途中。
+
+您仍然有资格。</text>
+<text id="99003541">要获取神话遗物，您必须：
+- 杀死灰烬之王。
+- 避免在任何时候受到任何敌人的任何伤害
+在你的旅途中。
+
+你可以获取遗物。</text>
+<text id="99003542">要获取神话遗物，您必须：
+- 杀死灰烬之王。
+- 避免在任何时候受到任何敌人的任何伤害
+在你的旅途中。
+
+你失败了。</text>
+<text id="99003600">交出黑暗灵魂之血</text>
+<text id="99004000">熟练：减少15%的武器耐力消耗。
+魔法：命中时吸收2/4/6专注值，因武器类型而异。
+火焰：叠加1%火焰吸收减益效果，持续5秒。
+闪电：对目标施加50%坚韧性，持续5秒。
+黑暗：击中时吸收5/10/15点生命值，因武器类型而异。
+幸运：物品发现增加25，灵魂吸收增加10%。
+愚人：每秒额外恢复3点专注值。
+祝福：每秒额外恢复3点血量。
+锋利：连续攻击增加伤害，最高15%。
+厚重：增加最大装备负载10%。</text>
+<text id="99004001">清晰：每秒额外恢复3点专注值。
+回春：额外提供15点耐力恢复。
+恢复：每秒额外恢复3血量。
+喘息：增加10%的最大设备负载。
+清醒：减少法术专注值消耗5%。
+贪婪：增加10%的灵魂吸收。
+魔法：魔法吸收增加5%。
+火焰：增加5%的火焰吸收。
+闪电：闪电吸收增加5%。
+黑暗：增加暗吸收5%。</text>
+<text id="99004002">脉动：每秒额外恢复5点专注值。
+振动：每秒额外恢复5点血量。
+悸动：降低所有法术的专注值消耗10%。
+颤抖：施法速度提高25。
+嘲讽：将触媒转化为祝福形式：
+	- 将法术所需的智力和信仰减半。
+	- 将触媒缩放切换为祝福。
+失常：提升法术增益但：
+- 每次施法增加10%法术的专注值消耗。
+- 堆叠，每个堆叠持续10秒。</text>
+<text id="99004004">加固</text>
+<text id="99005000">在此处不起作用。</text>
+<text id="99005100">银骑士莱多入侵。。。</text>
+<text id="99005101">银骑士莱多已被击败</text>
+<text id="99005110">隆多尔的尤莉雅入侵。。。</text>
+<text id="99005111">隆多尔的尤莉雅已被击败</text>
+<text id="99005120">被遗忘的洛克林入侵。。。</text>
+<text id="99005121">被遗忘的洛克林已被击败</text>
+<text id="99005130">圣骑士莫顿入侵。。。</text>
+<text id="99005131">圣骑士莫顿已被击败</text>
+<text id="99005140">逖伊的入侵。。。</text>
+<text id="99005141">逖伊已被击败</text>
+<text id="99005150">莫雷尔船长入侵。。。</text>
+<text id="99005151">莫雷尔船长已被击败</text>
+<text id="99005160">施虐狂莎伦入侵。。。</text>
+<text id="99005161">施虐狂莎伦已被击败</text>
+<text id="99005170">圣殿骑士诺亚斯克入侵。。。</text>
+<text id="99005171">圣殿骑士诺亚斯克已被击败</text>
+<text id="99005180">古墓丽影迪凡入侵。。。</text>
+<text id="99005181">古墓丽影迪凡已被击败</text>
+<text id="99005190">混沌仆从伊戈尔入侵。。。</text>
+<text id="99005191">混沌仆从伊戈尔被征服</text>
+<text id="99005200">不可阻挡的伊芙利特入侵。。。</text>
+<text id="99005201">不可阻挡的伊芙利特已被击败</text>
+<text id="99005210">小丑入侵。。。</text>
+<text id="99005211">小丑已被击败</text>
+<text id="99005220">审判官阿什福德入侵。。。</text>
+<text id="99005221">审判官阿什福德已被击败</text>
+<text id="99005290">堕落的骑士劳埃德入侵。。。</text>
+<text id="99005291">堕落的骑士劳埃德已被消灭</text>
+<text id="99005300">猎人艾娃入侵。。。</text>
+<text id="99005301">猎人艾娃已被击败</text>
+<text id="99005310">追击者入侵。。。</text>
+<text id="99005311">追击者已被击败</text>
+<text id="99005320">古怪的阿奇博尔德入侵。。。</text>
+<text id="99005321">古怪的阿奇博尔德已被击败</text>
+<text id="99005330">狱卒艾琳入侵。。。</text>
+<text id="99005331">狱卒艾琳被击败</text>
+<text id="99005340">无情的奥利斯入侵。。。</text>
+<text id="99005341">无情的奥利斯已被击败</text>
+<text id="99005350">邪恶之血安娜利兹入侵。。。</text>
+<text id="99005351">邪恶之血安娜利兹已被击败</text>
+<text id="99005360">被遗忘者入侵。。。</text>
+<text id="99005361">被遗忘者已被击败</text>
+<text id="99005370">父亲入侵。。。</text>
+<text id="99005371">父亲已被击败</text>
+<text id="99005380">母亲入侵。。。</text>
+<text id="99005381">母亲已被击败</text>
+<text id="99005390">孩子入侵。。。</text>
+<text id="99005391">孩子已被击败</text>
+<text id="99005400">扎卡尔勋爵入侵。。。</text>
+<text id="99005401">扎卡尔勋爵已被击败</text>
+<text id="99005410">战刃大师霍迪尔入侵。。。</text>
+<text id="99005411">战刃大师霍迪尔已被击败</text>
+<text id="99005420">决斗者以西结入侵。。。</text>
+<text id="99005421">决斗者以西结已被击败</text>
+<text id="99005430">暗影艾嘉入侵。。。</text>
+<text id="99005431">暗影艾嘉已被击败</text>
+<text id="99005440">铁甲泽维尔入侵。。。</text>
+<text id="99005441">铁甲泽维尔已被击败</text>
+<text id="99005450">不幸的芙蕾雅入侵。。。</text>
+<text id="99005451">不幸的芙蕾雅已被击败</text>
+<text id="99005460">堕落者纳荷入侵。。。</text>
+<text id="99005461">堕落者纳荷已被击败</text>
+<text id="99005470">东方人亚泽尔入侵。。。</text>
+<text id="99005471">东方人亚泽尔已被击败</text>
+<text id="99005480">强大的盖乌斯入侵。。。</text>
+<text id="99005481">强大的盖乌斯已被击败</text>
+<text id="99005490">怪物昆图斯入侵。。。</text>
+<text id="99005491">怪物昆图斯已被击败</text>
+<text id="99005500">铁匠的梦魇入侵。。。</text>
+<text id="99005501">铁匠的梦魇已被击败</text>
+<text id="99005510">冰雪骑士托比昂入侵……</text>
+<text id="99005511">冰雪骑士托比昂已被击败</text>
+<text id="99005520">魔法骑士岩井入侵。。。</text>
+<text id="99005521">魔法骑士岩井已被击败</text>
+<text id="99005530">流浪骑士奥斯瓦尔多入侵。。。</text>
+<text id="99005531">流浪骑士奥斯瓦尔多已被击败</text>
+<text id="99005540">高冢勋爵入侵。。。</text>
+<text id="99005541">高冢勋爵已被击败</text>
+<text id="99005550">乌加利中尉入侵。。。</text>
+<text id="99005551">乌加利中尉已被击败</text>
+<text id="99005560">韩吉中尉入侵。。。</text>
+<text id="99005561">韩吉中尉已被击败</text>
+<text id="99005570">灰烬守护者索菲亚入侵。。。</text>
+<text id="99005571">灰烬守护者索菲亚已被击败</text>
+<text id="99005580">神圣骑士奥瑟尔入侵。。。</text>
+<text id="99005581">神圣骑士奥瑟尔已被击败</text>
+<text id="99005590">猎龙者卡史塔克入侵。。。</text>
+<text id="99005591">猎龙者卡史塔克已被击败</text>
+<text id="99005600">阿尔萨娜的弟子入侵。。。</text>
+<text id="99005601">阿尔萨娜的弟子已被击败</text>
+<text id="99005620">长指柯克入侵。。。</text>
+<text id="99005621">长指柯克已被击败</text>
+<text id="99005630">被唾弃的追随者亚瓦入侵。。。</text>
+<text id="99005631">被唾弃的追随者亚瓦已被击败</text>
+<text id="99005640">被唾弃的追寻者入侵。。。</text>
+<text id="99005641">被唾弃的追寻者已被击败</text>
+<text id="99005650">呻吟骑士入侵。。。</text>
+<text id="99005651">呻吟骑士已被击败</text>
+<text id="99005660">铁血烈焰术士入侵。。。</text>
+<text id="99005661">铁血烈焰术士已被击败</text>
+<text id="99005670">锅王格雷格入侵。。。</text>
+<text id="99005671">锅王格雷格已被击败</text>
+<text id="99005680">黄指海瑟尔入侵。。。</text>
+<text id="99005681">黄指海瑟已被击败</text>
+<text id="99005690">隆多尔白色暗影入侵。。。</text>
+<text id="99005691">隆多尔白色暗影已被击败</text>
+<text id="99005700">流浪者克赖顿入侵。。。</text>
+<text id="99005701">流浪者克赖顿已被击败</text>
+<text id="99005710">骑士杀手佐里格入侵。。。</text>
+<text id="99005711">骑士杀手佐里格已被击败</text>
+<text id="99005720">结晶克里姆希尔德的女儿入侵。。。</text>
+<text id="99005721">结晶克里姆希尔德的女儿已被击败</text>
+<text id="99005730">灰烬猎人雅福入侵。。。</text>
+<text id="99005731">灰烬猎人雅福已被击败</text>
+<text id="99007000">昔日的敌人已恢复</text>
+<text id="99010000">分数</text>
+<text id="99010001">说话</text>
+<text id="99010100">吸引印记</text>
+<text id="99010101">狗的印记</text>
+<text id="99010102">螃蟹印记</text>
+<text id="99010103">英勇印记</text>
+<text id="99010200">禁用吸引印记</text>
+<text id="99010201">禁用狗的印记</text>
+<text id="99010202">禁用螃蟹印记</text>
+<text id="99010203">禁用英勇印记</text>
+<text id="99011100">你被标记，敌人正在
+朝向你的位置走去。
+
+在世界各地添加更多的敌人。
+
+灵魂吸收提高5%。</text>
+<text id="99011101">犬类会被你甜美的肉体所吸引。
+
+洛斯里克高墙现在被许多犬类敌人占领。
+
+灵魂吸收提高10%
+洛斯里克的高墙。</text>
+<text id="99011102">螃蟹会被您独特的麝香所吸引。
+
+活祭品之路和法兰要塞现已被占领
+被无数螃蟹敌人所攻击。
+
+灵魂吸收提高10%
+活祭品之路或法兰要塞。</text>
+<text id="99011103">您已准备好面对真正的力量。
+
+使boss的力量增加50%，血量增加50%。
+
+使原始材料从Boss处掉落。</text>
+<text id="99011200">吸引印记已损坏。</text>
+<text id="99011201">狗的印记已损坏。</text>
+<text id="99011202">螃蟹印记已损坏。</text>
+<text id="99011203">勇气印记已损坏。</text>
+<text id="99013100">受折磨的灵魂</text>
+<text id="99013101">交出受折磨的灵魂</text>
+<text id="99013110">史密斯盒</text>
+<text id="99013111">交出史密斯盒</text>
+<text id="99013120">遣送到传火祭祀场</text>
+<text id="99013130">学习本金大师的冲刺</text>
+<text id="99013131">猎人武器现在会让你的翻滚变成冲刺</text>
+<text id="99013140">禁用本金大师的冲刺</text>
+<text id="99013141">猎人武器不再让你冲刺。</text>
+<text id="99015000">饰品属性升级</text>
+<text id="99015001">属性升级概述</text>
+<text id="99015005">初级属性升级</text>
+<text id="99015006">中级属性升级</text>
+<text id="99015007">高级属性升级</text>
+<text id="99015008">精美属性升级</text>
+<text id="99015009">传奇属性升级</text>
+<text id="99015010">升级这个饰品？</text>
+<text id="99015011">你没有这个饰品</text>
+<text id="99015012">原始碎片不足</text>
+<text id="99015013">配件</text>
+<text id="99015020">用于赋予饰品，
+增加其效果的强度。
+
+这个过程需要原始碎片，每个级别的
+贴需要更多。
+
+初级：2个原始碎片
+中级: 4个原始碎片
+高级：6个原始碎片
+精美：8个原始碎片
+传奇：10个原始碎片</text>
+<text id="99015100">生命戒指</text>
+<text id="99015101">绿花戒指</text>
+<text id="99015102">哈维尔戒指</text>
+<text id="99015103">宠爱戒指</text>
+<text id="99015104">钢铁庇佑戒指</text>
+<text id="99015105">火方石戒指</text>
+<text id="99015106">雷方石戒指</text>
+<text id="99015107">魔力方石戒指</text>
+<text id="99015108">暗方石戒指</text>
+<text id="99015109">斑方石戒指</text>
+<text id="99015110">咬血戒指</text>
+<text id="99015111">咬毒戒指</text>
+<text id="99015112">咬咒戒指</text>
+<text id="99015113">咬人戒指</text>
+<text id="99015114">木纹戒指</text>
+<text id="99015115">贤者戒指</text>
+<text id="99015116">主祭戒指</text>
+<text id="99015117">红泪石戒指</text>
+<text id="99015118">蓝泪石戒指</text>
+<text id="99015119">狼戒指</text>
+<text id="99015120">伫立龙徽戒指</text>
+<text id="99015121">老者戒指</text>
+<text id="99015122">幽暗宝冠戒指</text>
+<text id="99015123">暗月戒指</text>
+<text id="99015124">狂吼龙徽戒指</text>
+<text id="99015125">魔女们的戒指</text>
+<text id="99015126">太阳长男戒指</text>
+<text id="99015127">老鹰戒指</text>
+<text id="99015128">贪婪金蛇戒指</text>
+<text id="99015129">贪婪银蛇戒指</text>
+<text id="99015130">太阳公主戒指</text>
+<text id="99015131">头盖骨戒指</text>
+<text id="99015132">骑士戒指</text>
+<text id="99015133">猎人戒指</text>
+<text id="99015134">猎杀骑士戒指</text>
+<text id="99015135">魔力怪手戒指</text>
+<text id="99015136">雷电怪手戒指</text>
+<text id="99015137">火焰怪手戒指</text>
+<text id="99015138">暗怪手戒指</text>
+<text id="99015139">弗林戒指</text>
+<text id="99015140">俘虏锁链</text>
+<text id="99015141">邪眼戒指</text>
+<text id="99015142">灾难戒指</text>
+<text id="99015143">法兰戒指</text>
+<text id="99015144">洛伊德剑徽戒指</text>
+<text id="99015145">洛伊德盾徽戒指</text>
+<text id="99015146">原素戒指</text>
+<text id="99015147">原素灰戒指</text>
+<text id="99015148">马腿戒指</text>
+<text id="99015149">教宗右眼</text>
+<text id="99015150">教宗左眼</text>
+<text id="99015151">龙鳞戒指</text>
+<text id="99015152">咬霜戒指</text>
+<text id="99015153">精神紫水晶戒指</text>
+<text id="99015154">不洁遗迹戒指</text>
+<text id="99015155">忏悔者象徵戒指</text>
+<text id="99015156">阳光之书</text>
+<text id="99015157">魔戒</text>
+<text id="99015158">地穴戒指</text>
+<text id="99015159">枯萎戒指</text>
+<text id="99015160">神圣戒指</text>
+<text id="99015161">智慧之戒</text>
+<text id="99015162">卡萨斯灰环</text>
+<text id="99015163">卡萨斯蓝环</text>
+<text id="99015164">卡萨斯红环</text>
+<text id="99015165">卡萨斯黄环</text>
+<text id="99015166">卡萨斯紫环</text>
+<text id="99015167">佣兵戒指</text>
+<text id="99015168">天使戒指</text>
+<text id="99015169">商人戒指</text>
+<text id="99015170">医疗戒指</text>
+<text id="99015171">小丑戒指</text>
+<text id="99015172">隆多尔酊剂</text>
+<text id="99015173">护盾戒指</text>
+<text id="99015174">疯狂之环</text>
+<text id="99015175">原素黑戒指</text>
+<text id="99015176">原素蓝戒指</text>
+<text id="99015177">原素火戒指</text>
+<text id="99015178">原素雷戒指</text>
+<text id="99015179">原素暗戒指</text>
+<text id="99015180">埃尔登戒指</text>
+<text id="99015181">惩罚之戒</text>
+<text id="99015182">力量遗物</text>
+<text id="99015183">疯狂遗物</text>
+<text id="99015184">被污染的圣杯</text>
+<text id="99015185">受诅咒符</text>
+<text id="99015186">霜花戒指</text>
+<text id="99015187">传奇遗物</text>
+<text id="99015188">神话遗物</text>
+<text id="99015189">动力之环</text>
+<text id="99015190">恩典之钟</text>
+<text id="99015191">细线红绳</text>
+<text id="99015192">撤退之戒</text>
+<text id="99015193">高尔的报应之戒</text>
+<text id="99015194">老者开端</text>
+<text id="99015195">黄蜂戒指</text>
+<text id="99015196">刺客印记</text>
+<text id="99015197">埃尔登戒指</text>
+<text id="99015198">卡萨斯乳环</text>
+<text id="99015199">巨木遗迹</text>
+<text id="99015200">愚者印记</text>
+<text id="99015201">咒语戒指</text>
+<text id="99015202">可怜的坠饰</text>
+<text id="99015203">刀片之环</text>
+<text id="99015204">魔法印记</text>
+<text id="99015205">火焰印记</text>
+<text id="99015206">雷电印记</text>
+<text id="99015207">黑暗印记</text>
+<text id="99016000">应用浸染</text>
+<text id="99016001">浸染概述</text>
+<text id="99016005">基础浸染</text>
+<text id="99016006">中级浸染</text>
+<text id="99016007">高级浸染</text>
+<text id="99016008">精美浸染</text>
+<text id="99016009">传奇浸染</text>
+<text id="99016010">浸染该道具?</text>
+<text id="99016011">你没有这个道具</text>
+<text id="99016012">仪式香不足</text>
+<text id="99016013">饰品浸染</text>
+<text id="99016020">浸染用于增强配套配件，
+增加其效果的强度。
+
+这个过程需要仪式香，每一级
+灌输需要更多。
+
+基础：3个仪式香
+中级：6个仪式香
+高级：9个仪式香
+精美：12个仪式香
+传奇：15个仪式香</text>
+<text id="99016030">浸染</text>
+<text id="99016031">作品</text>
+<text id="99016100">顺从表盘</text>
+<text id="99016101">购买威力道具</text>
+<text id="99016102">购买韧性道具</text>
+<text id="99016103">购买坚韧道具</text>
+<text id="99016104">购买生命力道具</text>
+<text id="99016105">购买忠诚道具</text>
+<text id="99016106">购买精力道具</text>
+<text id="99030000">您必须拥有龙爪才能激活此物品。</text>
+<text id="99030001">您必须拥有朝圣者的灵魂才能激活此物品。</text>
+<text id="99030002">您必须拥有闷烧钥匙才能激活此物品。</text>
+<text id="99030003">您必须拥有隆多尔之眼才能激活此物品。</text>
+<text id="99030004">您必须拥有冰霜之花才能激活此物品。</text>
+<text id="99030005">您必须拥有破碎的石板才能激活此对象。</text>
+<text id="99030006">您必须拥有地下墓穴钥匙才能激活此物品。</text>
+<text id="99030007">您必须拥有巨人之魂才能激活此物品。</text>
+<text id="99030008">您必须拥有闷烧碎石才能激活此物品。</text>
+<text id="99030010">你必须被灰烬召唤一个同伴。</text>
+<text id="99030020">这个同伴已经死了。</text>
+<text id="99030030">同伴已处于活动状态。</text>
+<text id="99030100">古达老师还没被杀
+在这段旅程中。</text>
+<text id="99030101">冷冽谷波尔多还没被杀
+在这段旅程中。</text>
+<text id="99030102">诅咒大树还没被杀
+在这段旅程中。</text>
+<text id="99030103">结晶老者还没被杀
+在这段旅程中。</text>
+<text id="99030104">幽邃主教群还没被杀
+在这段旅程中。</text>
+<text id="99030105">深渊监视者还没被杀
+在这段旅程中。</text>
+<text id="99030106">霸王沃尼尔还没被杀
+在这段旅程中。</text>
+<text id="99030107">老恶魔王还还没被杀
+在这段旅程中。</text>
+<text id="99030108">教宗沙力万还没被杀
+在这段旅程中。</text>
+<text id="99030109">艾尔德里奇还没被杀
+在这段旅程中。</text>
+<text id="99030110">巨人尤姆还没被杀
+在这段旅程中。</text>
+<text id="99030111">北方冷冽谷的舞娘还没被杀
+在这段旅程中。</text>
+<text id="99030112">奥塞罗斯还没被杀
+在这段旅程中。</text>
+<text id="99030113">猎龙铠甲还没被杀
+在这段旅程中。</text>
+<text id="99030114">远古飞龙还没被杀
+在这段旅程中。</text>
+<text id="99030115">无名王者还没被杀
+在这段旅程中。</text>
+<text id="99030116">英雄古达还没被杀
+在这段旅程中。</text>
+<text id="99030117">孪生王子还没被杀
+在这段旅程中。</text>
+<text id="99030118">薪王化身还没被杀
+在这段旅程中。</text>
+<text id="99030119">弗里德修女还没被杀
+在这段旅程中。</text>
+<text id="99030120">洛德兰遗迹还没被杀
+在这段旅程中。</text>
+<text id="99030121">恶魔王还没被杀
+在这段旅程中。</text>
+<text id="99030122">吞噬神明米迪尔还没被杀
+在这段旅程中。</text>
+<text id="99030123">奴隶骑士盖尔还没被杀
+在这段旅程中。</text>
+<text id="99030124">半光还没被杀
+在这段旅程中。</text>
+<text id="99030125">英维尔公主还没被杀
+在这段旅程中。</text>
+<text id="99030126">大教堂守护者还没被杀
+在这段旅程中。</text>
+<text id="99030127">镜骑士还没被杀
+在这段旅程中。</text>
+<text id="99030128">阿波尔还没被杀
+在这段旅程中。</text>
+<text id="99030129">多西努斯王子还没被杀
+在这段旅程中。</text>
+<text id="99030130">三个臭皮匠还没被杀
+在这段旅程中。</text>
+<text id="99030131">扭曲骑士还没被杀
+在这段旅程中。</text>
+<text id="99030132">堕落守护者还没被杀
+在这段旅程中。</text>
+<text id="99030133">楔形石恶魔还没被杀
+在这段旅程中。</text>
+<text id="99030134">掠夺者还没被杀
+在这段旅程中。</text>
+<text id="99030200">万岁，王后，慈悲之母……</text>
+<text id="99030201">冰雹，我们的生活，我们的甜蜜，我们的希望。</text>
+<text id="99030202">夏娃的儿子们，我们向你们呼喊被遗弃的人。</text>
+<text id="99030203">我们向你发出我们的叹息、哀悼和哭泣......</text>
+<text id="99030204">……在这泪谷。</text>
+<text id="99030205">万岁，那么，我们的倡导者，你们这些人.....</text>
+<text id="99030206">把你的眼睛转向我们，你是仁慈的。</text>
+<text id="99030207">还有葛温，你身体的祝福之果……</text>
+<text id="99030208">在这次流放之后向我们展示。</text>
+<text id="99030209">O clemens, O pia, O dulcis Gwynevere.</text>
+<text id="99030300">您当前在周目一。</text>
+<text id="99030301">您当前在周目二。</text>
+<text id="99030302">您当前在周目三。</text>
+<text id="99030303">您当前在周目四。</text>
+<text id="99030304">您当前在周目五。</text>
+<text id="99030305">您当前在周目六。</text>
+<text id="99030306">您当前在周目七。</text>
+<text id="99030307">您目前在周目八或更高周目中.</text>
+<text id="99030400">已锁定，需要遗忘密钥</text>
+<text id="99030401">它已锁定，需要士兵的钥匙</text>
+<text id="99030402">它已锁定，需要骑士钥匙</text>
+<text id="99030403">它已锁定，需要埋藏钥匙</text>
+<text id="99030404">已锁定，需要龙爪</text>
+<text id="99030405">它已锁定，需要瘟疫钥匙</text>
+<text id="99030406">它已锁定，需要学者的钥匙</text>
+<text id="99030407">它已锁定，需要受影响的钥匙</text>
+<text id="99030408">它已锁定，需要阴燃钥匙</text>
+<text id="99030409">它已锁定，需要颤抖键</text>
+<text id="99030410">它已锁定，需要亵渎钥匙</text>
+<text id="99030411">已锁定，需要冰霜之花</text>
+<text id="99030412">已锁定，需要渣滓钥匙</text>
+<text id="99030413">已锁定，需要刻录钥匙</text>
+<text id="99030500">购买道具</text>
+<text id="99030620">交出法兰余烬</text>
+<text id="99030621">交出贤者余烬</text>
+<text id="99030622">交出巨人余烬</text>
+<text id="99030623">交出废柴余烬</text>
+<text id="99030730">你必须拥有审判圣印才能窥视过去。</text>
+<text id="99031000">记忆</text>
+<text id="99031001">地穴的记忆</text>
+<text id="99031002">沼泽的记忆</text>
+<text id="99031003">高墙记忆</text>
+<text id="99031004">大教堂的记忆</text>
+<text id="99031005">不死聚落记忆</text>
+<text id="99031100">生存!</text>
+<text id="99031200">尤诺·佩克尼奥举起爪子表示感谢。
+当他离开时，你会注意到他给你留下了一枚贵重的戒指。</text>
+<text id="99031300">你必须遇到多提努斯王子
+与堕落的骑士交流</text>
+<text id="99040010">你缺少10个结晶碎片</text>
+<text id="99040011">你缺少15个结晶碎片</text>
+<text id="99040012">你缺少20个结晶碎片</text>
+<text id="99040020">你缺少10个神圣碎片</text>
+<text id="99040021">你缺少15个神圣碎片</text>
+<text id="99040022">你缺少20个神圣碎片</text>
+<text id="99040030">你缺少10个深渊碎片</text>
+<text id="99040031">你缺少15个深渊碎片</text>
+<text id="99040032">你缺少20个深渊碎片</text>
+<text id="99040040">你缺少10个火种</text>
+<text id="99040041">你缺少15个火种</text>
+<text id="99040043">你缺少20个火种</text>
+<text id="99041000">精制法兰短箭</text>
+<text id="99041001">迅捷灵魂珠</text>
+<text id="99041002">爆炸灵魂箭</text>
+<text id="99041003">爆炸灵魂枪</text>
+<text id="99041004">追踪结晶灵魂枪</text>
+<text id="99041005">延长的白龙吐息</text>
+<text id="99041006">精制的法兰快剑</text>
+<text id="99041007">强力灵魂巨剑</text>
+<text id="99041008">沉重的旧月光</text>
+<text id="99041009">涌动灵魂块</text>
+<text id="99041010">弱化结晶灵魂块</text>
+<text id="99041011">多重灵魂珠</text>
+<text id="99041012">多重结晶球</text>
+<text id="99041013">追踪法兰冰雹</text>
+<text id="99041014">聚焦结晶冰雹</text>
+<text id="99041015">迅捷审判宝珠</text>
+<text id="99041016">多重结晶风暴</text>
+<text id="99041017">反复暴风雪</text>
+<text id="99041018">迅捷灵魂激流</text>
+<text id="99041019">结晶灵魂间歇泉</text>
+<text id="99041020">长效毒雾</text>
+<text id="99041021">长效瞬间冻结</text>
+<text id="99041022">精制冲击波</text>
+<text id="99041023">精致的致盲之光</text>
+<text id="99041024">无法穿透的光柱</text>
+<text id="99041025">精致的发出声响</text>
+<text id="99041026">熟练维修</text>
+<text id="99041029">无上魔法武器</text>
+<text id="99041030">至尊冰冻武器</text>
+<text id="99041031">精制暗器</text>
+<text id="99041033">至尊魔盾</text>
+<text id="99041034">长效释放魔法</text>
+<text id="99041035">大规模恐怖</text>
+<text id="99041036">高级隐藏身躯</text>
+<text id="99041037">精制变色龙</text>
+<text id="99041038">精制光明照耀</text>
+<text id="99041039">严寒咆哮</text>
+<text id="99041040">长效利刃冰雹</text>
+<text id="99041041">爆冰</text>
+<text id="99041042">冷却雾凇</text>
+<text id="99041043">精制冰霜之路</text>
+<text id="99041044">迅捷多提努斯的圆盘</text>
+<text id="99041045">精制传送</text>
+<text id="99041046">灵魂爆炸</text>
+<text id="99042000">进阶“法兰短箭”?</text>
+<text id="99042001">进阶“灵魂波”?</text>
+<text id="99042002">进阶“灵魂箭”?</text>
+<text id="99042003">进阶“灵魂枪”?</text>
+<text id="99042004">进阶“结晶灵魂枪”?</text>
+<text id="99042005">进阶“白龙吐息”?</text>
+<text id="99042006">进阶“法兰快剑”?</text>
+<text id="99042007">进阶“灵魂大剑”?</text>
+<text id="99042008">进阶“古老月光”?</text>
+<text id="99042009">进阶“追踪灵魂块”?</text>
+<text id="99042010">进阶“结晶灵魂块”?</text>
+<text id="99042011">进阶“散射灵魂球”?</text>
+<text id="99042012">进阶“散射结晶球”?</text>
+<text id="99042013">进阶“法兰箭雨”?</text>
+<text id="99042014">进阶“结晶降雹”?</text>
+<text id="99042015">进阶“审判之球”?</text>
+<text id="99042016">进阶“结晶风暴”?</text>
+<text id="99042017">进阶“暴风雪”?</text>
+<text id="99042018">进阶“灵魂激流”?</text>
+<text id="99042019">进阶“灵魂间隙泉”?</text>
+<text id="99042020">进阶“致命白雾”?</text>
+<text id="99042021">进阶“瞬间冻结”?</text>
+<text id="99042022">进阶“冲击波”?</text>
+<text id="99042023">进阶“致盲之光”?</text>
+<text id="99042024">进阶“扭曲光壁”?</text>
+<text id="99042025">进阶“发出声响”?</text>
+<text id="99042026">进阶“修理”?</text>
+<text id="99042029">进阶“结晶魔力武器”?</text>
+<text id="99042030">进阶“冰冻武器”?</text>
+<text id="99042031">进阶“隐形武器”?</text>
+<text id="99042033">进阶“魔力盾牌”?</text>
+<text id="99042034">进阶“施展魔法”?</text>
+<text id="99042035">进阶“密探”?</text>
+<text id="99042036">进阶“隐形身躯”?</text>
+<text id="99042037">进阶“变色龙”?</text>
+<text id="99042038">进阶“光明照耀”?</text>
+<text id="99042039">进阶“寒冷骚动”?</text>
+<text id="99042040">进阶“利刃冰雹”?</text>
+<text id="99042041">进阶“穿刺冰”?</text>
+<text id="99042042">进阶“雾凇”?</text>
+<text id="99042043">进阶“冰霜之路”?</text>
+<text id="99042044">进阶“多提努斯的圆盘”?</text>
+<text id="99042045">进阶“传送”?</text>
+<text id="99042046">进阶“灵魂爆炸”?</text>
+<text id="99043000">精制法兰短箭</text>
+<text id="99043001">快速灵魂波</text>
+<text id="99043002">爆炸灵魂箭</text>
+<text id="99043003">爆炸灵魂枪</text>
+<text id="99043004">追踪结晶灵魂枪</text>
+<text id="99043005">延长的白龙吐息</text>
+<text id="99043006">精制法兰快剑</text>
+<text id="99043007">重型灵魂大剑</text>
+<text id="99043008">重型古老月光</text>
+<text id="99043009">汹涌灵魂块</text>
+<text id="99043010">削弱结晶灵魂块</text>
+<text id="99043011">多重灵魂波</text>
+<text id="99043012">多重结晶球</text>
+<text id="99043013">追踪法兰箭雨</text>
+<text id="99043014">集中结晶降雹</text>
+<text id="99043015">快速审判之球</text>
+<text id="99043016">多重结晶风暴</text>
+<text id="99043017">多重暴风雪</text>
+<text id="99043018">迅捷灵魂激流</text>
+<text id="99043019">结晶灵魂间隙泉</text>
+<text id="99043020">长效致命白雾</text>
+<text id="99043021">长效瞬间冻结</text>
+<text id="99043022">精制冲击波</text>
+<text id="99043023">精制致盲之光</text>
+<text id="99043024">精制坚硬光柱</text>
+<text id="99043025">精制发出声响</text>
+<text id="99043026">精制熟练修理</text>
+<text id="99043029">究极魔力武器</text>
+<text id="99043030">究极冰冻武器</text>
+<text id="99043031">精制隐形武器</text>
+<text id="99043033">究极魔力盾牌</text>
+<text id="99043034">长效施展魔法</text>
+<text id="99043035">高级密探</text>
+<text id="99043036">高级隐形身躯</text>
+<text id="99043037">精制变色龙</text>
+<text id="99043038">精制光明照耀</text>
+<text id="99043039">精制严寒咆哮</text>
+<text id="99043040">精制长效利刃冰雹</text>
+<text id="99043041">精制爆冰</text>
+<text id="99043042">精制冷却雾凇</text>
+<text id="99043043">精制冰霜之路</text>
+<text id="99043044">迅捷多提努斯的圆盘</text>
+<text id="99043045">精心制作的传送</text>
+<text id="99043046">精心制作的灵魂爆炸</text>
+<text id="99044000">燃烧火球</text>
+<text id="99044001">削弱火球弹</text>
+<text id="99044002">追踪混沌火球弹</text>
+<text id="99044003">燃烧爆炸火球</text>
+<text id="99044004">远端罪业火焰</text>
+<text id="99044005">混沌涡流</text>
+<text id="99044006">巨型沸腾混沌</text>
+<text id="99044007">精制火焰扇</text>
+<text id="99044008">易燃燃烧弹</text>
+<text id="99044009">精制喷射火焰</text>
+<text id="99044010">易燃横扫火焰</text>
+<text id="99044011">精制净化火焰</text>
+<text id="99044012">多重火焰风暴</text>
+<text id="99044013">多重混沌风暴</text>
+<text id="99044014">精制长效混沌</text>
+<text id="99044015">长效浮空混沌</text>
+<text id="99044016">焚烧混沌光束</text>
+<text id="99044017">巨型大灾变</text>
+<text id="99044018">快速吐岩</text>
+<text id="99044019">巨型屎块</text>
+<text id="99044020">追踪大地凸起</text>
+<text id="99044021">迅捷地震</text>
+<text id="99044022">召唤落岩</text>
+<text id="99044023">长效喷射酸液</text>
+<text id="99044024">长效毒雾</text>
+<text id="99044025">长效猛毒雾</text>
+<text id="99044026">长效献祭</text>
+<text id="99044027">加强型魅惑</text>
+<text id="99044028">爱的温暖</text>
+<text id="99044029">究极卡萨斯的弯火</text>
+<text id="99044030">长效卡萨斯的烽火</text>
+<text id="99044031">长效内在潜力</text>
+<text id="99044032">剧烈大出汗</text>
+<text id="99044033">精制剧烈油汗</text>
+<text id="99044034">长效铁身躯</text>
+<text id="99044035">长效岩石身躯</text>
+<text id="99044036">嗜血之尘</text>
+<text id="99044037">精制磁铁</text>
+<text id="99045000">进阶“火球”?</text>
+<text id="99045001">进阶“火球弹”?</text>
+<text id="99045002">进阶“混沌火球弹”?</text>
+<text id="99045003">进阶“爆炸火球”?</text>
+<text id="99045004">进阶“罪业火焰”?</text>
+<text id="99045005">进阶“温床残渣”?</text>
+<text id="99045006">进阶“沸腾混沌”?</text>
+<text id="99045007">进阶“火焰扇”?</text>
+<text id="99045008">进阶“巨大引燃烈火”?</text>
+<text id="99045009">进阶“喷射火焰”?</text>
+<text id="99045010">进阶“横扫火焰”?</text>
+<text id="99045011">进阶“净化火焰”?</text>
+<text id="99045012">进阶“火焰风暴”?</text>
+<text id="99045013">进阶“混沌风暴”?</text>
+<text id="99045014">进阶“长效混沌”?</text>
+<text id="99045015">进阶“浮空混沌”?</text>
+<text id="99045016">进阶“混沌光束”?</text>
+<text id="99045017">进阶“大灾变”?</text>
+<text id="99045018">进阶“吐岩”?</text>
+<text id="99045019">进阶“屎块”?</text>
+<text id="99045020">进阶“大地凸起”?</text>
+<text id="99045021">进阶“地震”?</text>
+<text id="99045022">进阶“陨石坠落”?</text>
+<text id="99045023">进阶“喷射酸液”?</text>
+<text id="99045024">进阶“毒雾”?</text>
+<text id="99045025">进阶“猛毒雾”?</text>
+<text id="99045026">进阶“献祭”?</text>
+<text id="99045027">进阶“魅惑”?</text>
+<text id="99045028">进阶“温暖”?</text>
+<text id="99045029">进阶“卡萨斯的弯火”?</text>
+<text id="99045030">进阶“卡萨斯的烽火”?</text>
+<text id="99045031">进阶“内在潜力”?</text>
+<text id="99045032">进阶“剧烈出汗”?</text>
+<text id="99045033">进阶“剧烈油汗”?</text>
+<text id="99045034">进阶“铁身躯”?</text>
+<text id="99045035">进阶“岩石身躯”?</text>
+<text id="99045036">进阶“扬尘”?</text>
+<text id="99045037">进阶“磁铁”?</text>
+<text id="99046000">精心制作的燃烧火球</text>
+<text id="99046001">精心制作的削弱火球弹</text>
+<text id="99046002">精心制作的追踪混沌火球弹</text>
+<text id="99046003">精心制作的燃烧爆炸火球</text>
+<text id="99046004">精心制作的远端罪业火焰</text>
+<text id="99046005">精心制作的混沌涡流</text>
+<text id="99046006">精心制作的巨型沸腾混沌</text>
+<text id="99046007">精心制作的精制火焰扇</text>
+<text id="99046008">精心制作的易燃燃烧弹</text>
+<text id="99046009">精心制作的精制喷射火焰</text>
+<text id="99046010">精心制作的易燃横扫火焰</text>
+<text id="99046011">精心制作的精制净化火焰</text>
+<text id="99046012">精心制作的多重火焰风暴</text>
+<text id="99046013">精心制作的多重混沌风暴</text>
+<text id="99046014">精心制作的精制长效混沌</text>
+<text id="99046015">精心制作的长效浮空混沌</text>
+<text id="99046016">精心制作的焚烧混沌光束</text>
+<text id="99046017">精心制作的巨型大灾变</text>
+<text id="99046018">精心制作的快速吐岩</text>
+<text id="99046019">精心制作的巨型屎块</text>
+<text id="99046020">精心制作的追踪大地凸起</text>
+<text id="99046021">精心制作的迅捷地震</text>
+<text id="99046022">精心制作的召唤落岩</text>
+<text id="99046023">精心制作的长效喷射酸液</text>
+<text id="99046024">精心制作的长效毒雾</text>
+<text id="99046025">精心制作的长效猛毒雾</text>
+<text id="99046026">精心制作的长效献祭</text>
+<text id="99046027">精心制作的加强型魅惑</text>
+<text id="99046028">精心制作的爱的温暖</text>
+<text id="99046029">精心制作的究极卡萨斯的弯火</text>
+<text id="99046030">精心制作的长效卡萨斯的烽火</text>
+<text id="99046031">精心制作的长效内在潜力</text>
+<text id="99046032">精心制作的剧烈大出汗</text>
+<text id="99046033">精心制作的精制剧烈油汗</text>
+<text id="99046034">精心制作的精心制作的长效铁身躯</text>
+<text id="99046035">精心制作的长效岩石身躯</text>
+<text id="99046036">精心制作的嗜血之尘</text>
+<text id="99046037">精心制作的精制磁铁</text>
+<text id="99047000">精制雷电箭</text>
+<text id="99047001">雷电波</text>
+<text id="99047002">风暴矛</text>
+<text id="99047003">追踪阳光之枪</text>
+<text id="99047004">削弱愤怒雷电球</text>
+<text id="99047005">愤怒光波</text>
+<text id="99047006">迅捷神圣之矛</text>
+<text id="99047007">阳光光柱</text>
+<text id="99047008">阳光风暴</text>
+<text id="99047009">多重天雷</text>
+<text id="99047010">长效蓝色雷柱</text>
+<text id="99047011">精制白教光环</text>
+<text id="99047012">迅捷生命力涌现</text>
+<text id="99047013">精制神箭</text>
+<text id="99047014">追踪洛斯里克圣矛</text>
+<text id="99047015">精制原力</text>
+<text id="99047016">迅捷诸神之怒</text>
+<text id="99047017">发怒</text>
+<text id="99047018">多重光柱</text>
+<text id="99047019">天使的惩罚</text>
+<text id="99047020">多重幽灵骑士</text>
+<text id="99047021">延长的幽灵弓箭手</text>
+<text id="99047022">延长的略施恢复</text>
+<text id="99047023">延长的恢复</text>
+<text id="99047024">延长的中等恢复</text>
+<text id="99047025">延长的大恢复</text>
+<text id="99047026">延长的阳光疗愈</text>
+<text id="99047027">延长的释放恢复</text>
+<text id="99047028">长效生命力涌现</text>
+<text id="99047029">长效光芒恩惠</text>
+<text id="99047030">长效阳光滋润</text>
+<text id="99047031">迅捷治愈眼泪</text>
+<text id="99047032">阳光刀</text>
+<text id="99047033">究极祝福武器</text>
+<text id="99047034">究极暗月光剑</text>
+<text id="99047036">究极魔力防护</text>
+<text id="99047037">延长的金石之誓</text>
+<text id="99047038">神圣恩赐</text>
+<text id="99047039">长效毅力</text>
+<text id="99047040">高级惜别眼泪</text>
+<text id="99047041">精制返回</text>
+<text id="99047042">精制格温妮弗的否认</text>
+<text id="99048000">进阶“雷电箭”?</text>
+<text id="99048001">进阶“雷枪”?</text>
+<text id="99048002">进阶“巨雷枪”?</text>
+<text id="99048003">进阶“阳光之枪”?</text>
+<text id="99048004">进阶“愤怒雷电球”?</text>
+<text id="99048005">进阶“愤怒弹幕”?</text>
+<text id="99048006">进阶“神圣之矛”?</text>
+<text id="99048007">进阶“雷电柱”?</text>
+<text id="99048008">进阶“风暴落雷”?</text>
+<text id="99048009">进阶“天雷”?</text>
+<text id="99048010">进阶“蓝色雷柱”?</text>
+<text id="99048011">进阶“白教光环”?</text>
+<text id="99048012">进阶“生命力涌现”?</text>
+<text id="99048013">进阶“神箭”?</text>
+<text id="99048014">进阶“洛斯里克圣矛”?</text>
+<text id="99048015">进阶“原力”?</text>
+<text id="99048016">进阶“诸神之怒”?</text>
+<text id="99048017">进阶“原力并射”?</text>
+<text id="99048018">进阶“神圣光柱”?</text>
+<text id="99048019">进阶“天使弹幕”?</text>
+<text id="99048020">进阶“幽灵骑士”?</text>
+<text id="99048021">进阶“幽灵弓箭手”?</text>
+<text id="99048022">进阶“略施恢复”?</text>
+<text id="99048023">进阶“恢复”?</text>
+<text id="99048024">进阶“中等恢复”?</text>
+<text id="99048025">进阶“大恢复”?</text>
+<text id="99048026">进阶“阳光疗愈”?</text>
+<text id="99048027">进阶“释放恢复”?</text>
+<text id="99048028">进阶“生命力涌现”?</text>
+<text id="99048029">进阶“光芒恩惠”?</text>
+<text id="99048030">进阶“阳光滋润”?</text>
+<text id="99048031">进阶“治愈眼泪”?</text>
+<text id="99048032">进阶“雷电剑”?</text>
+<text id="99048033">进阶“祝福武器”?</text>
+<text id="99048034">进阶“暗月光剑”?</text>
+<text id="99048036">进阶“大魔力防护”?</text>
+<text id="99048037">进阶“金石之誓”?</text>
+<text id="99048038">进阶“寻求建言”?</text>
+<text id="99048039">进阶“毅力”?</text>
+<text id="99048040">进阶“惜别眼泪”?</text>
+<text id="99048041">进阶“返回”?</text>
+<text id="99048042">进阶格温妮弗的否认?</text>
+<text id="99049000">精心制作的精制雷电箭</text>
+<text id="99049001">精心制作的雷电波</text>
+<text id="99049002">精心制作的风暴矛</text>
+<text id="99049003">精心制作的追踪阳光之枪</text>
+<text id="99049004">精心制作的削弱愤怒雷电球</text>
+<text id="99049005">精心制作的愤怒光波</text>
+<text id="99049006">精心制作的迅捷神圣之矛</text>
+<text id="99049007">精心制作的阳光光柱</text>
+<text id="99049008">精心制作的阳光风暴</text>
+<text id="99049009">精心制作的多重天雷</text>
+<text id="99049010">精心制作的长效蓝色雷柱</text>
+<text id="99049011">精心制作的精制白教光环</text>
+<text id="99049012">精心制作的迅捷生命力涌现</text>
+<text id="99049013">精心制作的精制神箭</text>
+<text id="99049014">精心制作的追踪洛斯里克圣矛</text>
+<text id="99049015">精心制作的精制原力</text>
+<text id="99049016">精心制作的迅捷诸神之怒</text>
+<text id="99049017">精心制作的发怒</text>
+<text id="99049018">精心制作的多重光柱</text>
+<text id="99049019">精心制作的天使的惩罚</text>
+<text id="99049020">精心制作的多重幽灵骑士</text>
+<text id="99049021">精心制作的延长的幽灵弓箭手</text>
+<text id="99049022">精心制作的延长的略施恢复</text>
+<text id="99049023">精心制作的延长的恢复</text>
+<text id="99049024">精心制作的延长的中等恢复</text>
+<text id="99049025">精心制作的延长的大恢复</text>
+<text id="99049026">精心制作的延长的阳光疗愈</text>
+<text id="99049027">精心制作的延长的释放恢复</text>
+<text id="99049028">精心制作的长效生命力涌现</text>
+<text id="99049029">精心制作的长效光芒恩惠</text>
+<text id="99049030">精心制作的长效阳光滋润</text>
+<text id="99049031">精心制作的迅捷治愈眼泪</text>
+<text id="99049032">精心制作的阳光刀</text>
+<text id="99049033">精心制作的究极祝福武器</text>
+<text id="99049034">精心制作的究极暗月光剑</text>
+<text id="99049036">精心制作的究极魔力防护</text>
+<text id="99049037">精心制作的延长的金石之誓</text>
+<text id="99049038">精心制作的神圣恩赐</text>
+<text id="99049039">精心制作的长效毅力</text>
+<text id="99049040">精心制作的高级惜别眼泪</text>
+<text id="99049041">精心制作的精制返回</text>
+<text id="99049042">精心制作的格温妮弗的否认</text>
+<text id="99050000">精心制作的精制幽邃倒刺</text>
+<text id="99050001">幽邃溢流</text>
+<text id="99050002">削弱幽邃灵魂</text>
+<text id="99050003">迅捷灵魂沉淀物</text>
+<text id="99050004">精制幽邃汹涌</text>
+<text id="99050005">爆炸高潮</text>
+<text id="99050006">巨大痛苦深渊</text>
+<text id="99050007">精制黑暗刀刃</text>
+<text id="99050008">重型深渊刀刃</text>
+<text id="99050009">追踪者</text>
+<text id="99050010">诅咒暗珠</text>
+<text id="99050011">长效层层深渊</text>
+<text id="99050012">多重沉淀物激流</text>
+<text id="99050013">多重渴望沉淀物</text>
+<text id="99050014">黑横扫火焰</text>
+<text id="99050015">削弱黑火球弹</text>
+<text id="99050016">巨大黑色火焰散射</text>
+<text id="99050017">灼热黑色火焰遗迹</text>
+<text id="99050018">灼热黑色火焰</text>
+<text id="99050019">迅捷黑蛇</text>
+<text id="99050020">灼热悲痛火焰</text>
+<text id="99050021">强劲的黑暗之舞</text>
+<text id="99050022">灼热冥想</text>
+<text id="99050023">精制蚕食</text>
+<text id="99050024">侵蚀</text>
+<text id="99050025">迅捷朵丽丝的侵蚀</text>
+<text id="99050026">多重蜂群</text>
+<text id="99050027">长效猎命镰刀</text>
+<text id="99050028">格雷沃德剑</text>
+<text id="99050029">痛苦诅咒</text>
+<text id="99050030">精制死者活化</text>
+<text id="99050031">绝望回响</text>
+<text id="99050032">长效免疫</text>
+<text id="99050033">沉默的诅咒</text>
+<text id="99050034">究极黑色火焰弧</text>
+<text id="99050035">究极黑剑</text>
+<text id="99050036">究极辛辣之刃</text>
+<text id="99050037">究极脉动刀刃</text>
+<text id="99050038">长效麻痹</text>
+<text id="99050039">长效赎罪</text>
+<text id="99050040">无尽幽邃庇佑</text>
+<text id="99051000">进阶“幽邃倒刺”?</text>
+<text id="99051001">进阶“幽邃灵魂”?</text>
+<text id="99051002">进阶“巨大幽邃灵魂”?</text>
+<text id="99051003">进阶“巨大灵魂块”?</text>
+<text id="99051004">进阶“幽邃汹涌”?</text>
+<text id="99051005">进阶“高潮”?</text>
+<text id="99051006">进阶“痛苦深渊”?</text>
+<text id="99051007">进阶“黑暗刀刃”?</text>
+<text id="99051008">进阶“深渊刀刃”?</text>
+<text id="99051009">进阶“追踪者”?</text>
+<text id="99051010">进阶“暗珠”?</text>
+<text id="99051011">进阶“层层深渊”?</text>
+<text id="99051012">进阶“沉淀物激流”?</text>
+<text id="99051013">进阶“渴望沉淀物”?</text>
+<text id="99051014">进阶“黑色火球”?</text>
+<text id="99051015">进阶“黑色火球弹”?</text>
+<text id="99051016">进阶“黑色火焰散射”?</text>
+<text id="99051017">进阶“黑色火焰遗迹”?</text>
+<text id="99051018">进阶“黑焰”?</text>
+<text id="99051019">进阶“黑蛇”?</text>
+<text id="99051020">进阶“悲痛的火焰”?</text>
+<text id="99051021">进阶“黑暗之舞”?</text>
+<text id="99051022">进阶“回忆”?</text>
+<text id="99051023">进阶“蚕食”?</text>
+<text id="99051024">进阶“侵蚀”?</text>
+<text id="99051025">进阶“朵丽丝的侵蚀”?</text>
+<text id="99051026">进阶“吞噬蜂群”?</text>
+<text id="99051027">进阶“猎命镰刀”?</text>
+<text id="99051028">进阶“格雷沃德剑舞”?</text>
+<text id="99051029">进阶“痛苦誓言”?</text>
+<text id="99051030">进阶“死者活化”?</text>
+<text id="99051031">进阶“绝望回响”?</text>
+<text id="99051032">进阶“免疫”?</text>
+<text id="99051033">进阶“沉默禁令”?</text>
+<text id="99051034">进阶“黑色火焰弧”?</text>
+<text id="99051035">进阶“黑剑”?</text>
+<text id="99051036">进阶“辛辣之刃”?</text>
+<text id="99051037">进阶“脉动刀刃”?</text>
+<text id="99051038">进阶“长效麻痹”?</text>
+<text id="99051039">进阶“长效赎罪”?</text>
+<text id="99051040">进阶“无尽的幽邃庇佑”?</text>
+<text id="99052000">精心制作的精制深色倒刺</text>
+<text id="99052001">精心制作的深色溢流</text>
+<text id="99052002">精心制作的削弱幽邃灵魂</text>
+<text id="99052003">精心制作的迅捷灵魂块</text>
+<text id="99052004">精心制作的精制汹涌Deep</text>
+<text id="99052005">精心制作的爆炸高潮</text>
+<text id="99052006">精心制作的巨大痛苦深渊</text>
+<text id="99052007">精心制作的精制黑暗刀刃</text>
+<text id="99052008">精心制作的重型深渊刀刃</text>
+<text id="99052009">精心制作的追踪者</text>
+<text id="99052010">精心制作的诅咒暗珠</text>
+<text id="99052011">精心制作的长效层层深渊</text>
+<text id="99052012">精心制作的多重沉淀物激流</text>
+<text id="99052013">精心制作的多重渴望沉淀物</text>
+<text id="99052014">精心制作的黑色横扫火焰</text>
+<text id="99052015">精心制作的削弱黑火球弹</text>
+<text id="99052016">精心制作的巨大黑色火焰散射</text>
+<text id="99052017">精心制作的灼热黑色火焰遗迹</text>
+<text id="99052018">精心制作的灼热黑色火焰</text>
+<text id="99052019">精心制作的迅捷黑蛇</text>
+<text id="99052020">精心制作的灼热悲痛火焰</text>
+<text id="99052021">精心制作的强劲的黑暗之舞</text>
+<text id="99052022">精心制作的灼热回忆</text>
+<text id="99052023">精心制作的精制蚕食</text>
+<text id="99052024">精心制作的侵蚀</text>
+<text id="99052025">精心制作的迅捷朵丽丝的侵蚀</text>
+<text id="99052026">精心制作的多重蜂群</text>
+<text id="99052027">精心制作的长效猎命镰刀</text>
+<text id="99052028">精心制作的格雷沃德剑</text>
+<text id="99052029">精心制作的痛苦诅咒</text>
+<text id="99052030">精心制作的精制死者活化</text>
+<text id="99052031">精心制作的绝望回响</text>
+<text id="99052032">精心制作的长效免疫</text>
+<text id="99052033">精心制作的沉默的诅咒</text>
+<text id="99052034">精心制作的究极黑色火焰弧</text>
+<text id="99052035">精心制作的究极黑剑</text>
+<text id="99052036">精心制作的究极辛辣之刃</text>
+<text id="99052037">精心制作的究极脉动刀刃</text>
+<text id="99052038">精心制作的长效麻痹</text>
+<text id="99052039">精心制作的长效赎罪</text>
+<text id="99052040">精心制作的无尽幽邃庇佑</text>
+<text id="99060000">配置旅程</text>
+<text id="99060001">概括</text>
+<text id="99060002">启用</text>
+<text id="99060003">禁用</text>
+<text id="99060004">跳过旅程</text>
+<text id="99060005">开始旅程</text>
+<text id="99060006">当前配置</text>
+<text id="99060007">开始旅程</text>
+<text id="99060008">起始位置</text>
+<text id="99060009">修改旅程</text>
+<text id="99060010">标准模式</text>
+<text id="99060011">流浪者模式</text>
+<text id="99060012">神话模式</text>
+<text id="99060013">挑战模式</text>
+<text id="99060014">探险家模式</text>
+<text id="99060020">标准模式应用以下效果：
+- 无</text>
+<text id="99060021">流浪者模式应用以下效果：
+- 无法再强化武器和盾牌。
+- 首领在第一次被击杀时会给予永久性的小幅伤害提升。</text>
+<text id="99060022">神话模式应用以下效果：
+- 无法再强化武器和盾牌。
+- 世界上有更多的敌人。
+- 吸收减少33%。
+- 将辅助抵抗力降低33%。</text>
+<text id="99060023">挑战模式应用以下效果：
+- 您将面临由每个Boss组成的挑战。
+- 每个Boss都会掉落一个武器、盔甲或饰品。
+- 在传火祭祀场花代币购买。
+- 击败所有Boss以完成挑战。</text>
+<text id="99060024">探索者模式应用以下效果：
+- 吸收增加33%。
+- 给予被动血量再生，每秒恢复1%。
+- 提供30点耐力恢复。
+- 灵魂吸收减少25%。
+- 使大熊座的挑战奖励无效。
+- 大熊座无法升级饰品。</text>
+<text id="99060030">灰烬墓地</text>
+<text id="99060031">无主墓地</text>
+<text id="99060032">古龙顶端</text>
+<text id="99060033">法兰要塞</text>
+<text id="99060034">卡萨斯地下墓地</text>
+<text id="99060035">冷冽谷的伊鲁席尔</text>
+<text id="99060036">罪业之都</text>
+<text id="99060037">妖王庭院</text>
+<text id="99060038">洛斯里克城</text>
+<text id="99060039">幽邃教堂</text>
+<text id="99060040">艾雷德尔的绘画世界</text>
+<text id="99060041">聚集地</text>
+<text id="99060042">环印城</text>
+<text id="99060043">随机</text>
+<text id="99060050">你将留在原地。</text>
+<text id="99060051">您将从无主墓地开始
+一旦你开始你的旅程。</text>
+<text id="99060052">您将从古龙顶端开始
+一旦你开始你的旅程。</text>
+<text id="99060053">您将从法兰要塞开始
+一旦你开始你的旅程。</text>
+<text id="99060054">您将从卡萨斯地下墓地开始
+一旦你开始你的旅程。</text>
+<text id="99060055">您将从冷冽谷的伊鲁席尔开始
+一旦你开始你的旅程。</text>
+<text id="99060056">你将从罪恶之都开始
+一旦你开始你的旅程。</text>
+<text id="99060057">您将从妖王庭院开始
+一旦你开始你的旅程。</text>
+<text id="99060058">您将从洛斯里克城开始
+一旦你开始你的旅程。</text>
+<text id="99060059">您将从幽邃教堂开始
+一旦你开始你的旅程。</text>
+<text id="99060060">您将从艾雷德尔的绘画世界开始
+一旦你开始你的旅程。</text>
+<text id="99060061">您将从聚集地开始
+一旦你开始你的旅程。</text>
+<text id="99060062">您将从环印城开始
+一旦你开始你的旅程。</text>
+<text id="99060063">您将从随机位置开始
+一旦你开始你的旅程。</text>
+<text id="99060100">与boss交涉，否则你的进度将被重置。</text>
+<text id="99060101">立即与boss互动！</text>
+<text id="99060110">进入挑战</text>
+<text id="99060120">挑战类型</text>
+<text id="99060125">切换挑战类型</text>
+<text id="99060126">挑战设置</text>
+<text id="99060127">浏览库存</text>
+<text id="99060128">启用DLC Boss</text>
+<text id="99060129">禁用DLC Boss</text>
+<text id="99060130">DLC Boss 将出现在挑战中</text>
+<text id="99060131">DLC Boss 将不在出现在挑战中</text>
+<text id="99060150">按序</text>
+<text id="99060151">随机</text>
+<text id="99060152">无尽</text>
+<text id="99060153">逆序</text>
+<text id="99060154">逆序无尽</text>
+<text id="99060155">手动选择</text>
+<text id="99060160">挑战现在将由设定顺序的Boss组成。
+
+击败所有Boss以完成挑战。</text>
+<text id="99060161">挑战现在将由随机顺序的Boss组成。
+
+每次boss都会随机。一旦被打败，
+一个boss将不再出现在可用boss池中。
+
+至少击败所有Boss一次以完成挑战。</text>
+<text id="99060162">挑战现在将由设定顺序的Boss组成
+没有Boss之间的休息。
+
+返回传火祭祀场将重置进度。
+
+至少击败所有Boss一次以完成挑战。</text>
+<text id="99060163">挑战现在将由颠倒顺序的Boss组成。
+
+至少击败所有Boss一次以完成挑战。</text>
+<text id="99060164">挑战现在将由颠倒顺序的Boss组成
+没有Boss之间的休息。
+
+返回传火祭祀场重置进度。
+
+至少击败所有Boss一次以完成挑战。</text>
+<text id="99060165">挑战现在将包含Boss选择，
+允许您选择要打的Boss。
+
+一旦boss被击败，他们将不再可选。
+
+至少击败所有Boss一次以完成挑战。</text>
+<text id="99060200">古达老师</text>
+<text id="99060201">冷冽谷的玻尔多</text>
+<text id="99060202">诅咒大树</text>
+<text id="99060203">结晶老者</text>
+<text id="99060204">幽邃教主</text>
+<text id="99060205">深渊监视者</text>
+<text id="99060206">霸王沃尼尔</text>
+<text id="99060207">老恶魔王</text>
+<text id="99060208">教宗沙力万</text>
+<text id="99060209">艾尔德里奇</text>
+<text id="99060210">巨人尤姆</text>
+<text id="99060211">冷冽谷的舞娘</text>
+<text id="99060212">妖王欧斯罗艾斯</text>
+<text id="99060213">猎龙铠甲</text>
+<text id="99060214">古老飞龙</text>
+<text id="99060215">无名王者</text>
+<text id="99060216">英雄古达</text>
+<text id="99060217">孪生王子</text>
+<text id="99060218">薪王化身</text>
+<text id="99060219">修女芙莉德</text>
+<text id="99060220">洛德兰残余</text>
+<text id="99060221">恶魔王子</text>
+<text id="99060222">吞噬黑暗的米狄尔</text>
+<text id="99060223">奴隶骑士盖尔</text>
+<text id="99060224">半光</text>
+<text id="99060225">英维尔公主</text>
+<text id="99060226">大教堂守护者</text>
+<text id="99060227">镜子骑士</text>
+<text id="99060228">阿波尔</text>
+<text id="99060229">多提努斯王子</text>
+<text id="99060230">三个臭皮匠</text>
+<text id="99060231">扭曲骑士</text>
+<text id="99060232">堕落的守护者</text>
+<text id="99060233">楔形石恶魔</text>
+<text id="99060234">掠夺者</text>
+<text id="99060300">进阶</text>
+<text id="99060301">魔法</text>
+<text id="99060302">咒术</text>
+<text id="99060303">奇迹</text>
+<text id="99060304">巫术</text>
+<text id="99060400">分解材料</text>
+<text id="99060410">楔形石原盘</text>
+<text id="99060411">楔形石块</text>
+<text id="99060412">楔形石大碎片</text>
+<text id="99060420">将楔形石原盘分解成5个楔形石块?</text>
+<text id="99060421">将楔形石块分解成5个楔形石大碎片?</text>
+<text id="99060422">将楔形石大碎片分解成5个楔形石碎片?</text>
+<text id="99060430">被分解的材料</text>
+<text id="99061000">天赋</text>
+<text id="99061001">概括</text>
+<text id="99061002">启用</text>
+<text id="99061003">禁用</text>
+<text id="99061011">集中力</text>
+<text id="99061012">持久力</text>
+<text id="99061013">体力</text>
+<text id="99061014">力气</text>
+<text id="99061015">敏捷</text>
+<text id="99061016">智力</text>
+<text id="99061017">信仰</text>
+<text id="99061018">运气</text>
+<text id="99061021">集中力精通提供以下效果：
+- 将被动专注值恢复增加到每秒15。</text>
+<text id="99061022">持久力精通提供以下效果：
+- 将免疫所有非致命坠落伤害。</text>
+<text id="99061023">体力精通提供以下效果：
+- 将每9秒获得100点攻击偏转，持续3秒。</text>
+<text id="99061024">力气精通提供以下效果：
+- 将最大设备负载提高25%。</text>
+<text id="99061025">敏捷精通提供以下效果：
+- 将减少25%的武器耐力消耗。</text>
+<text id="99061026">智力精通提供以下效果：
+-专注值再生不再被任何近战攻击暂停。</text>
+<text id="99061027">信仰精通提供以下效果：
+- 将恢复血量的效果翻倍。</text>
+<text id="99061028">运气精通提供以下效果：
+- 任何攻击都有5%的几率造成双倍伤害。</text>
+<text id="99061031">你未达到99集中力.</text>
+<text id="99061032">你未达到99持久力.</text>
+<text id="99061033">你未达到99体力.</text>
+<text id="99061034">你未达到99力气.</text>
+<text id="99061035">你未达到99敏捷.</text>
+<text id="99061036">你未达到99智力.</text>
+<text id="99061037">你未达到99信仰.</text>
+<text id="99061038">你未达到99运气.</text>
+<text id="99061041">您已启用精通集中力.</text>
+<text id="99061042">您已启用精通持久力.</text>
+<text id="99061043">您已启用精通体力.</text>
+<text id="99061044">您已启用精通力气.</text>
+<text id="99061045">您已启用精通敏捷.</text>
+<text id="99061046">您已启用精通智力.</text>
+<text id="99061047">您已启用精通信仰.</text>
+<text id="99061048">您已启用精通运气.</text>
+<text id="99061050">禁用.</text>
+<text id="99061100">游魂</text>
+<text id="99061101">游魂对你有显着影响，造成以下影响：
+- 最大血量减少5%。
+- 将黑暗伤害提高10%。
+- 将黑暗吸收提高10%。
+
+此效果在99虚空时最多可叠加10次。
+</text>
+<text id="99062000">协议</text>
+<text id="99062001">加强契约</text>
+<text id="99062002">对誓约的奉献增加了。</text>
+<text id="99062003">购买道具</text>
+<text id="99062004">加强契约关系?</text>
+<text id="99062005">你必须先装备契约道具</text>
+<text id="99062100">你缺少10约定之证</text>
+<text id="99062101">你缺少20约定之证</text>
+<text id="99062102">你缺少30约定之证</text>
+<text id="99062103">你缺少50约定之证</text>
+<text id="99062110">你缺少10狼血箭草</text>
+<text id="99062111">你缺少20狼血箭草</text>
+<text id="99062112">你缺少30狼血箭草</text>
+<text id="99062113">你缺少50狼血箭草</text>
+<text id="99062120">你缺少10人心沉淀物</text>
+<text id="99062121">你缺少20人心沉淀物</text>
+<text id="99062122">你缺少30人心沉淀物</text>
+<text id="99062123">你缺少50人心沉淀物</text>
+<text id="99062130">你缺少10太阳徽章</text>
+<text id="99062131">你缺少20太阳徽章</text>
+<text id="99062132">你缺少30太阳徽章</text>
+<text id="99062133">你缺少50太阳徽章</text>
+<text id="99062140">你缺少10枷锁脊椎骨</text>
+<text id="99062141">你缺少20枷锁脊椎骨</text>
+<text id="99062142">你缺少30枷锁脊椎骨</text>
+<text id="99062143">你缺少50枷锁脊椎骨</text>
+<text id="99062150">你缺少10遗失的饰品</text>
+<text id="99062151">你缺少20遗失的饰品</text>
+<text id="99062152">你缺少30遗失的饰品</text>
+<text id="99062153">你缺少50遗失的饰品</text>
+<text id="99062160">你缺少10火种</text>
+<text id="99062161">你缺少20火种</text>
+<text id="99062162">你缺少30火种</text>
+<text id="99062163">你缺少50火种</text>
+<text id="99062170">你缺少10发青舌头</text>
+<text id="99062171">你缺少20发青舌头</text>
+<text id="99062172">你缺少30发青舌头</text>
+<text id="99062173">你缺少50发青舌头</text>
+<text id="99062180">你缺少10费莲诺尔枪饰</text>
+<text id="99062181">你缺少20费莲诺尔枪饰</text>
+<text id="99062182">你缺少30费莲诺尔枪饰</text>
+<text id="99062183">你缺少50费莲诺尔枪饰</text>
+<text id="99062190">你缺少10结晶碎片</text>
+<text id="99062191">你缺少20结晶碎片</text>
+<text id="99062192">你缺少30结晶碎片</text>
+<text id="99062193">你缺少50结晶碎片</text>
+<text id="99062200">你缺少10深渊碎片</text>
+<text id="99062201">你缺少20深渊碎片</text>
+<text id="99062202">你缺少30深渊碎片</text>
+<text id="99062203">你缺少50深渊碎片</text>
+<text id="99062210">你缺少10神圣碎片</text>
+<text id="99062211">你缺少20神圣碎片</text>
+<text id="99062212">你缺少30神圣碎片</text>
+<text id="99062213">你缺少50神圣碎片</text>
+<text id="99062220">你缺少10龙眼</text>
+<text id="99062221">你缺少20龙眼</text>
+<text id="99062222">你缺少30龙眼</text>
+<text id="99062223">你缺少50龙眼</text>
+<text id="99062230">你缺少10感恩灵魂</text>
+<text id="99062231">你缺少20感恩灵魂</text>
+<text id="99062232">你缺少30感恩灵魂</text>
+<text id="99062233">你缺少50感恩灵魂</text>
+<text id="99062240">你缺少10敬畏石</text>
+<text id="99062241">你缺少20敬畏石</text>
+<text id="99062242">你缺少30敬畏石</text>
+<text id="99062243">你缺少50敬畏石</text>
+<text id="99062250">你缺少10老鼠尾</text>
+<text id="99062251">你缺少20老鼠尾</text>
+<text id="99062252">你缺少30老鼠尾</text>
+<text id="99062253">你缺少50老鼠尾</text>
+<text id="99062260">你缺少10仪式香</text>
+<text id="99062261">你缺少20仪式香</text>
+<text id="99062262">你缺少30仪式香</text>
+<text id="99062263">你缺少50仪式香</text>
+<text id="99070000">祈福以获得能力</text>
+<text id="99070001">收获</text>
+<text id="99070002">提取龙之精华</text>
+<text id="99070100">你的生命力得到了增强!</text>
+<text id="99070101">你的专注得到了增强!</text>
+<text id="99070102">你的耐力得到了增强!</text>
+<text id="99070103">你的伤害得到了增强!</text>
+<text id="99070104">你的吸收得到了增强!</text>
+<text id="99070105">你的耐力回复得到了增强!</text>
+<text id="99070200">你被诅咒，生命力下降!</text>
+<text id="99070201">你被诅咒，专注下降!</text>
+<text id="99070202">你被诅咒，耐力下降!</text>
+<text id="99070203">你被诅咒，伤害下降!</text>
+<text id="99070204">你被诅咒，吸收下降!</text>
+<text id="99070205">你被诅咒，耐力回复下降!</text>
+<text id="99070300">你收获了朝圣者的遗骸，灵魂已得到增加。</text>
+<text id="99071000">召唤佣兵吕埃</text>
+<text id="99071010">佣兵吕埃被击败</text>
+<text id="99071100">召唤刺客玛德隆</text>
+<text id="99071110">刺客玛德隆被击败</text>
+<text id="99071120">刺客玛德隆背叛了你！</text>
+<text id="99071200">召唤剑士</text>
+<text id="99071210">剑士被征服</text>
+<text id="99080000">掠夺者向你招手……</text>
+<text id="99090000">开启记忆</text>
+<text id="99090001">配置记忆</text>
+<text id="99090010">开始记忆</text>
+<text id="99090011">简单难度</text>
+<text id="99090012">正常难度</text>
+<text id="99090013">困难难度</text>
+<text id="99090014">炼狱难度</text>
+<text id="99090015">地狱难度</text>
+<text id="99090021">记忆会很弱，很可怜。
+
+灵魂吸收不会增加。
+
+完成记忆将奖励楔形石碎片。</text>
+<text id="99090022">记忆需要专注，但它很容易赢得。
+
+灵魂吸收增加50%。
+
+完成记忆将奖励大楔形石碎片。</text>
+<text id="99090023">记忆将挑战你的技能。
+
+灵魂吸收增加100%。
+
+完成记忆将奖励楔形石块。</text>
+<text id="99090024">记忆将彻底挑战您的技能并惩罚任何错误。
+
+灵魂吸收提高150%。
+
+完成记忆将奖楔形石原盘。</text>
+<text id="99090025">除了最顽强的玩家之外，所有人都几乎不可能获得记忆。
+
+灵魂吸收提高200%。
+
+完成记忆将奖励原始碎片。</text>
+<text id="99091000">法兰移位</text>
+<text id="99091010">城门升起</text>
+</entries>
+</fmg>

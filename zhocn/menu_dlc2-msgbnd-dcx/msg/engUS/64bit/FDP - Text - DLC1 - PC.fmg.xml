@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4201">您没有此DLC的许可证。
+返回标题菜单。</text>
+<text id="401116">无法找到所需的DLC：
+
+&lt;?requiredDlcList?&gt;
+
+在重新安装DLC之前，无法加载此配置文件。</text>
+<text id="401117">艾雷德尔之烬</text>
+<text id="401300">%null%</text>
+<text id="401301">%null%</text>
+<text id="401302">无法正确加载DLC。
+无法在游戏中使用。</text>
+<text id="401303">%null%</text>
+<text id="401304">%null%</text>
+<text id="401305">%null%</text>
+<text id="401306">%null%</text>
+<text id="401307">%null%</text>
+<text id="401308">%null%</text>
+<text id="401309">%null%</text>
+<text id="401310">安装了新的DLC。
+返回标题菜单才能使用。
+选择“确定”返回标题菜单。</text>
+<text id="506030">与 Steam 断开连接。
+无法进入亡灵比赛。</text>
+</entries>
+</fmg>
