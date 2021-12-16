@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10090">成为“教堂之枪”的誓约人</text>
+<text id="20013">提升精力的恢复速度</text>
+<text id="20014">%null%</text>
+<text id="20015">%null%</text>
+<text id="20016">%null%</text>
+<text id="20017">%null%</text>
+<text id="20018">%null%</text>
+<text id="20019">%null%</text>
+<text id="20020">%null%</text>
+<text id="20021">%null%</text>
+<text id="20022">%null%</text>
+<text id="20023">提升装备重量上限</text>
+<text id="20024">%null%</text>
+<text id="20025">%null%</text>
+<text id="20026">%null%</text>
+<text id="20027">%null%</text>
+<text id="20028">%null%</text>
+<text id="20029">%null%</text>
+<text id="20030">%null%</text>
+<text id="20031">%null%</text>
+<text id="20032">%null%</text>
+<text id="20033">能提升血量、精力与装备重量上限</text>
+<text id="20034">%null%</text>
+<text id="20035">%null%</text>
+<text id="20036">%null%</text>
+<text id="20037">%null%</text>
+<text id="20038">%null%</text>
+<text id="20039">%null%</text>
+<text id="20040">%null%</text>
+<text id="20041">%null%</text>
+<text id="20042">%null%</text>
+<text id="20043">提升物理属性减伤率</text>
+<text id="20193">提升强韧度</text>
+<text id="20393">提升寻宝能力</text>
+<text id="20394">%null%</text>
+<text id="20395">%null%</text>
+<text id="20396">%null%</text>
+<text id="20397">%null%</text>
+<text id="20398">%null%</text>
+<text id="20399">%null%</text>
+<text id="20400">%null%</text>
+<text id="20401">%null%</text>
+<text id="20402">%null%</text>
+<text id="20403">增加打倒敌人时吸收的灵魂量</text>
+<text id="20593">打倒敌人时能恢复血量</text>
+</entries>
+</fmg>

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2311413">所有参战者已到齐
+即将移动至竞技场</text>
+<text id="2341413">请静待所有参战者到齐。
+共有&lt;?matchTotalCount?&gt;名参战。
+再等待&lt;?matchRemainingCount?&gt;名。</text>
+<text id="2620413">参战者 &lt;?deadName?&gt; 已被击倒</text>
+<text id="2621413">你已被击倒
+将复活，再次参战</text>
+<text id="2630413">参战者 &lt;?leaveName?&gt; 已逃离竞技</text>
+<text id="2631413">已逃离这场竞技</text>
+<text id="2640413">已弃权</text>
+<text id="2641413">参战者 &lt;?leaveName?&gt; 已弃权</text>
+<text id="2650413">你已被击倒
+将复活，再次参战</text>
+<text id="2651413">&lt;?roleName?&gt; 已击倒 &lt;?deadName?&gt;</text>
+<text id="2670413">确定要弃权吗？</text>
+<text id="2671413">要逃离这场竞技吗？</text>
+<text id="2680413">因为参赛者全数逃离，将结束竞技</text>
+<text id="2681413">因为弃权，将结束竞技</text>
+<text id="2700413">&lt;?roleName?&gt; 与 &lt;?leaveName?&gt; 已回到原来的世界</text>
+<text id="2701313">联机出现问题。
+将回到原来的世界。</text>
+<text id="2702413">&lt;?roleName?&gt; 与 &lt;?leaveName?&gt; 已回到原来的世界</text>
+<text id="2731413">&lt;?roleName?&gt; 已击倒 &lt;?deadName?&gt;</text>
+<text id="2741000">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741001">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741002">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741100">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741101">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741102">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741200">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741201">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741202">火之宿主已离开此区域。将回到原来的世界。</text>
+<text id="2741304">青教誓约人已离开此区域。将回到原来的世界。</text>
+<text id="2741305">%null%</text>
+<text id="2741306">进犯森林者已离开此区域。将回到原来的世界。</text>
+<text id="2741307">进犯废弃教堂者已离开此区域。将回到原来的世界。</text>
+<text id="2741308">青教誓约人已离开此区域。将回到原来的世界。</text>
+<text id="2741500">召唤者已离开此区域。将回到原来的世界。</text>
+<text id="2741501">召唤者已离开此区域。将回到原来的世界。</text>
+<text id="2741502">召唤者已离开此区域。将回到原来的世界。</text>
+<text id="2751413">竞技开场失败。将回到原来的世界。</text>
+<text id="2760413">所有参战者已回到原来的世界
+将回到原来的世界</text>
+<text id="10010201">交谈</text>
+<text id="10010550">放倒树木</text>
+<text id="10010551">转动旋柄</text>
+<text id="10010844">要使用&lt;?gdsparam@744?&gt;吗？</text>
+<text id="10010884">已使用&lt;?gdsparam@2155?&gt;</text>
+<text id="10012500">这个灵体将在稍远的地点，过一段时间后才会被召唤
+确定要召唤 奴隶骑士盖尔 吗？</text>
+<text id="10012520">灵体 奴隶骑士盖尔 将在稍远的地点，过一段时间后被召唤</text>
+<text id="10012600">已召唤灵体 奴隶骑士盖尔</text>
+<text id="10012601">%null%</text>
+<text id="10012602">灵体 奴隶骑士盖尔 已死亡</text>
+<text id="10012603">%null%</text>
+<text id="10012604">%null%</text>
+<text id="10012605">%null%</text>
+<text id="10012606">%null%</text>
+<text id="10012607">%null%</text>
+<text id="10012608">%null%</text>
+<text id="10012609">%null%</text>
+<text id="10012610">已召唤灵体 奴隶骑士盖尔</text>
+<text id="10012611">%null%</text>
+<text id="10012612">灵体 奴隶骑士盖尔 已死亡</text>
+<text id="10012700">遭到发狂暗灵 “尸斑咒术师”丹涅尔 入侵！</text>
+<text id="10012701">发狂暗灵 “尸斑咒术师”丹涅尔 已死亡</text>
+<text id="10012702">发狂暗灵 “尸斑咒术师”丹涅尔已回到原本的世界</text>
+<text id="10020000">开始竞技，
+限制时间&lt;?matchDuel_TotalTime?&gt;秒</text>
+<text id="10020001">开始竞技，
+限制时间&lt;?matchDM2_TotalTime?&gt;秒</text>
+<text id="10020002">开始竞技，
+限制时间&lt;?matchDM4_TotalTime?&gt;秒</text>
+<text id="10020003">开始竞技，
+限制时间&lt;?matchDM6_TotalTime?&gt;秒</text>
+<text id="10020004">开始竞技，
+限制时间&lt;?matchTM2vs2_TotalTime?&gt;秒</text>
+<text id="10020005">开始竞技，
+限制时间&lt;?matchTM3vs3_TotalTime?&gt;秒</text>
+<text id="10020006">%null%</text>
+<text id="10020007">%null%</text>
+<text id="10020008">%null%</text>
+<text id="10020009">%null%</text>
+<text id="10020010">时间剩下&lt;?matchDuel_SecondHalfTime?&gt;秒</text>
+<text id="10020011">时间剩下&lt;?matchDM2_SecondHalfTime?&gt;秒</text>
+<text id="10020012">时间剩下&lt;?matchDM4_SecondHalfTime?&gt;秒</text>
+<text id="10020013">时间剩下&lt;?matchDM6_SecondHalfTime?&gt;秒</text>
+<text id="10020014">时间剩下&lt;?matchTM2vs2_SecondHalfTime?&gt;秒</text>
+<text id="10020015">时间剩下&lt;?matchTM3vs3_SecondHalfTime?&gt;秒</text>
+<text id="10020016">%null%</text>
+<text id="10020017">%null%</text>
+<text id="10020018">%null%</text>
+<text id="10020019">%null%</text>
+<text id="10020020">竞技结束</text>
+<text id="10020021">%null%</text>
+<text id="10020022">%null%</text>
+<text id="10020023">%null%</text>
+<text id="10020024">%null%</text>
+<text id="10020025">%null%</text>
+<text id="10020026">%null%</text>
+<text id="10020027">%null%</text>
+<text id="10020028">%null%</text>
+<text id="10020029">%null%</text>
+<text id="10020030">已在不死竞技中获得胜利
+将回到原来的世界</text>
+<text id="10020031">已在不死竞技中得到平手
+将回到原来的世界</text>
+<text id="10020032">已在不死竞技中败北
+将回到原来的世界</text>
+<text id="13000060">不死竞技仅能联机游玩</text>
+<text id="13000061">由于您重复发生多人联机时的非正当脱机
+已被隔绝与此世界的联系
+若无“白教之环，”则无法恢复联系</text>
+<text id="13000062">%null%</text>
+<text id="13000063">%null%</text>
+<text id="13000064">%null%</text>
+<text id="13000065">%null%</text>
+<text id="13000066">%null%</text>
+<text id="13000067">%null%</text>
+<text id="13000068">%null%</text>
+<text id="13000069">%null%</text>
+<text id="13000070">参加竞技时，无法选择</text>
+<text id="13000071">参加竞技时，无法选择</text>
+<text id="13000072">参加竞技时，无法选择</text>
+<text id="13002040">参加竞技时，无法选择</text>
+<text id="13005000">参加竞技时，无法选择</text>
+<text id="13010000">参加竞技时，无法选择</text>
+<text id="13014000">参加竞技时，无法选择</text>
+<text id="13016000">参加竞技时，无法选择</text>
+<text id="14051000">答应他的请求</text>
+<text id="14051001">拒绝</text>
+<text id="14054000">是灰烬</text>
+<text id="14054001">不是</text>
+<text id="14054002">是灰烬</text>
+<text id="14054003">不回答</text>
+<text id="15000340">燃烧&lt;?gdsparam@2153?&gt;</text>
+<text id="15000341">%null%</text>
+<text id="15000342">%null%</text>
+<text id="15000343">%null%</text>
+<text id="15000344">%null%</text>
+<text id="15000345">%null%</text>
+<text id="15000346">%null%</text>
+<text id="15000347">%null%</text>
+<text id="15000348">%null%</text>
+<text id="15000349">%null%</text>
+<text id="15000350">不死竞技</text>
+<text id="15011018">交出&lt;?gdsparam@2154?&gt;</text>
+</entries>
+</fmg>

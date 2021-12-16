@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="28501000">古式便服</text>
+<text id="28502000">紫布腕套</text>
+<text id="28503000">兜裆布</text>
+<text id="29500000">希拉头冠</text>
+<text id="29501000">希拉铠甲</text>
+<text id="29502000">希拉手套</text>
+<text id="29503000">希拉长裤</text>
+<text id="32000000">拉普头盔</text>
+<text id="32001000">拉普铠甲</text>
+<text id="32002000">拉普臂甲</text>
+<text id="32003000">拉普腿甲</text>
+<text id="63500000">环印骑士风帽</text>
+<text id="63501000">环印骑士铠甲</text>
+<text id="63502000">环印骑士臂甲</text>
+<text id="63503000">环印骑士腿甲</text>
+<text id="64500000">扭曲的人性</text>
+<text id="64501000">哈兰得铠甲</text>
+<text id="64502000">哈兰得臂甲</text>
+<text id="64503000">哈兰得腿甲</text>
+<text id="67500000">熔铁猎龙头盔</text>
+<text id="67501000">熔铁猎龙铠甲</text>
+<text id="67502000">熔铁猎龙臂甲</text>
+<text id="67503000">熔铁猎龙腿甲</text>
+<text id="68500000">说客白色头部</text>
+<text id="80500000">虚空头盔</text>
+<text id="80501000">虚空铠甲</text>
+<text id="80502000">虚空臂甲</text>
+<text id="80503000">虚空腿甲</text>
+<text id="81500000">沙之咒术师风帽</text>
+<text id="81501000">沙之咒术师外衣</text>
+<text id="81502000">沙之咒术师手套</text>
+<text id="81503000">沙之咒术师裙子</text>
+<text id="82500000">黑魔女帽子</text>
+<text id="82501000">黑魔女外衣</text>
+<text id="82502000">黑魔女腕套</text>
+<text id="82503000">黑魔女长裤</text>
+<text id="83500000">黑魔女面纱</text>
+<text id="84500000">覆眼面具</text>
+</entries>
+</fmg>

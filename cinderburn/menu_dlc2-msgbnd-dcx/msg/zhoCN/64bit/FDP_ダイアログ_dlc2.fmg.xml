@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="102004">放置的道具数量如果超过30个，较先放置的道具会开始消失
+您确定吗？</text>
+<text id="506013">在一定时间内，我方队伍的参战者未到齐
+故已中断配对</text>
+<text id="506014">竞技形式设定为对战，暗号通用范围设定为无限制时可以选择</text>
+<text id="506015">竞技形式设定为对战，已设定暗号时可以选择</text>
+</entries>
+</fmg>

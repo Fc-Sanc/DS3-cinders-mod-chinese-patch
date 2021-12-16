@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="315">费莲诺尔教堂守护者的投掷用武器，
+其薄刃具有刀尖平直的独特形状。
+
+消耗专注值之后，可以射出薄刃幻影。
+幻影会像受到牵引一般，朝敌人飞去。
+
+如今已人数稀少的守护者，
+是与教堂之枪携手，
+共同守护费莲诺尔公主永久安眠的守卫。
+</text>
+<text id="379">守护费莲诺尔公主安眠的教堂之枪
+完成使命的证明。
+
+黄金的装饰布，布面缀有受赐的嫩芽图纹。
+
+在过去，这是身为公主骑士的荣誉物品。
+据说会特别用于赞扬功绩，
+装饰在一字排开的仪式枪上。
+</text>
+<text id="600">%null%</text>
+<text id="601">%null%</text>
+<text id="602">%null%</text>
+<text id="603">%null%</text>
+<text id="604">%null%</text>
+<text id="605">%null%</text>
+<text id="606">%null%</text>
+<text id="607">%null%</text>
+<text id="608">%null%</text>
+<text id="609">%null%</text>
+<text id="610">%null%</text>
+<text id="611">%null%</text>
+<text id="612">%null%</text>
+<text id="613">%null%</text>
+<text id="614">%null%</text>
+<text id="615">%null%</text>
+<text id="616">%null%</text>
+<text id="617">%null%</text>
+<text id="618">%null%</text>
+<text id="619">%null%</text>
+<text id="620">巨人法官用于召唤的契约之证。
+
+能暂时召唤异端银骑士雷多。
+
+基本上与法官之间的契约，
+是出于某些缘故才会缔结而成，
+而且大多会被单方面要求履约。
+不过其中仍有鲜少是基于友谊成立的契约。
+
+此为基于友谊缔结的例证，
+也可能因此，唯独此证被流传下来。
+</text>
+<text id="621">%null%</text>
+<text id="622">%null%</text>
+<text id="623">%null%</text>
+<text id="624">%null%</text>
+<text id="625">%null%</text>
+<text id="626">%null%</text>
+<text id="627">%null%</text>
+<text id="628">%null%</text>
+<text id="629">%null%</text>
+<text id="630">%null%</text>
+<text id="631">%null%</text>
+<text id="632">%null%</text>
+<text id="633">%null%</text>
+<text id="634">%null%</text>
+<text id="635">%null%</text>
+<text id="636">%null%</text>
+<text id="637">%null%</text>
+<text id="638">%null%</text>
+<text id="639">%null%</text>
+<text id="640">%null%</text>
+<text id="641">%null%</text>
+<text id="642">%null%</text>
+<text id="643">%null%</text>
+<text id="644">%null%</text>
+<text id="645">%null%</text>
+<text id="646">%null%</text>
+<text id="647">%null%</text>
+<text id="648">%null%</text>
+<text id="649">%null%</text>
+<text id="650">联机游玩专用道具，
+据说是过去费莲诺尔公主的骑士们
+各自持有的仪式枪碎片。
+
+这正是“教堂之枪”的名称由来。
+
+当教堂之枪遇上真正棘手的对手时，
+使用此物后，可以唤起过往的气势，
+召唤出一字排开，指向天的仪式枪。
+</text>
+<text id="651">联机游玩专用道具，
+据说是过去费莲诺尔公主的骑士们
+各自持有的仪式枪碎片。
+
+其中黄金制的，会特别称之为圣枪的碎片，
+据说只托付给杰出的“枪。”
+
+当教堂之枪遇上真正棘手的对手时，
+使用此物后，可以唤起过往的气势，
+召唤出一字排开，指向天的仪式枪。
+</text>
+<text id="745">奴隶骑士盖尔的灵魂。
+
+其中一个带有力量的畸形灵魂。
+
+握碎后，短时间内大幅提升物理伤害。
+
+四处徘徊的奴隶骑士──红头巾的盖尔，
+他为了得到绘画世界用的颜料，
+进而寻找黑暗灵魂之血。
+他也心知肚明，因为自己不是英雄──
+有可能会受到黑暗灵魂侵蚀，再也无法回头。
+</text>
+<text id="746">恶魔王子的灵魂。
+
+其中一个带有力量的畸形灵魂。
+
+握碎后，短时间内大幅提升火焰伤害。
+
+恶魔们诞生自同一混沌，
+他们有许多共同分享的事物──
+比如王子的荣耀，以及那逐渐消逝的火焰。
+
+而最后一只残存的恶魔，
+将这些共有的事物再次彰显而出。
+</text>
+<text id="747">吞噬黑暗的米狄尔的灵魂。
+
+其中一个带有力量的畸形灵魂。
+
+握碎后，短时间内大幅提升暗伤害。
+
+古龙后裔的米狄尔受神扶养，
+因为其不朽性质，拥有永远吞噬黑暗的使命。
+就算神明早已消散而去，依然善尽使命。
+</text>
+<text id="2156">古代葛温大王的特使所用的小环旗。
+
+面对环状岩壁高举此物，搬运工将会前来。
+
+据说大王将末世所在的环印城，
+连同疼爱的幺女赠予得到黑暗灵魂的矮人。
+
+此为总有一天会前往迎接她的证明。
+</text>
+<text id="2157">背盖子的老妪骨灰。
+
+交给祭祀场的侍女，她就能准备新的商品。
+
+在聚集地里，四处遍布着没落的痕迹。
+老妪在过去，曾在名贵世家担任乳母。
+</text>
+<text id="2158">奴隶骑士盖尔，其生于虚无的黑暗灵魂之血。
+
+能变成艾雷德尔的“大小姐”
+用来画出绘画世界的颜料。
+
+盖尔在找到矮人群王后，
+发现群王的血液早已枯干，
+于是他便一口吞下黑暗灵魂。
+</text>
+<text id="2159">小型的无瑕半宝石。
+
+据说是过去用来点缀绿色嫩芽图纹的物品。
+
+战斗过后，教堂之枪得到的名誉物品，
+据说可以微幅提升被赋予的庇护。
+赋予额外的生命，耐力恢复，并在短时间内提高防御力。
+</text>
+<text id="10000">%null%</text>
+<text id="10001">%null%</text>
+<text id="10002">%null%</text>
+<text id="10003">%null%</text>
+<text id="10004">%null%</text>
+<text id="10005">%null%</text>
+<text id="10006">%null%</text>
+<text id="10007">%null%</text>
+<text id="10008">%null%</text>
+<text id="10009">%null%</text>
+<text id="10010">%null%</text>
+<text id="10011">%null%</text>
+<text id="10012">%null%</text>
+<text id="10013">%null%</text>
+<text id="10014">%null%</text>
+<text id="10015">%null%</text>
+<text id="10016">%null%</text>
+<text id="10017">%null%</text>
+<text id="10018">%null%</text>
+<text id="10019">%null%</text>
+<text id="10020">%null%</text>
+<text id="10021">%null%</text>
+<text id="10022">%null%</text>
+<text id="10023">%null%</text>
+<text id="10024">%null%</text>
+<text id="10025">%null%</text>
+<text id="10026">%null%</text>
+<text id="10027">%null%</text>
+<text id="10028">%null%</text>
+<text id="10029">%null%</text>
+<text id="10030">%null%</text>
+<text id="10100">%null%</text>
+<text id="10101">%null%</text>
+<text id="10102">%null%</text>
+<text id="10103">%null%</text>
+<text id="10104">%null%</text>
+<text id="10105">%null%</text>
+<text id="10106">%null%</text>
+<text id="10107">%null%</text>
+<text id="10108">%null%</text>
+<text id="10109">%null%</text>
+<text id="10110">%null%</text>
+<text id="10111">%null%</text>
+<text id="10112">%null%</text>
+<text id="10113">%null%</text>
+<text id="10114">%null%</text>
+<text id="10115">%null%</text>
+<text id="10116">%null%</text>
+<text id="10117">%null%</text>
+<text id="10118">%null%</text>
+<text id="10119">%null%</text>
+<text id="10120">%null%</text>
+<text id="10200">%null%</text>
+<text id="10201">%null%</text>
+<text id="10202">%null%</text>
+<text id="10203">%null%</text>
+<text id="10204">%null%</text>
+<text id="10205">%null%</text>
+<text id="10206">%null%</text>
+<text id="10207">%null%</text>
+<text id="10208">%null%</text>
+<text id="10209">%null%</text>
+<text id="10210">%null%</text>
+<text id="10211">%null%</text>
+<text id="10212">%null%</text>
+<text id="10213">%null%</text>
+<text id="10214">%null%</text>
+<text id="10215">%null%</text>
+<text id="10216">%null%</text>
+<text id="10217">%null%</text>
+<text id="10218">%null%</text>
+<text id="10219">%null%</text>
+<text id="10220">%null%</text>
+<text id="10221">%null%</text>
+<text id="10222">%null%</text>
+<text id="10223">%null%</text>
+<text id="10224">%null%</text>
+<text id="10225">%null%</text>
+<text id="10226">%null%</text>
+<text id="10227">%null%</text>
+<text id="10228">%null%</text>
+<text id="10229">%null%</text>
+<text id="10230">%null%</text>
+<text id="1376000">根据米狄尔的记忆深处，关于古老之剑的记忆，
+再以灵魂做出剑的形状，进行攻击的魔法。
+
+攻击时将带有光波。
+持续摆出攻击前的架势，能增加威力与速度。
+
+古老之剑也能以月光之名称呼，
+其样貌上与白龙希斯的月光有些差异。
+那可能是更加初始的记忆。
+</text>
+<text id="1604000">能射出沉积于幽邃许久的
+黑暗灵魂大块沉淀物的魔法。
+
+“幽邃灵魂”的最高阶魔法，造成50点诅咒伤害。
+
+据说从幽邃伏爬而出的濡湿人形，
+有时候会附身在大块沉淀物之上，
+那模样与人类十分相似。
+</text>
+<text id="2458000">沙之咒术师后裔──卓伊的咒术。
+
+能将火焰化为扇形，大动作横扫。
+
+如果连续使用，就能左右横扫。
+
+卓伊身为沙之咒术师也不例外，长得十分美丽，
+但不同的是，她的美并不带毒，
+因此成为身分卑微者的纤细女王。
+</text>
+<text id="2660000">恶魔王子在最后一刻点燃的火焰。
+
+能投掷混沌碎片的咒术。
+
+混沌碎片一经接触后，会猛烈沸腾，
+在瞬间收缩后，引发大爆炸。
+
+对恶魔来说，那是生命的碎片。
+</text>
+<text id="3509000">在神的时代，为数稀少的女骑士们使用的猎龙奇迹。
+
+拉满雷电弓之后，能射出雷电箭。
+
+与枪相比，射程距离更突出，
+据传足以从远方射穿龙的眼眸。
+所谓美谈，总会附带一些浮夸元素。
+</text>
+<text id="3557000">在洛斯里克的最后一刻发现的奇迹。
+
+能掷出光芒，恢复接触地点周围人物的血量。
+
+已淡忘阳光公主的疗愈及恩惠的人们，
+自行想象出她的身影，
+描绘出笨拙，但真挚的故事。
+</text>
+</entries>
+</fmg>

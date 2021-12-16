@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506000">确定以此设定参加不死竞技吗？</text>
+<text id="506001">请静待所有参战者到齐
+（共有&lt;?matchTotalCount?&gt;名参战，再等待&lt;?matchRemainingCount?&gt;名）</text>
+<text id="506002">所有参战者已到齐
+即将移动至竞技场</text>
+<text id="506003">%null%</text>
+<text id="506004">%null%</text>
+<text id="506005">%null%</text>
+<text id="506006">%null%</text>
+<text id="506007">%null%</text>
+<text id="506008">%null%</text>
+<text id="506009">%null%</text>
+<text id="506010">配对已中止</text>
+<text id="506011">配对已被中止</text>
+<text id="506012">要中止配对吗？</text>
+<text id="506013">%null%</text>
+<text id="506014">%null%</text>
+<text id="506015">%null%</text>
+<text id="506016">%null%</text>
+<text id="506017">%null%</text>
+<text id="506018">%null%</text>
+<text id="506019">%null%</text>
+<text id="506020">配对失败</text>
+<text id="506021">配对失败
+联机建立失败</text>
+<text id="506022">配对失败
+参加联机失败</text>
+<text id="506023">竞技结果登录失败
+
+如果要再次登录，请选择“是”
+
+不登录竞技结果继续游戏，请选择“否”</text>
+</entries>
+</fmg>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1376000">做出古老月光剑的形状，进行攻击</text>
+<text id="1604000">射出黑暗灵魂的大块沉淀物</text>
+<text id="2458000">将火焰化为扇形，大动作横扫</text>
+<text id="2660000">投掷混沌碎片，使其沸腾、爆炸</text>
+<text id="3509000">射出雷电箭</text>
+<text id="3557000">掷出光芒，恢复接触地点周围人物的血量</text>
+</entries>
+</fmg>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="21000">原属于卡利姆的"啮咬戒指"之一。
+
+提高对寒气的抵抗力100点，
+为右手武器注入冰霜，
+每次攻击造成冰冻伤害30点。
+
+芙莉德已不会再戴上这只戒指，
+因为绘画和它的冰冷，都已是她的归属。
+</text>
+<text id="21001">%null%</text>
+<text id="21002">%null%</text>
+<text id="21003">%null%</text>
+<text id="21004">%null%</text>
+<text id="21005">%null%</text>
+</entries>
+</fmg>

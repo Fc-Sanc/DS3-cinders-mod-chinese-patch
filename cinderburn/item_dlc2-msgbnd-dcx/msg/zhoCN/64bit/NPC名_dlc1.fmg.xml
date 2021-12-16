@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="26000">画家</text>
+<text id="27000">奴隶骑士盖尔</text>
+<text id="29000">骑士维赫勒</text>
+<text id="30000">王之刃</text>
+<text id="30001">猎龙者</text>
+<text id="30002">深渊行者</text>
+<text id="30003">鹰眼巨人</text>
+<text id="31000">“尸斑咒术师”丹涅尔</text>
+<text id="32000">鸦村的禁忌者</text>
+<text id="33000">白树女</text>
+<text id="34000">酣梦禁忌者</text>
+<text id="906010">艾雷德尔神父</text>
+<text id="906011">%null%</text>
+<text id="906012">%null%</text>
+<text id="906013">%null%</text>
+<text id="906014">%null%</text>
+<text id="906015">%null%</text>
+<text id="906016">%null%</text>
+<text id="906017">%null%</text>
+<text id="906018">%null%</text>
+<text id="906019">%null%</text>
+<text id="906020">芙莉德修女</text>
+<text id="906021">艾雷德尔神父与芙莉德</text>
+<text id="906022">黑焰芙莉德</text>
+<text id="906023">%null%</text>
+<text id="906024">%null%</text>
+<text id="906025">%null%</text>
+<text id="906026">%null%</text>
+<text id="906027">%null%</text>
+<text id="906028">%null%</text>
+<text id="906029">%null%</text>
+<text id="906030">守墓大狼</text>
+</entries>
+</fmg>
