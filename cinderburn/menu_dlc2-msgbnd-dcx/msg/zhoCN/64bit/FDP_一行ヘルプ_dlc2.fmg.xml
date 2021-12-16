@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506005">选择欲加入的对战队伍，暗号通用范围设定为无限制时可以选择</text>
+<text id="506006">选择对战的暗号配对范围，已设定暗号时可以选择</text>
+</entries>
+</fmg>

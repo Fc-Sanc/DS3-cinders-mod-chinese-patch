@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1313000">让右手武器带有寒气</text>
+<text id="1741000">散发极度低温的雾</text>
+<text id="2457000">放出能发射飞散火块的混沌火球</text>
+<text id="3556000">白色光环在撕裂敌人后，会回到施术者身边</text>
+</entries>
+</fmg>

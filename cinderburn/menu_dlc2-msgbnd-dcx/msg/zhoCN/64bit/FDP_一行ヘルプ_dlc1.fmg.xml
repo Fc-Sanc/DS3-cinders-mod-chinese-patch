@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="506000">选择竞技形式</text>
+<text id="506001">选择竞技场地</text>
+<text id="506002">编辑不死竞技专用的配对暗号，只有完全符合的玩家能成功配对</text>
+<text id="506003">参加不死竞技，开始配对</text>
+<text id="506004">中止配对</text>
+</entries>
+</fmg>

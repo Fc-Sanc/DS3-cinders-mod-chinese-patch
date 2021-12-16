@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="27000">奴隶骑士盖尔</text>
+<text id="37000">丧失记忆的拉普</text>
+<text id="38000">“费莲诺尔的骑士”希拉</text>
+<text id="39000">%null%</text>
+<text id="40000">背盖子的老妪</text>
+<text id="45000">“教堂之枪”星辰钟塔的玛利亚</text>
+<text id="46000">“沙之咒术师”卓伊</text>
+<text id="47000">银骑士雷多</text>
+<text id="48000">探寻禁忌</text>
+<text id="49000">呻吟骑士</text>
+<text id="890600">圣枪石碑</text>
+<text id="890700">解咒石碑</text>
+<text id="900218">教堂之枪</text>
+<text id="905020">洞底恶魔</text>
+<text id="905021">负伤恶魔</text>
+<text id="905022">恶魔王子</text>
+<text id="905023">恶魔王子</text>
+<text id="906200">奴隶骑士盖尔</text>
+<text id="906201">%null%</text>
+<text id="906202">%null%</text>
+<text id="906203">%null%</text>
+<text id="906204">%null%</text>
+<text id="906205">%null%</text>
+<text id="906206">%null%</text>
+<text id="906207">%null%</text>
+<text id="906208">%null%</text>
+<text id="906209">%null%</text>
+<text id="906210">吞噬黑暗的米狄尔</text>
+</entries>
+</fmg>

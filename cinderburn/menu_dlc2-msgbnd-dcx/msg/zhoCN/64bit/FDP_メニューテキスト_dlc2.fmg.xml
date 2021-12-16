@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="31361">使用道具时消耗的专注值</text>
+<text id="41004">教堂之枪</text>
+<text id="60027">成对特大剑</text>
+<text id="60151">成对大盾</text>
+<text id="70200">结晶刀刃</text>
+<text id="70201">碎步</text>
+<text id="70202">余火</text>
+<text id="70203">舍身剑</text>
+<text id="70204">回旋斩</text>
+<text id="70205">斩断</text>
+<text id="70206">居合</text>
+<text id="70207">唤岩</text>
+<text id="70208">余火</text>
+<text id="70209">洛斯里克军旗</text>
+<text id="70210">轮旋斩</text>
+<text id="70211">随兴狂王</text>
+<text id="70212">紧闭</text>
+<text id="70213">余火</text>
+<text id="70214">神怒箭</text>
+<text id="70215">连射</text>
+<text id="70216">源自幽邃的咏唱</text>
+<text id="70217">食粮树枝</text>
+<text id="70218">祈求恩泽</text>
+<text id="70219">龙的吐息</text>
+<text id="70220">龙吼</text>
+<text id="211112">聚集地</text>
+<text id="211113">环印城</text>
+<text id="211500">恶魔王子</text>
+<text id="211501">聚集地</text>
+<text id="211502">堆土塔残骸</text>
+<text id="211503">堆土塔残骸：内部</text>
+<text id="211504">洛斯里克残骸</text>
+<text id="211505">%null%</text>
+<text id="211506">%null%</text>
+<text id="211507">%null%</text>
+<text id="211508">%null%</text>
+<text id="211509">%null%</text>
+<text id="211510">费莲诺尔教堂</text>
+<text id="211511">吞噬黑暗的米狄尔</text>
+<text id="211512">王庙守卫</text>
+<text id="211513">环状墙内部</text>
+<text id="211514">环印城市街</text>
+<text id="211515">公墓</text>
+<text id="211516">%null%</text>
+<text id="211517">%null%</text>
+<text id="211518">%null%</text>
+<text id="211519">%null%</text>
+<text id="211520">奴隶骑士盖尔</text>
+<text id="211521">费莲诺尔寝房</text>
+<text id="331142">教堂之枪</text>
+<text id="331143">%null%</text>
+<text id="331144">%null%</text>
+<text id="331145">%null%</text>
+<text id="331146">%null%</text>
+<text id="331147">%null%</text>
+<text id="331148">侵扰安眠者</text>
+<text id="401002">Dark Souls™Ⅲ: The Fire Fades™ Edition &amp; ©2017 BANDAI NAMCO Entertainment Inc. / ©2011-2017 FromSoftware, Inc.</text>
+<text id="401331">THE RINGED CITY 环印城</text>
+<text id="401501">Dark Souls™ Ⅲ: The Fire Fades™ Edition在线服务用户协议</text>
+<text id="506105">参战队伍</text>
+<text id="506106">暗号通用范围</text>
+<text id="506304">圆形舞台</text>
+<text id="506600">无限制</text>
+<text id="506601">A队</text>
+<text id="506602">B队</text>
+<text id="506800">双方队伍</text>
+<text id="506801">仅限我方队伍</text>
+<text id="506900">以我方与敌方队伍共同设定的暗号进行配对</text>
+<text id="506901">我方队伍以此暗号
+而敌方队伍以不同暗号进行配对</text>
+</entries>
+</fmg>

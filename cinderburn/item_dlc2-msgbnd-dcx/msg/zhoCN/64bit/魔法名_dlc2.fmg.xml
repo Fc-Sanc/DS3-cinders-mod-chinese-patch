@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1376000">古老月光</text>
+<text id="1604000">大块灵魂沉淀物</text>
+<text id="2458000">火焰扇</text>
+<text id="2660000">沸腾混沌</text>
+<text id="3509000">雷电箭</text>
+<text id="3557000">释放恢复</text>
+</entries>
+</fmg>

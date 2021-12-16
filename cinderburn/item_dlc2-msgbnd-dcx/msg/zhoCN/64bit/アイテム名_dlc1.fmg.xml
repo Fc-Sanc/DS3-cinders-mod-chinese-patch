@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="744">芙莉德修女的灵魂</text>
+<text id="2153">王者遗骨</text>
+<text id="2154">骑士长的骨灰</text>
+<text id="2155">机关钥匙</text>
+<text id="1313000">冰冷武器</text>
+<text id="1741000">瞬间冻结</text>
+<text id="2457000">浮空混沌</text>
+<text id="3556000">白教光环</text>
+</entries>
+</fmg>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="4201">您没有游玩追加下载内容的权限
+将返回标题画面</text>
+<text id="401116">找不到必要的追加下载内容
+
+&lt;?requiredDlcList?&gt;
+
+在完成再次下载追加下载内容之前
+无法加载此角色档案</text>
+<text id="401117">艾雷德尔的灰烬</text>
+<text id="401300">%null%</text>
+<text id="401301">%null%</text>
+<text id="401302">追加下载内容加载失败
+无法在游戏中游玩</text>
+<text id="401303">%null%</text>
+<text id="401304">%null%</text>
+<text id="401305">%null%</text>
+<text id="401306">%null%</text>
+<text id="401307">%null%</text>
+<text id="401308">%null%</text>
+<text id="401309">%null%</text>
+<text id="401310">已安装新的追加下载内容
+如要游玩追加下载内容，必需返回标题画面
+如果要返回标题画面，请选择“确定”</text>
+</entries>
+</fmg>
